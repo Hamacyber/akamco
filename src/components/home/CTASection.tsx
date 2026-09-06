@@ -44,7 +44,7 @@ export function CTASection() {
               >
                 <div className="rounded-full border border-accent/30 bg-gradient-to-r from-accent/10 via-transparent to-accent/10 px-6 py-2 backdrop-blur-md">
                   <span className="text-xs font-semibold uppercase tracking-widest text-accent">
-                    Let's Get Started
+                    Let&apos;s Get Started
                   </span>
                 </div>
               </motion.div>
