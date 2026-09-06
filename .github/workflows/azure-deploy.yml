@@ -63,7 +63,7 @@ jobs:
       - name: Deploy to Azure App Service
         uses: azure/webapps-deploy@v3
         with:
-          app-name: 'akamco-technologies'
+          app-name: 'akamco-webapp2'
           slot-name: 'Production'
           package: .
 
