@@ -33,11 +33,34 @@ jobs:
         env:
           NODE_ENV: production
 
+      - name: Verify build output - Check .next directory
+        run: |
+          echo "=== Checking .next/server/font-manifest.json ==="
+          test -f .next/server/font-manifest.json && echo "✓ font-manifest.json EXISTS" || echo "✗ font-manifest.json MISSING"
+          echo ""
+          echo "=== Contents of .next/server ==="
+          ls -la .next/server/ | head -20
+          echo ""
+          echo "=== Contents of .next ==="
+          ls -la .next/ | head -20
+          echo ""
+          echo "=== .next directory size ==="
+          du -sh .next
+
       - name: Upload build artifact
         uses: actions/upload-artifact@v4
         with:
           name: node-app
-          path: .
+          path: |
+            .next
+            public
+            src
+            package.json
+            package-lock.json
+            next.config.js
+            tsconfig.json
+            .env.production
+            node_modules
           retention-days: 1
 
   deploy:
@@ -52,6 +75,20 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: node-app
+
+      - name: Verify artifact contents - Check .next directory
+        run: |
+          echo "=== Checking .next/server/font-manifest.json in artifact ==="
+          test -f .next/server/font-manifest.json && echo "✓ font-manifest.json EXISTS in artifact" || echo "✗ font-manifest.json MISSING in artifact"
+          echo ""
+          echo "=== Contents of .next/server in artifact ==="
+          ls -la .next/server/ | head -20
+          echo ""
+          echo "=== Working directory structure ==="
+          ls -la | grep -E "^\." 
+          echo ""
+          echo "=== .next directory size in artifact ==="
+          du -sh .next
 
       - name: Login to Azure
         uses: azure/login@v2
