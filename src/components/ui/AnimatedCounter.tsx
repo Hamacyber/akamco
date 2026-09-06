@@ -6,7 +6,7 @@ import { motion, useInView } from 'framer-motion';
 interface AnimatedCounterProps {
   value: number;
   suffix?: string;
-  label: string;
+  label?: string;
   duration?: number;
   variant?: 'light' | 'dark';
 }
@@ -73,9 +73,11 @@ export function AnimatedCounter({
         {count}
         <span className="text-accent">{suffix}</span>
       </div>
-      <p className="mt-1 text-sm font-semibold text-light-text dark:text-dark-text">
-        {label}
-      </p>
+      {label && (
+        <p className="mt-1 text-sm font-semibold text-light-text dark:text-dark-text">
+          {label}
+        </p>
+      )}
     </motion.div>
   );
 }
