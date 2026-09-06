@@ -33,34 +33,23 @@ jobs:
         env:
           NODE_ENV: production
 
-      - name: Verify build output - Check .next directory
+      - name: Verify build output - Immediately after npm run build
         run: |
-          echo "=== Checking .next/server/font-manifest.json ==="
-          test -f .next/server/font-manifest.json && echo "✓ font-manifest.json EXISTS" || echo "✗ font-manifest.json MISSING"
+          echo "=== STEP 1: Verify .next directory exists after npm run build ==="
+          test -f .next/server/font-manifest.json && echo "✓ .next/server/font-manifest.json EXISTS" || echo "✗ .next/server/font-manifest.json MISSING"
           echo ""
-          echo "=== Contents of .next/server ==="
-          ls -la .next/server/ | head -20
+          echo "=== .next directory listing ==="
+          ls -la .next
           echo ""
-          echo "=== Contents of .next ==="
-          ls -la .next/ | head -20
-          echo ""
-          echo "=== .next directory size ==="
-          du -sh .next
+          echo "=== .next/server directory listing ==="
+          ls -la .next/server
 
       - name: Upload build artifact
         uses: actions/upload-artifact@v4
         with:
           name: node-app
-          path: |
-            .next
-            public
-            src
-            package.json
-            package-lock.json
-            next.config.js
-            tsconfig.json
-            .env.production
-            node_modules
+          path: .
+          include-hidden-files: true
           retention-days: 1
 
   deploy:
@@ -76,19 +65,16 @@ jobs:
         with:
           name: node-app
 
-      - name: Verify artifact contents - Check .next directory
+      - name: Verify artifact contents - Immediately after download
         run: |
-          echo "=== Checking .next/server/font-manifest.json in artifact ==="
-          test -f .next/server/font-manifest.json && echo "✓ font-manifest.json EXISTS in artifact" || echo "✗ font-manifest.json MISSING in artifact"
+          echo "=== STEP 2: Verify .next directory exists after artifact download ==="
+          test -f .next/server/font-manifest.json && echo "✓ .next/server/font-manifest.json EXISTS in artifact" || (echo "✗ .next/server/font-manifest.json MISSING in artifact" && exit 1)
           echo ""
-          echo "=== Contents of .next/server in artifact ==="
-          ls -la .next/server/ | head -20
+          echo "=== .next directory listing from artifact ==="
+          ls -la .next
           echo ""
-          echo "=== Working directory structure ==="
-          ls -la | grep -E "^\." 
-          echo ""
-          echo "=== .next directory size in artifact ==="
-          du -sh .next
+          echo "=== .next/server directory listing from artifact ==="
+          ls -la .next/server
 
       - name: Login to Azure
         uses: azure/login@v2
