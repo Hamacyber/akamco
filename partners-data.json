@@ -1,0 +1,299 @@
+{
+  "partners": [
+    {
+      "id": "4c603a60-0230-40e8-8d05-ed29aace38d9",
+      "name": "Dell",
+      "description": "Dell Technologies is a global leader in IT infrastructure, offering servers, storage, and end-user computing solutions. Their products help organizations modernize data centers and drive digital transformation.",
+      "category": "Technology & Infrastructure",
+      "logo": "/images/partners/dell.png",
+      "order": 0
+    },
+    {
+      "id": "033e6828-8886-41cb-bc50-57b1ff1dfc9e",
+      "name": "Cisco",
+      "description": "Cisco is the world's leading provider of networking and cybersecurity solutions. Their routers, switches, and collaboration tools power secure, connected enterprises worldwide.",
+      "category": "Technology & Infrastructure",
+      "logo": "/images/partners/cisco.png",
+      "order": 1
+    },
+    {
+      "id": "16c218c1-7e2f-4018-bf1a-be010abc30b9",
+      "name": "Lenovo",
+      "description": "Lenovo delivers innovative laptops, desktops, and enterprise IT solutions, combining performance with reliability for businesses of all sizes.",
+      "category": "Technology & Infrastructure",
+      "logo": "/images/partners/lenovo.png",
+      "order": 2
+    },
+    {
+      "id": "bcd55ba3-64bf-4e7f-963a-3742ef619d0d",
+      "name": "HPE",
+      "description": "HPE specializes in enterprise IT, cloud computing, and networking solutions, enabling organizations to scale and innovate securely.",
+      "category": "Technology & Infrastructure",
+      "logo": "/images/partners/hpe.png",
+      "order": 3,
+      "logoDark": "/images/partners/778781-1771839615115.webp"
+    },
+    {
+      "id": "00791a82-7b1b-4248-a375-0e5ab09daed5",
+      "name": "Getac",
+      "description": "Getac manufactures rugged laptops and tablets designed for extreme environments, trusted by defense, manufacturing, and field service industries.",
+      "category": "Technology & Infrastructure",
+      "logo": "/images/partners/getac.png",
+      "order": 4
+    },
+    {
+      "id": "81335e15-ea86-4252-b9f8-54261122e6d2",
+      "name": "Ecom Instruments",
+      "description": "Ecom provides intrinsically safe mobile devices for hazardous areas, ensuring safety and communication in industries like oil & gas and mining.",
+      "category": "Technology & Infrastructure",
+      "logo": "/images/partners/ecom-instruments-logo-1771841015228.webp",
+      "order": 5,
+      "logoDark": "/images/partners/ecom-instruments-logo-1771839092604.webp"
+    },
+    {
+      "id": "d85dd012-6334-4a1b-944f-fa93f76d4581",
+      "name": "Rittal",
+      "description": "Rittal is a global leader in enclosures, climate control, and IT infrastructure, supporting reliable datacenter and industrial solutions.",
+      "category": "Technology & Infrastructure",
+      "logo": "/images/partners/rittal.png",
+      "order": 6
+    },
+    {
+      "id": "f2e666df-e02b-4fa9-bd60-026c5903cb9d",
+      "name": "Axis Communications",
+      "description": "Axis pioneered IP cameras and continues to lead in network video solutions, offering intelligent surveillance systems.",
+      "category": "Security & Surveillance",
+      "logo": "/images/partners/whatsapp-image-2026-02-23-at-09-49-26-1771840632817.webp",
+      "order": 7,
+      "logoDark": "/images/partners/whatsapp-image-2026-02-23-at-09-49-2-1771840660640.webp"
+    },
+    {
+      "id": "52157f0c-c77c-4f68-aaec-e846f6a7234d",
+      "name": "Hikvision",
+      "description": "Hikvision is a leading provider of video surveillance products and AIoT solutions, delivering advanced monitoring and analytics.",
+      "category": "Security & Surveillance",
+      "logo": "/images/partners/hikvision-logo-wine-2-1771840576734.webp",
+      "order": 8,
+      "logoDark": "/images/partners/hikvision-logo-wine-1-1771838571397.webp"
+    },
+    {
+      "id": "5da9b6fc-2625-4f11-ae04-f6dc6663b0cb",
+      "name": "Huawei",
+      "description": "Huawei provides networking, cloud, and security solutions, empowering digital transformation across industries worldwide.",
+      "category": "Security & Surveillance",
+      "logo": "/images/partners/huawei-logo-wine-1771834576385.webp",
+      "order": 9,
+      "logoDark": "/images/partners/huawei-logo-1771835629015.webp"
+    },
+    {
+      "id": "2234409a-233b-44f7-b494-d8e6d230c782",
+      "name": "ZKTeco",
+      "description": "ZKTeco specializes in biometric and access control systems, offering fingerprint, facial recognition, and time attendance solutions.",
+      "category": "Security & Surveillance",
+      "logo": "/images/partners/png-clipart-biometrics-access-control-zkteco-time-and-attend-1771840983219.webp",
+      "order": 10,
+      "logoDark": "/images/partners/png-clipart-biometrics-access-control-zkteco-time-and-attend-1771838688128.webp"
+    },
+    {
+      "id": "cb926987-5d79-4df6-985b-758fc9548c47",
+      "name": "Fortinet",
+      "description": "Fortinet delivers integrated cybersecurity solutions, including firewalls, endpoint protection, and secure SD-WAN.",
+      "category": "Security & Surveillance",
+      "logo": "/images/partners/fortinet-logo-1-1771840794279.webp",
+      "order": 11,
+      "logoDark": "/images/partners/fortinet-logo-1771840824271.webp"
+    },
+    {
+      "id": "b9e97648-db7e-4ef3-a2d4-b32923c0debe",
+      "name": "Sophos",
+      "description": "Sophos provides advanced cybersecurity, including endpoint protection and managed threat response services.",
+      "category": "Security & Surveillance",
+      "logo": "/images/partners/sophos-logo-wine-1-1771840605076.webp",
+      "order": 12,
+      "logoDark": "/images/partners/sophos-logo-wine-1771838513582.webp"
+    },
+    {
+      "id": "0b617b07-ac8a-45d6-a534-4029d8142a8a",
+      "name": "Palo Alto Networks",
+      "description": "Palo Alto is a leader in next-generation firewalls and cloud security, protecting enterprises against evolving cyber threats.",
+      "category": "Security & Surveillance",
+      "logo": "/images/partners/pan-logo-dark-1771837148355.svg",
+      "order": 13,
+      "logoDark": "/images/partners/pan-logo-light-1771836979814.svg"
+    },
+    {
+      "id": "f709d5ff-ba55-4de5-bafa-e5d22a3a1b9e",
+      "name": "SonicWall",
+      "description": "SonicWall offers secure, scalable network security solutions, including firewalls and threat intelligence services.",
+      "category": "Security & Surveillance",
+      "logo": "/images/partners/sonicwall-logo-rgb-black-orange-1771836407483.webp",
+      "order": 14
+    },
+    {
+      "id": "86fce2b0-a385-467b-8c68-fd5be767007e",
+      "name": "Barracuda Networks",
+      "description": "Barracuda specializes in email, network, and data security, helping organizations defend against cyberattacks.",
+      "category": "Security & Surveillance",
+      "logo": "/images/partners/untitled-1-166-1771839476678.webp",
+      "order": 15
+    },
+    {
+      "id": "834e0562-24d9-48a4-8fe8-1b44a1ce2e65",
+      "name": "Milestone Systems",
+      "description": "Milestone develops video management software (XProtect), enabling scalable and intelligent surveillance solutions.",
+      "category": "Security & Surveillance",
+      "logo": "/images/partners/milestone-logo-403x133-1771834376551.webp",
+      "order": 16,
+      "logoDark": "/images/partners/milestone-logo-403x133-1771834339943.webp"
+    },
+    {
+      "id": "ad50b968-1cb6-4e2c-84fb-3a2b499d6266",
+      "name": "HID Global",
+      "description": "HID provides trusted identity and access management solutions, including smart cards, readers, and secure authentication.",
+      "category": "Security & Surveillance",
+      "logo": "/images/partners/hid.png",
+      "order": 17
+    },
+    {
+      "id": "7b558874-4b7c-4383-8b36-d5c1f4d7f00e",
+      "name": "APC by Schneider Electric",
+      "description": "APC is a leader in UPS systems and power protection, ensuring business continuity and reliable energy.",
+      "category": "Power & Energy",
+      "logo": "/images/partners/apc-logo-02-ic-800x450-1771841186641.webp",
+      "order": 18
+    },
+    {
+      "id": "f088c6ad-9010-4c60-a5b3-3eed73662898",
+      "name": "Longi Solar",
+      "description": "Longi is the world's largest supplier of solar PV solutions, driving sustainable energy adoption globally.",
+      "category": "Power & Energy",
+      "logo": "/images/partners/longi-solar-logo-vector-1771841298798.webp",
+      "order": 19,
+      "logoDark": "/images/partners/longi-solar-logo-vector-1771841408026.webp"
+    },
+    {
+      "id": "024e7531-f60f-4af0-9233-d10ab78ae6d2",
+      "name": "Microsoft",
+      "description": "Microsoft is a global leader in software, cloud computing, and productivity solutions, including Windows, Office, and Azure.",
+      "category": "Software & Cloud",
+      "logo": "/images/partners/vecteezy-microsoft-logo-png-microsoft-icon-transparent-png-2-1771841509784.webp",
+      "order": 20
+    },
+    {
+      "id": "146e5a42-f1c1-42ba-88f3-4cf6c4ff5ef8",
+      "name": "Kaspersky",
+      "description": "Kaspersky provides award-winning cybersecurity and antivirus solutions, protecting millions of users worldwide.",
+      "category": "Software & Cloud",
+      "logo": "/images/partners/kaspersky-1771841633344.webp",
+      "order": 21
+    },
+    {
+      "id": "e0e0735b-a954-4f1a-bfd2-6cb99358227e",
+      "name": "Veeam",
+      "description": "Veeam specializes in backup, recovery, and data management, ensuring business continuity and resilience.",
+      "category": "Software & Cloud",
+      "logo": "/images/partners/veeam-software-vector-logo-small-1771841674774.webp",
+      "order": 22
+    },
+    {
+      "id": "34a17c3c-6c0f-4919-8c36-17326c3609a3",
+      "name": "Broadcom",
+      "description": "Broadcom delivers semiconductors and enterprise infrastructure software, powering modern IT ecosystems.",
+      "category": "Software & Cloud",
+      "logo": "/images/partners/broadcom-logo-1771841722186.webp",
+      "order": 23,
+      "logoDark": "/images/partners/broadcom-logo-1771841889757.webp"
+    },
+    {
+      "id": "585dce4d-3dab-46fd-b2e3-91fb5184b6c2",
+      "name": "VMware",
+      "description": "VMware is a leader in virtualization and cloud infrastructure, enabling businesses to modernize IT environments.",
+      "category": "Software & Cloud",
+      "logo": "/images/partners/vmware-logo-png-1771842672901.png",
+      "order": 24,
+      "logoDark": "/images/partners/vmware-logo-1771842668544.webp"
+    },
+    {
+      "id": "6db51864-7904-4243-89d4-11cebe4f5d8b",
+      "name": "Samsung",
+      "description": "Samsung is a global technology leader in electronics, IT, and communications, offering innovative solutions across industries.",
+      "category": "Networking & Communication",
+      "logo": "/images/partners/samsung-logo-2-1771841996300.webp",
+      "order": 25
+    },
+    {
+      "id": "e8535a22-cd49-4dc5-9fef-6191623b5042",
+      "name": "Netgear",
+      "description": "Netgear provides advanced WiFi and networking solutions for homes and businesses.",
+      "category": "Networking & Communication",
+      "logo": "/images/partners/netgear-logo-1771842037505.webp",
+      "order": 26
+    },
+    {
+      "id": "9505cbef-5027-40f3-a030-3faba5727fcd",
+      "name": "Planet Technology",
+      "description": "Planet delivers networking and connectivity solutions, including switches, PoE, and industrial networking.",
+      "category": "Networking & Communication",
+      "logo": "/images/partners/300003689-488220139976317-6489924099780926095-n-1771842163522.webp",
+      "order": 27
+    },
+    {
+      "id": "d78957a3-4f9c-411a-84b8-057450567ccb",
+      "name": "Jabra",
+      "description": "Jabra is known for professional headsets, speakerphones, and video solutions that enhance collaboration.",
+      "category": "Networking & Communication",
+      "logo": "/images/partners/overview-jabra-logo-1771914430906.webp",
+      "order": 28
+    },
+    {
+      "id": "a1c08583-515e-4b73-8806-60d9198544bb",
+      "name": "Logicom",
+      "description": "Logicom is a regional distributor of technology solutions across EMEA, supporting IT vendors and resellers.",
+      "category": "Networking & Communication",
+      "logo": "/images/partners/logo-logicom-1771842385696.webp",
+      "order": 29
+    },
+    {
+      "id": "6241da5e-cc4a-4898-bf6c-9a7b3dc85ca8",
+      "name": "Poly",
+      "description": "Poly, now part of HP, provides video and voice collaboration solutions, including headsets and conferencing systems.",
+      "category": "Networking & Communication",
+      "logo": "/images/partners/poly-logo-orange-1771842837124.png",
+      "order": 30,
+      "logoDark": "/images/partners/idynrljocv-logos-1771842834304.webp"
+    },
+    {
+      "id": "d14c2bed-23e0-4782-8acd-4361c89b37db",
+      "name": "EXFO",
+      "description": "EXFO is a global leader in test, monitoring, and analytics solutions for the telecommunications industry. Their products help service providers and network operators ensure performance, reliability, and quality across fiber optic and mobile networks.",
+      "category": "Test & Measurement Solutions",
+      "logo": "/images/partners/exfo-1771842478663.webp",
+      "order": 31
+    },
+    {
+      "id": "719556f3-c575-4eb2-a6d0-66d153aea3cc",
+      "name": "VIAVI Solutions",
+      "description": "VIAVI delivers advanced test and measurement equipment, optical technologies, and network assurance solutions. Their tools are widely used by telecom operators, enterprises, and government agencies to optimize and secure complex networks.",
+      "category": "Test & Measurement Solutions",
+      "logo": "/images/partners/viavi-with-descriptor-cmyk-square-1771842569588.webp",
+      "order": 32
+    },
+    {
+      "id": "ebbc6862-2713-4569-81a5-db37d99f7f2d",
+      "name": "Fujikura",
+      "description": "Fujikura is a renowned Japanese company specializing in fiber optic cables, splicing equipment, and connectivity solutions. Their products are trusted worldwide for building high-performance communication networks and supporting next-generation broadband infrastructure.",
+      "category": "Test & Measurement Solutions",
+      "logo": "/images/partners/fujikura-logo-wine-1771842887756.png",
+      "order": 33,
+      "logoDark": "/images/partners/fujikura-logo-1771842784141.webp"
+    }
+  ],
+  "categories": [
+    "Technology & Infrastructure",
+    "Security & Surveillance",
+    "Power & Energy",
+    "Software & Cloud",
+    "Networking & Communication",
+    "Test & Measurement Solutions"
+  ]
+}

@@ -1,0 +1,534 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow-x: hidden;
+    @apply bg-light-bg text-light-text;
+  }
+
+  html.dark {
+    @apply bg-dark-bg text-dark-text;
+  }
+
+  body {
+    background: transparent;
+    overflow-x: hidden;
+  }
+
+  /* Focus states for accessibility */
+  *:focus-visible {
+    @apply outline-2 outline-offset-2 outline-accent;
+  }
+
+  ::selection {
+    @apply bg-accent/20 text-accent;
+  }
+}
+
+@layer components {
+  .admin-input {
+    @apply w-full rounded-lg border border-gray-700 bg-gray-800 px-3 py-2 text-sm text-white placeholder-gray-500 focus:border-[#00C46A] focus:outline-none focus:ring-1 focus:ring-[#00C46A]/40 transition-colors;
+  }
+
+  .glass-card {
+    @apply rounded-2xl border border-light-border bg-white/80 backdrop-blur-sm shadow-card;
+  }
+
+  .dark .glass-card {
+    @apply border-dark-border bg-dark-card/60 backdrop-blur-md shadow-card-dark;
+  }
+
+  .section-padding {
+    @apply px-4 py-20 sm:px-6 md:py-28 lg:px-8;
+  }
+
+  .container-max {
+    @apply mx-auto max-w-7xl;
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg bg-accent px-6 py-3 text-sm font-semibold text-white shadow-glow transition-all duration-200 hover:bg-accent-dark hover:shadow-glow-lg focus-visible:outline-accent;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg border border-accent/40 px-6 py-3 text-sm font-semibold text-accent transition-all duration-200 hover:border-accent hover:bg-accent/10 focus-visible:outline-accent;
+  }
+
+  .text-gradient {
+    @apply bg-gradient-to-r from-accent to-accent-light bg-clip-text text-transparent;
+  }
+
+  .nav-blur {
+    @apply backdrop-blur-xl;
+  }
+
+  .dark .nav-blur {
+    @apply bg-dark-bg/80;
+  }
+
+  .nav-blur {
+    @apply bg-light-bg/80;
+  }
+}
+
+@layer utilities {
+  .animate-in {
+    animation: fadeSlideIn 0.6s ease-out forwards;
+  }
+
+  @keyframes fadeSlideIn {
+    from {
+      opacity: 0;
+      transform: translateY(16px);
+    }
+
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}
+
+/* ── Reduced-motion support ── */
+@media (prefers-reduced-motion: reduce) {
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+
+  .hero-glow {
+    opacity: 0 !important;
+  }
+}
+
+/* ─── Flipbook ─────────────────────────────────────────────────── */
+.flipbook-shadow {
+  filter: drop-shadow(0 12px 40px rgba(0, 0, 0, 0.15)) drop-shadow(0 4px 12px rgba(0, 0, 0, 0.08));
+  perspective: 2400px;
+}
+
+.dark .flipbook-shadow {
+  filter: drop-shadow(0 12px 40px rgba(0, 0, 0, 0.5)) drop-shadow(0 4px 12px rgba(0, 0, 0, 0.3));
+}
+
+/* Smoother page-turn inner shadow */
+.flipbook-shadow .stf__block {
+  transition: box-shadow 0.5s ease;
+}
+
+.flipbook-shadow .stf__item {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+/* ── TipTap rich editor ──────────────────────────────────────── */
+.tiptap {
+  outline: none;
+}
+
+.tiptap p.is-editor-empty:first-child::before {
+  content: attr(data-placeholder);
+  float: left;
+  color: #6b7280;
+  pointer-events: none;
+  height: 0;
+}
+
+/* YouTube iframe wrapper */
+.tiptap div[data-youtube-video] {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%;
+  height: 0;
+  border-radius: 0.75rem;
+  overflow: hidden;
+  margin: 1.25rem 0;
+}
+
+.tiptap div[data-youtube-video] iframe {
+  position: absolute;
+  inset: 0;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+/* keep images from overflowing */
+.tiptap img {
+  max-width: 100%;
+}
+
+/* selected node highlight */
+.tiptap .ProseMirror-selectednode {
+  outline: 2px solid #00C46A;
+  outline-offset: 2px;
+  border-radius: 0.5rem;
+}
+
+/* ── Lists (override Tailwind preflight reset) ───────────────── */
+.tiptap ul {
+  list-style-type: disc !important;
+  padding-left: 1.5rem !important;
+  margin: 0.75rem 0 !important;
+}
+
+.tiptap ol {
+  list-style-type: decimal !important;
+  padding-left: 1.5rem !important;
+  margin: 0.75rem 0 !important;
+}
+
+.tiptap li {
+  display: list-item !important;
+  margin: 0.25rem 0 !important;
+}
+
+.tiptap li::marker {
+  color: #d1d5db;
+}
+
+.tiptap ul ul {
+  list-style-type: circle !important;
+}
+
+.tiptap ul ul ul {
+  list-style-type: square !important;
+}
+
+.tiptap li>p {
+  margin: 0 !important;
+}
+
+/* ── Headings ────────────────────────────────────────────────── */
+.tiptap h1 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #fff;
+  margin: 1.25rem 0 0.5rem;
+}
+
+.tiptap h2 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #fff;
+  margin: 1rem 0 0.5rem;
+}
+
+.tiptap h3 {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: #fff;
+  margin: 0.875rem 0 0.375rem;
+}
+
+/* ── Blockquote ──────────────────────────────────────────────── */
+.tiptap blockquote {
+  border-left: 2px solid #00C46A;
+  padding-left: 1rem;
+  font-style: italic;
+  color: #9ca3af;
+  margin: 1rem 0;
+}
+
+/* ── Inline code ─────────────────────────────────────────────── */
+.tiptap code {
+  background: #1f2937;
+  color: #4ade80;
+  padding: 0.125rem 0.375rem;
+  border-radius: 0.25rem;
+  font-size: 0.875em;
+  font-family: ui-monospace, monospace;
+}
+
+/* ── Code block ──────────────────────────────────────────────── */
+.tiptap pre {
+  background: #111827;
+  border-radius: 0.75rem;
+  padding: 1rem;
+  margin: 1rem 0;
+  overflow-x: auto;
+}
+
+.tiptap pre code {
+  background: transparent;
+  color: #4ade80;
+  padding: 0;
+}
+
+/* ── Horizontal rule ─────────────────────────────────────────── */
+.tiptap hr {
+  border-color: #374151;
+  margin: 1.5rem 0;
+}
+
+/* ── Links ───────────────────────────────────────────────────── */
+.tiptap a {
+  color: #00C46A;
+  text-decoration: underline;
+}
+
+/* ── Highlight ───────────────────────────────────────────────── */
+.tiptap mark {
+  background: rgba(251, 191, 36, 0.25);
+  color: inherit;
+}
+
+/* ── Paragraph spacing ───────────────────────────────────────── */
+.tiptap p {
+  margin: 0.5rem 0;
+}
+
+/* ═══════════════════════════════════════════════════════════════
+   Blog post reading view  (.blog-content)
+   ═══════════════════════════════════════════════════════════════ */
+.blog-content {
+  color: #6b7280;
+  line-height: 1.8;
+  font-size: 1rem;
+}
+
+.blog-content p {
+  margin: 1rem 0;
+  line-height: 1.85;
+}
+
+.blog-content h1 {
+  font-size: 1.875rem;
+  font-weight: 700;
+  color: #111827;
+  margin: 2rem 0 0.75rem;
+  line-height: 1.25;
+}
+
+.blog-content h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #111827;
+  margin: 1.75rem 0 0.625rem;
+  line-height: 1.3;
+}
+
+.blog-content h3 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #111827;
+  margin: 1.5rem 0 0.5rem;
+  line-height: 1.35;
+}
+
+.blog-content ul {
+  list-style-type: disc !important;
+  padding-left: 1.75rem !important;
+  margin: 1rem 0 !important;
+}
+
+.blog-content ol {
+  list-style-type: decimal !important;
+  padding-left: 1.75rem !important;
+  margin: 1rem 0 !important;
+}
+
+.blog-content li {
+  display: list-item !important;
+  margin: 0.4rem 0 !important;
+  line-height: 1.7;
+}
+
+.blog-content li::marker {
+  color: #9ca3af;
+}
+
+.blog-content ul ul {
+  list-style-type: circle !important;
+  margin: 0.25rem 0 !important;
+}
+
+.blog-content li>p {
+  margin: 0 !important;
+}
+
+.blog-content a {
+  color: #00C46A;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  transition: color 0.15s;
+}
+
+.blog-content a:hover {
+  color: #00a359;
+}
+
+.blog-content blockquote {
+  border-left: 2px solid #00C46A;
+  padding-left: 1rem;
+  margin: 1.25rem 0;
+  color: #9ca3af;
+  font-style: italic;
+}
+
+.blog-content code {
+  background: rgba(0, 0, 0, 0.06);
+  color: #00C46A;
+  padding: 0.125rem 0.375rem;
+  border-radius: 0.25rem;
+  font-size: 0.875em;
+  font-family: ui-monospace, monospace;
+}
+
+.blog-content pre {
+  background: #111827;
+  border-radius: 0.75rem;
+  padding: 1.25rem;
+  margin: 1.25rem 0;
+  overflow-x: auto;
+  border: 1px solid rgba(55, 65, 81, 0.6);
+}
+
+.blog-content pre code {
+  background: transparent;
+  color: #4ade80;
+  padding: 0;
+  font-size: 0.875rem;
+}
+
+.blog-content hr {
+  border: none;
+  border-top: 1px solid #e5e7eb;
+  margin: 2rem 0;
+}
+
+.blog-content img {
+  border-radius: 0.75rem;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  max-width: 100%;
+  margin: 1.25rem 0;
+}
+
+/* Responsive tables */
+.blog-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.9rem;
+}
+
+.blog-content .tableWrapper,
+.blog-content table {
+  overflow-x: auto;
+  display: block;
+  max-width: 100%;
+}
+
+.blog-content th,
+.blog-content td {
+  border: 1px solid #e5e7eb;
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+  min-width: 80px;
+}
+
+.blog-content th {
+  background: #f3f4f6;
+  font-weight: 600;
+  color: #111827;
+}
+
+.dark .blog-content th {
+  background: rgba(255, 255, 255, 0.06);
+  color: #f9fafb;
+}
+
+.dark .blog-content th,
+.dark .blog-content td {
+  border-color: #374151;
+}
+
+.blog-content mark {
+  background: rgba(251, 191, 36, 0.25);
+  color: inherit;
+}
+
+.blog-content strong {
+  color: #111827;
+  font-weight: 600;
+}
+
+.blog-content iframe {
+  width: 100%;
+  aspect-ratio: 16/9;
+  border-radius: 0.75rem;
+  margin: 1.25rem 0;
+}
+
+/* YouTube wrapper */
+.blog-content div[data-youtube-video] {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%;
+  height: 0;
+  border-radius: 0.75rem;
+  overflow: hidden;
+  margin: 1.5rem 0;
+}
+
+.blog-content div[data-youtube-video] iframe {
+  position: absolute;
+  inset: 0;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+/* Dark mode */
+.dark .blog-content {
+  color: #9ca3af;
+}
+
+.dark .blog-content h1,
+.dark .blog-content h2,
+.dark .blog-content h3,
+.dark .blog-content strong {
+  color: #f9fafb;
+}
+
+.dark .blog-content code {
+  background: rgba(255, 255, 255, 0.07);
+}
+
+.dark .blog-content hr {
+  border-top-color: #374151;
+}
+
+.dark .blog-content li::marker {
+  color: #6b7280;
+}
+
+/* Partners ticker / marquee */
+@keyframes ticker {
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.partners-ticker {
+  display: flex;
+  width: max-content;
+  animation: ticker 40s linear infinite;
+  will-change: transform;
+}
+
+.partners-ticker:hover {
+  animation-play-state: paused;
+}

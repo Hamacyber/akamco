@@ -1,0 +1,48 @@
+name: Deploy to Azure App Service
+
+on:
+  push:
+    branches: [main, master, production]
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci --legacy-peer-deps
+
+      - name: Run linting (optional)
+        run: npm run lint || true
+        continue-on-error: true
+
+      - name: Build Next.js application
+        run: npm run build
+        env:
+          NODE_ENV: production
+
+      - name: Deploy to Azure App Service
+        uses: azure/webapps-deploy@v2
+        with:
+          app-name: 'akamco-technologies'
+          slot-name: 'production'
+          publish-profile: ${{ secrets.AZURE_PUBLISHPROFILE }}
+          package: .
+
+      - name: Notify deployment success
+        if: success()
+        run: echo "✅ Successfully deployed to Azure!"
+
+      - name: Notify deployment failure
+        if: failure()
+        run: echo "❌ Deployment failed. Check logs above."

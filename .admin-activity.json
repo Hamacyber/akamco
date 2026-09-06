@@ -1,0 +1,1822 @@
+[
+  {
+    "id": "1772453783610-5v6uo",
+    "timestamp": "2026-03-02T12:16:23.610Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "blog_update",
+    "detail": "Updated post \"Data in the Wild: 40% of Employee AI Use Involves Sensitive Info\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1772453563579-h56il",
+    "timestamp": "2026-03-02T12:12:43.579Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "login",
+    "detail": "Logged in successfully",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1772453546004-ec04c",
+    "timestamp": "2026-03-02T12:12:26.004Z",
+    "userId": "unknown",
+    "username": "admin",
+    "role": "unknown",
+    "action": "login_failed",
+    "detail": "Failed login attempt for \"admin\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1772453083944-4pvjr",
+    "timestamp": "2026-03-02T12:04:43.944Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "blog_update",
+    "detail": "Updated post \"Data in the Wild: 40% of Employee AI Use Involves Sensitive Info\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1772452991616-bylel",
+    "timestamp": "2026-03-02T12:03:11.616Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "blog_update",
+    "detail": "Updated post \"Data in the Wild: 40% of Employee AI Use Involves Sensitive Info\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1772452693920-ehpqa",
+    "timestamp": "2026-03-02T11:58:13.920Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "blog_update",
+    "detail": "Updated post \"Data in the Wild: 40% of Employee AI Use Involves Sensitive Info\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1772452456300-e37uu",
+    "timestamp": "2026-03-02T11:54:16.300Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "blog_update",
+    "detail": "Updated post \"Data in the Wild: 40% of Employee AI Use Involves Sensitive Info\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772452412366-fysha",
+    "timestamp": "2026-03-02T11:53:32.366Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "blog_update",
+    "detail": "Updated post \"Data in the Wild: 40% of Employee AI Use Involves Sensitive Info\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772452296017-v05uq",
+    "timestamp": "2026-03-02T11:51:36.017Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "blog_update",
+    "detail": "Updated post \"Data in the Wild: 40% of Employee AI Use Involves Sensitive Info\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772452259320-moksr",
+    "timestamp": "2026-03-02T11:50:59.320Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "blog_update",
+    "detail": "Updated post \"Data in the Wild: 40% of Employee AI Use Involves Sensitive Info\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772452169260-b4a3p",
+    "timestamp": "2026-03-02T11:49:29.260Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "blog_update",
+    "detail": "Updated post \"Data in the Wild: 40% of Employee AI Use Involves Sensitive Info\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772452105031-bqijq",
+    "timestamp": "2026-03-02T11:48:25.031Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "blog_update",
+    "detail": "Updated post \"Data in the Wild: 40% of Employee AI Use Involves Sensitive Info\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772451931536-4aui7",
+    "timestamp": "2026-03-02T11:45:31.536Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "blog_update",
+    "detail": "Updated post \"Data in the Wild: 40% of Employee AI Use Involves Sensitive Info\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772451806018-p3tbf",
+    "timestamp": "2026-03-02T11:43:26.018Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "blog_create",
+    "detail": "Created post \"Data in the Wild: 40% of Employee AI Use Involves Sensitive Info\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772451072032-tmf6c",
+    "timestamp": "2026-03-02T11:31:12.032Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "login",
+    "detail": "Logged in successfully",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772450426744-dg8fm",
+    "timestamp": "2026-03-02T11:20:26.744Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "blog_update",
+    "detail": "Updated post \"The Advantages of Smart Warehousing for Your Business\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772450409387-p5ui7",
+    "timestamp": "2026-03-02T11:20:09.387Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "blog_update",
+    "detail": "Updated post \"How to Build AI Data Center\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772450388397-vs3h4",
+    "timestamp": "2026-03-02T11:19:48.397Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "blog_create",
+    "detail": "Created post \"How to Build AI Data Center\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772450252038-etuaf",
+    "timestamp": "2026-03-02T11:17:32.038Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "blog_create",
+    "detail": "Created post \"The Advantages of Smart Warehousing for Your Business\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772449841091-tiafn",
+    "timestamp": "2026-03-02T11:10:41.091Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "login",
+    "detail": "Logged in successfully",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1772449816561-lugws",
+    "timestamp": "2026-03-02T11:10:16.561Z",
+    "userId": "unknown",
+    "username": "admin",
+    "role": "unknown",
+    "action": "login_failed",
+    "detail": "Failed login attempt for \"admin\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1772449805226-3c19n",
+    "timestamp": "2026-03-02T11:10:05.226Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "blog_delete",
+    "detail": "Deleted post \"The Middle East Cybersecurity Landscape: 2025 Threat Report\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772449803599-wzpk5",
+    "timestamp": "2026-03-02T11:10:03.599Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "blog_delete",
+    "detail": "Deleted post \"Case Study: AI-Powered Surveillance for a Government Ministry\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772449802458-005dt",
+    "timestamp": "2026-03-02T11:10:02.458Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "blog_delete",
+    "detail": "Deleted post \"The Ransomware Response Playbook: Contain, Recover, Prevent\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772449800924-o2hjt",
+    "timestamp": "2026-03-02T11:10:00.924Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "blog_delete",
+    "detail": "Deleted post \"Enterprise Fiber Network Rollout: Lessons from 50+ Deployments\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772449799589-o3pt6",
+    "timestamp": "2026-03-02T11:09:59.589Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "blog_delete",
+    "detail": "Deleted post \"Digital Transformation in the Iraqi Public Sector: Challenges & Opportunities\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772449798139-7n3j8",
+    "timestamp": "2026-03-02T11:09:58.139Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "blog_delete",
+    "detail": "Deleted post \"Building Energy-Efficient Data Centers in Extreme Climates\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772449796884-jjgqg",
+    "timestamp": "2026-03-02T11:09:56.884Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "blog_delete",
+    "detail": "Deleted post \"How AI Is Transforming SOC Operations in 2025\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772449795259-6s9c8",
+    "timestamp": "2026-03-02T11:09:55.259Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "blog_delete",
+    "detail": "Deleted post \"Zero-Trust Architecture: The New Standard for Government Networks\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772449793756-cju4c",
+    "timestamp": "2026-03-02T11:09:53.756Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "blog_delete",
+    "detail": "Deleted post \"Iraq's New Cybersecurity Law 2025: What Every IT Leader Must Know\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772449792376-ktc8e",
+    "timestamp": "2026-03-02T11:09:52.376Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "blog_delete",
+    "detail": "Deleted post \"Securing Operational Technology: OT Security for Critical Infrastructure\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772449790929-lbuem",
+    "timestamp": "2026-03-02T11:09:50.929Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "blog_delete",
+    "detail": "Deleted post \"Ransomware Payments Hit Record $2.3 Billion in 2025 — MENA Sees Surge\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772449789363-be9x2",
+    "timestamp": "2026-03-02T11:09:49.363Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "blog_delete",
+    "detail": "Deleted post \"Cloud vs. On-Premise: Choosing the Right IT Architecture for Iraqi Enterprises\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772449788107-vp63g",
+    "timestamp": "2026-03-02T11:09:48.108Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "blog_delete",
+    "detail": "Deleted post \"Windows 10 End of Life: Your Migration Roadmap Before October 2025\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772449671649-o6rcc",
+    "timestamp": "2026-03-02T11:07:51.649Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "login",
+    "detail": "Logged in successfully",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772108804041-lwpy0",
+    "timestamp": "2026-02-26T12:26:44.041Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "change_approve",
+    "detail": "Approved solution update for \"UPS & Critical Power Solutions\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1772106819262-uebwa",
+    "timestamp": "2026-02-26T11:53:39.262Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "solution_update_pending",
+    "detail": "Submitted update for solution \"UPS & Critical Power Solutions\" for approval",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772106728955-qg25d",
+    "timestamp": "2026-02-26T11:52:08.955Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "change_approve",
+    "detail": "Approved solution update for \"Control Room & Command Center Solutions\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1772106728215-fswhn",
+    "timestamp": "2026-02-26T11:52:08.215Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "change_approve",
+    "detail": "Approved solution update for \"Software Licensing Solutions\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1772106371993-r5dwf",
+    "timestamp": "2026-02-26T11:46:11.993Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "solution_update_pending",
+    "detail": "Submitted update for solution \"Software Licensing Solutions\" for approval",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772106177068-ih59v",
+    "timestamp": "2026-02-26T11:42:57.068Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "solution_update_pending",
+    "detail": "Submitted update for solution \"Control Room & Command Center Solutions\" for approval",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772106103294-h2uqj",
+    "timestamp": "2026-02-26T11:41:43.294Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "change_approve",
+    "detail": "Approved solution update for \"Gate Automation & Perimeter Security\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1772106102494-txwbm",
+    "timestamp": "2026-02-26T11:41:42.494Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "change_approve",
+    "detail": "Approved solution update for \"Fire Alarm & Life Safety Solutions\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1772106102168-nwmj9",
+    "timestamp": "2026-02-26T11:41:42.168Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "change_approve",
+    "detail": "Approved solution update for \"AV Systems — Video Walls & LED Screens\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1772106096713-uqw4h",
+    "timestamp": "2026-02-26T11:41:36.713Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "login",
+    "detail": "Logged in successfully",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1772106091072-m8zjo",
+    "timestamp": "2026-02-26T11:41:31.072Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "solution_update_pending",
+    "detail": "Submitted update for solution \"AV Systems — Video Walls & LED Screens\" for approval",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772106067536-emovp",
+    "timestamp": "2026-02-26T11:41:07.536Z",
+    "userId": "unknown",
+    "username": "admin",
+    "role": "unknown",
+    "action": "login_failed",
+    "detail": "Failed login attempt for \"admin\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1772105720918-qyb3a",
+    "timestamp": "2026-02-26T11:35:20.918Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "solution_update_pending",
+    "detail": "Submitted update for solution \"Gate Automation & Perimeter Security\" for approval",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772105631518-jrh7n",
+    "timestamp": "2026-02-26T11:33:51.518Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "solution_update_pending",
+    "detail": "Submitted update for solution \"Fire Alarm & Life Safety Solutions\" for approval",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772105349918-rsvt0",
+    "timestamp": "2026-02-26T11:29:09.918Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "login",
+    "detail": "Logged in successfully",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772098854517-lmijm",
+    "timestamp": "2026-02-26T09:40:54.517Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "change_approve",
+    "detail": "Approved solution update for \"Physical Security Solutions\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1772098854060-eeoyl",
+    "timestamp": "2026-02-26T09:40:54.060Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "change_approve",
+    "detail": "Approved solution update for \"Cybersecurity Solutions\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1772098853530-i5zv9",
+    "timestamp": "2026-02-26T09:40:53.530Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "change_approve",
+    "detail": "Approved solution update for \"Advanced Fiber Measurement Solutions\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1772098840643-wgqty",
+    "timestamp": "2026-02-26T09:40:40.643Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "solution_update_pending",
+    "detail": "Submitted update for solution \"Physical Security Solutions\" for approval",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772098790678-pqrzo",
+    "timestamp": "2026-02-26T09:39:50.678Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "solution_update_pending",
+    "detail": "Submitted update for solution \"Cybersecurity Solutions\" for approval",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772098626846-5s0lr",
+    "timestamp": "2026-02-26T09:37:06.846Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "solution_update_pending",
+    "detail": "Submitted update for solution \"Advanced Fiber Measurement Solutions\" for approval",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772098591399-8kg2w",
+    "timestamp": "2026-02-26T09:36:31.399Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "change_approve",
+    "detail": "Approved solution update for \"Low Current Systems\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1772098590393-ng17s",
+    "timestamp": "2026-02-26T09:36:30.393Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "change_approve",
+    "detail": "Approved solution update for \"Network Infrastructure Solutions\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1772098585303-50qc9",
+    "timestamp": "2026-02-26T09:36:25.303Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "login",
+    "detail": "Logged in successfully",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1772098557382-7oqsx",
+    "timestamp": "2026-02-26T09:35:57.382Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "solution_update_pending",
+    "detail": "Submitted update for solution \"Low Current Systems\" for approval",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772098553980-fu1fv",
+    "timestamp": "2026-02-26T09:35:53.980Z",
+    "userId": "unknown",
+    "username": "admin",
+    "role": "unknown",
+    "action": "login_failed",
+    "detail": "Failed login attempt for \"admin\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1772098447019-ch387",
+    "timestamp": "2026-02-26T09:34:07.019Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "solution_update_pending",
+    "detail": "Submitted update for solution \"Network Infrastructure Solutions\" for approval",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772098340611-jk8u7",
+    "timestamp": "2026-02-26T09:32:20.611Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "change_approve",
+    "detail": "Approved service update for \"Annual Maintenance Contracts (AMC)\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1772098319318-639aq",
+    "timestamp": "2026-02-26T09:31:59.318Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "service_update_pending",
+    "detail": "Submitted update for service \"Annual Maintenance Contracts (AMC)\" for approval",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772098171300-sdkmq",
+    "timestamp": "2026-02-26T09:29:31.300Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "change_approve",
+    "detail": "Approved service update for \"Managed Services & Monitoring\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1772098152982-kgxx0",
+    "timestamp": "2026-02-26T09:29:12.982Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "change_approve",
+    "detail": "Approved service update for \"Installation & Deployment\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1772098136620-mvajd",
+    "timestamp": "2026-02-26T09:28:56.620Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "service_update_pending",
+    "detail": "Submitted update for service \"Managed Services & Monitoring\" for approval",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772098051116-3brcx",
+    "timestamp": "2026-02-26T09:27:31.116Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "service_update_pending",
+    "detail": "Submitted update for service \"Installation & Deployment\" for approval",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772098028921-j6nwf",
+    "timestamp": "2026-02-26T09:27:08.921Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "job_update",
+    "detail": "Updated job \"Network Infrastructure Engineer\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1772098026426-i67fl",
+    "timestamp": "2026-02-26T09:27:06.426Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "job_update",
+    "detail": "Updated job \"Network Infrastructure Engineer\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1772097991218-v5v68",
+    "timestamp": "2026-02-26T09:26:31.218Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "change_approve",
+    "detail": "Approved service update for \"System Integration & Commissioning\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1772097911063-5njfd",
+    "timestamp": "2026-02-26T09:25:11.063Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "service_update_pending",
+    "detail": "Submitted update for service \"System Integration & Commissioning\" for approval",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772097796361-6a3yi",
+    "timestamp": "2026-02-26T09:23:16.361Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "change_approve",
+    "detail": "Approved service update for \"Supply & Procurement\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1772097763465-h7at7",
+    "timestamp": "2026-02-26T09:22:43.465Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "service_update_pending",
+    "detail": "Submitted update for service \"Supply & Procurement\" for approval",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772097372455-77wxk",
+    "timestamp": "2026-02-26T09:16:12.455Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "change_approve",
+    "detail": "Approved service update for \"Consultancy & Technical Advisory\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1772097338478-mnasm",
+    "timestamp": "2026-02-26T09:15:38.478Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "service_update_pending",
+    "detail": "Submitted update for service \"Consultancy & Technical Advisory\" for approval",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772097315092-9scmg",
+    "timestamp": "2026-02-26T09:15:15.092Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "login",
+    "detail": "Logged in successfully",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772097308278-p1iys",
+    "timestamp": "2026-02-26T09:15:08.278Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "login_failed",
+    "detail": "Incorrect TOTP code",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1772095343055-z86k8",
+    "timestamp": "2026-02-26T08:42:23.055Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "user_delete",
+    "detail": "Deleted user \"editor\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1772094787560-mvulk",
+    "timestamp": "2026-02-26T08:33:07.560Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "login",
+    "detail": "Logged in successfully",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771914469004-bzffy",
+    "timestamp": "2026-02-24T06:27:49.004Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Jabra\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771914432609-znim3",
+    "timestamp": "2026-02-24T06:27:12.609Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Jabra\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771914414913-rs0yq",
+    "timestamp": "2026-02-24T06:26:54.913Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "login",
+    "detail": "Logged in successfully",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771842891862-ny0qg",
+    "timestamp": "2026-02-23T10:34:51.862Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Fujikura\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771842838044-az4ze",
+    "timestamp": "2026-02-23T10:33:58.044Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Poly\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771842788074-dthmu",
+    "timestamp": "2026-02-23T10:33:08.074Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Fujikura\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771842673966-9n9ez",
+    "timestamp": "2026-02-23T10:31:13.966Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"VMware\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771842617468-nrv01",
+    "timestamp": "2026-02-23T10:30:17.468Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Fujikura\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771842570475-2rekw",
+    "timestamp": "2026-02-23T10:29:30.475Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"VIAVI Solutions\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771842479498-aqkfm",
+    "timestamp": "2026-02-23T10:27:59.498Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"EXFO\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771842437152-mw2so",
+    "timestamp": "2026-02-23T10:27:17.152Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Poly\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771842386454-17ffi",
+    "timestamp": "2026-02-23T10:26:26.454Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Logicom\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771842166565-8za95",
+    "timestamp": "2026-02-23T10:22:46.565Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Planet Technology\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771842153226-7xtai",
+    "timestamp": "2026-02-23T10:22:33.226Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "login",
+    "detail": "Logged in successfully",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771842038568-r61ti",
+    "timestamp": "2026-02-23T10:20:38.568Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Netgear\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771841998870-384gl",
+    "timestamp": "2026-02-23T10:19:58.870Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Samsung\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771841940263-p3tyr",
+    "timestamp": "2026-02-23T10:19:00.263Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"VMware\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771841890965-le7ro",
+    "timestamp": "2026-02-23T10:18:10.965Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Broadcom\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771841725124-taevt",
+    "timestamp": "2026-02-23T10:15:25.124Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Broadcom\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771841675623-ci3u5",
+    "timestamp": "2026-02-23T10:14:35.623Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Veeam\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771841634951-a0bf3",
+    "timestamp": "2026-02-23T10:13:54.951Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Kaspersky\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771841511678-g7cww",
+    "timestamp": "2026-02-23T10:11:51.678Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Microsoft\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771841409049-4exhy",
+    "timestamp": "2026-02-23T10:10:09.049Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Longi Solar\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771841300652-p6crf",
+    "timestamp": "2026-02-23T10:08:20.652Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Longi Solar\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771841187995-9p3i4",
+    "timestamp": "2026-02-23T10:06:27.995Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"APC by Schneider Electric\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771841016906-lvu89",
+    "timestamp": "2026-02-23T10:03:36.906Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Ecom Instruments\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771840984114-ni93r",
+    "timestamp": "2026-02-23T10:03:04.114Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"ZKTeco\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771840827857-k1ic4",
+    "timestamp": "2026-02-23T10:00:27.857Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Fortinet\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771840795560-i1yua",
+    "timestamp": "2026-02-23T09:59:55.560Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Fortinet\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771840663820-9wkg9",
+    "timestamp": "2026-02-23T09:57:43.820Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Axis Communications\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771840606899-tpv8z",
+    "timestamp": "2026-02-23T09:56:46.899Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Sophos\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771840578988-a4lzx",
+    "timestamp": "2026-02-23T09:56:18.988Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Hikvision\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771840521593-6aw5v",
+    "timestamp": "2026-02-23T09:55:21.593Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Axis Communications\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771840481038-jllpy",
+    "timestamp": "2026-02-23T09:54:41.038Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Axis Communications\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771840446881-ycs5g",
+    "timestamp": "2026-02-23T09:54:06.881Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Axis Communications\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771840404248-wa5bv",
+    "timestamp": "2026-02-23T09:53:24.248Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Axis Communications\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771840261838-5kcr0",
+    "timestamp": "2026-02-23T09:51:01.838Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Axis Communications\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771840067793-us5de",
+    "timestamp": "2026-02-23T09:47:47.793Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Axis Communications\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771840015803-7hgyv",
+    "timestamp": "2026-02-23T09:46:55.803Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Axis Communications\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771839616124-0twja",
+    "timestamp": "2026-02-23T09:40:16.124Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"HPE\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771839479613-fdglk",
+    "timestamp": "2026-02-23T09:37:59.613Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Barracuda Networks\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771839387663-tjpq9",
+    "timestamp": "2026-02-23T09:36:27.663Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Fortinet\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771839096733-tjos4",
+    "timestamp": "2026-02-23T09:31:36.733Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Ecom Instruments\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771838988718-whm57",
+    "timestamp": "2026-02-23T09:29:48.718Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Fortinet\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771838866121-ce2bc",
+    "timestamp": "2026-02-23T09:27:46.121Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Ecom Instruments\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771838689517-5th0u",
+    "timestamp": "2026-02-23T09:24:49.517Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"ZKTeco\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771838580514-69u0v",
+    "timestamp": "2026-02-23T09:23:00.514Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "login",
+    "detail": "Logged in successfully",
+    "ip": "::ffff:172.16.0.198"
+  },
+  {
+    "id": "1771838572738-fydu4",
+    "timestamp": "2026-02-23T09:22:52.738Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Hikvision\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771838514990-y7al5",
+    "timestamp": "2026-02-23T09:21:54.990Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Sophos\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771838485997-le2xg",
+    "timestamp": "2026-02-23T09:21:25.997Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "login",
+    "detail": "Logged in successfully",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771837167109-a92aq",
+    "timestamp": "2026-02-23T08:59:27.109Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "partner_update",
+    "detail": "Updated partner \"Palo Alto Networks\"",
+    "ip": "::ffff:172.16.0.198"
+  },
+  {
+    "id": "1771837150909-41sv3",
+    "timestamp": "2026-02-23T08:59:10.909Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "partner_update",
+    "detail": "Updated partner \"Palo Alto Networks\"",
+    "ip": "::ffff:172.16.0.198"
+  },
+  {
+    "id": "1771836987554-6y3zy",
+    "timestamp": "2026-02-23T08:56:27.554Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "partner_update",
+    "detail": "Updated partner \"Palo Alto Networks\"",
+    "ip": "::ffff:172.16.0.198"
+  },
+  {
+    "id": "1771836538245-j4031",
+    "timestamp": "2026-02-23T08:48:58.245Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Palo Alto Networks\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771836408281-lk3qy",
+    "timestamp": "2026-02-23T08:46:48.281Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"SonicWall\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771836369522-0ob19",
+    "timestamp": "2026-02-23T08:46:09.522Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"SonicWall\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771835661795-q8ssd",
+    "timestamp": "2026-02-23T08:34:21.795Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Huawei\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771835631966-pveo3",
+    "timestamp": "2026-02-23T08:33:51.966Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Huawei\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771834579485-1efdq",
+    "timestamp": "2026-02-23T08:16:19.485Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Huawei\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771834379131-v41d9",
+    "timestamp": "2026-02-23T08:12:59.131Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Milestone Systems\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771834343531-rpe09",
+    "timestamp": "2026-02-23T08:12:23.531Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "partner_update",
+    "detail": "Updated partner \"Milestone Systems\"",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771834272915-ijjei",
+    "timestamp": "2026-02-23T08:11:12.915Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "login",
+    "detail": "Logged in successfully",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771834272913-g1z04",
+    "timestamp": "2026-02-23T08:11:12.913Z",
+    "userId": "1771834189252",
+    "username": "bawan",
+    "role": "editor",
+    "action": "totp_setup",
+    "detail": "TOTP authenticator configured",
+    "ip": "::ffff:172.16.0.176"
+  },
+  {
+    "id": "1771834189292-x6rye",
+    "timestamp": "2026-02-23T08:09:49.292Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "user_create",
+    "detail": "Created user \"bawan\" (editor)",
+    "ip": "::ffff:172.16.0.198"
+  },
+  {
+    "id": "1771833938391-17ydc",
+    "timestamp": "2026-02-23T08:05:38.391Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "login",
+    "detail": "Logged in successfully",
+    "ip": "::ffff:172.16.0.198"
+  },
+  {
+    "id": "1771613371172-scmo0",
+    "timestamp": "2026-02-20T18:49:31.172Z",
+    "userId": "1771497292024",
+    "username": "editor",
+    "role": "editor",
+    "action": "login",
+    "detail": "Logged in successfully",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771607641637-yv2x2",
+    "timestamp": "2026-02-20T17:14:01.637Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "login",
+    "detail": "Logged in successfully",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771607634533-es9eb",
+    "timestamp": "2026-02-20T17:13:54.533Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "login_failed",
+    "detail": "Incorrect TOTP code",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771607566343-z1nm4",
+    "timestamp": "2026-02-20T17:12:46.343Z",
+    "userId": "1771497292024",
+    "username": "editor",
+    "role": "editor",
+    "action": "login",
+    "detail": "Logged in successfully",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771607560724-zr9pp",
+    "timestamp": "2026-02-20T17:12:40.724Z",
+    "userId": "1771497292024",
+    "username": "editor",
+    "role": "editor",
+    "action": "login_failed",
+    "detail": "Incorrect TOTP code",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771607544335-lygll",
+    "timestamp": "2026-02-20T17:12:24.335Z",
+    "userId": "1771497292024",
+    "username": "editor",
+    "role": "editor",
+    "action": "login_failed",
+    "detail": "Incorrect TOTP code",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771607526927-cx5rv",
+    "timestamp": "2026-02-20T17:12:06.927Z",
+    "userId": "1771497292024",
+    "username": "editor",
+    "role": "editor",
+    "action": "logout",
+    "detail": "Logged out",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771607481738-jz1sc",
+    "timestamp": "2026-02-20T17:11:21.738Z",
+    "userId": "1771497292024",
+    "username": "editor",
+    "role": "editor",
+    "action": "login",
+    "detail": "Logged in successfully",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771607472015-xtwy2",
+    "timestamp": "2026-02-20T17:11:12.015Z",
+    "userId": "1771497292024",
+    "username": "editor",
+    "role": "editor",
+    "action": "login_failed",
+    "detail": "Incorrect TOTP code",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771607470661-0t91k",
+    "timestamp": "2026-02-20T17:11:10.661Z",
+    "userId": "1771497292024",
+    "username": "editor",
+    "role": "editor",
+    "action": "login_failed",
+    "detail": "Incorrect TOTP code",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771607465949-z5700",
+    "timestamp": "2026-02-20T17:11:05.949Z",
+    "userId": "1771497292024",
+    "username": "editor",
+    "role": "editor",
+    "action": "login_failed",
+    "detail": "Incorrect TOTP code",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771597065589-iemle",
+    "timestamp": "2026-02-20T14:17:45.589Z",
+    "userId": "superadmin",
+    "username": "admin0",
+    "role": "superadmin",
+    "action": "login",
+    "detail": "Logged in successfully",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771597040182-8vq4y",
+    "timestamp": "2026-02-20T14:17:20.182Z",
+    "userId": "1771497292024",
+    "username": "editor",
+    "role": "editor",
+    "action": "logout",
+    "detail": "Logged out",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771596738352-jgn4y",
+    "timestamp": "2026-02-20T14:12:18.352Z",
+    "userId": "1771497292024",
+    "username": "editor",
+    "role": "editor",
+    "action": "login",
+    "detail": "Logged in successfully",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771596701339-zxbze",
+    "timestamp": "2026-02-20T14:11:41.339Z",
+    "userId": "1771497292024",
+    "username": "editor",
+    "role": "editor",
+    "action": "logout",
+    "detail": "Logged out",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771596673215-mheti",
+    "timestamp": "2026-02-20T14:11:13.215Z",
+    "userId": "unknown",
+    "username": "akamco",
+    "role": "unknown",
+    "action": "login_failed",
+    "detail": "Failed login attempt for \"akamco\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771596661658-93cwo",
+    "timestamp": "2026-02-20T14:11:01.658Z",
+    "userId": "unknown",
+    "username": "admin0",
+    "role": "unknown",
+    "action": "login_failed",
+    "detail": "Failed login attempt for \"admin0\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771596643236-8sg4a",
+    "timestamp": "2026-02-20T14:10:43.236Z",
+    "userId": "unknown",
+    "username": "admin0",
+    "role": "unknown",
+    "action": "login_failed",
+    "detail": "Failed login attempt for \"admin0\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771596641457-p5ewy",
+    "timestamp": "2026-02-20T14:10:41.457Z",
+    "userId": "unknown",
+    "username": "admin0",
+    "role": "unknown",
+    "action": "login_failed",
+    "detail": "Failed login attempt for \"admin0\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771596631037-8abaz",
+    "timestamp": "2026-02-20T14:10:31.037Z",
+    "userId": "unknown",
+    "username": "admin0",
+    "role": "unknown",
+    "action": "login_failed",
+    "detail": "Failed login attempt for \"admin0\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771596219747-3g9ea",
+    "timestamp": "2026-02-20T14:03:39.747Z",
+    "userId": "1771497292024",
+    "username": "editor",
+    "role": "editor",
+    "action": "login",
+    "detail": "Logged in successfully",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771596188880-sqdtf",
+    "timestamp": "2026-02-20T14:03:08.880Z",
+    "userId": "1771497292024",
+    "username": "editor",
+    "role": "editor",
+    "action": "login",
+    "detail": "Logged in successfully",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771505024456-19av4",
+    "timestamp": "2026-02-19T12:43:44.456Z",
+    "userId": "superadmin",
+    "username": "akamco",
+    "role": "superadmin",
+    "action": "logout",
+    "detail": "Logged out",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771504980912-1jt07",
+    "timestamp": "2026-02-19T12:43:00.912Z",
+    "userId": "superadmin",
+    "username": "akamco",
+    "role": "superadmin",
+    "action": "login",
+    "detail": "Logged in successfully",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771504975561-aqpsi",
+    "timestamp": "2026-02-19T12:42:55.561Z",
+    "userId": "superadmin",
+    "username": "akamco",
+    "role": "superadmin",
+    "action": "login_failed",
+    "detail": "Incorrect TOTP code",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771504914000-q70n0",
+    "timestamp": "2026-02-19T12:41:54.000Z",
+    "userId": "unknown",
+    "username": "aaaaa",
+    "role": "unknown",
+    "action": "login_failed",
+    "detail": "Failed login attempt for \"aaaaa\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771504896751-fimkf",
+    "timestamp": "2026-02-19T12:41:36.751Z",
+    "userId": "unknown",
+    "username": "editor",
+    "role": "unknown",
+    "action": "login_failed",
+    "detail": "Failed login attempt for \"editor\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771504890137-54wv4",
+    "timestamp": "2026-02-19T12:41:30.137Z",
+    "userId": "unknown",
+    "username": "ddddd",
+    "role": "unknown",
+    "action": "login_failed",
+    "detail": "Failed login attempt for \"ddddd\"",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771504061897-5tggr",
+    "timestamp": "2026-02-19T12:27:41.897Z",
+    "userId": "1771497292024",
+    "username": "editor",
+    "role": "editor",
+    "action": "logout",
+    "detail": "Logged out",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771504036209-b5ur6",
+    "timestamp": "2026-02-19T12:27:16.209Z",
+    "userId": "1771497292024",
+    "username": "editor",
+    "role": "editor",
+    "action": "login",
+    "detail": "Logged in successfully",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771504036207-e6qmd",
+    "timestamp": "2026-02-19T12:27:16.208Z",
+    "userId": "1771497292024",
+    "username": "editor",
+    "role": "editor",
+    "action": "totp_setup",
+    "detail": "TOTP authenticator configured",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771504005795-kc4ko",
+    "timestamp": "2026-02-19T12:26:45.795Z",
+    "userId": "superadmin",
+    "username": "akamco",
+    "role": "superadmin",
+    "action": "logout",
+    "detail": "Logged out",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771497292025-xdccy",
+    "timestamp": "2026-02-19T10:34:52.025Z",
+    "userId": "superadmin",
+    "username": "akamco",
+    "role": "superadmin",
+    "action": "user_create",
+    "detail": "Created user \"editor\" (editor)",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771497274207-hx1fk",
+    "timestamp": "2026-02-19T10:34:34.207Z",
+    "userId": "superadmin",
+    "username": "akamco",
+    "role": "superadmin",
+    "action": "login",
+    "detail": "Logged in successfully",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771497251230-b6zwq",
+    "timestamp": "2026-02-19T10:34:11.230Z",
+    "userId": "superadmin",
+    "username": "akamco",
+    "role": "superadmin",
+    "action": "logout",
+    "detail": "Logged out",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771496870768-cdjio",
+    "timestamp": "2026-02-19T10:27:50.768Z",
+    "userId": "superadmin",
+    "username": "akamco",
+    "role": "superadmin",
+    "action": "login",
+    "detail": "Logged in successfully",
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "1771496870766-tizpg",
+    "timestamp": "2026-02-19T10:27:50.766Z",
+    "userId": "superadmin",
+    "username": "akamco",
+    "role": "superadmin",
+    "action": "totp_setup",
+    "detail": "TOTP authenticator configured",
+    "ip": "::ffff:127.0.0.1"
+  }
+]

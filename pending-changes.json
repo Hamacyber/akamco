@@ -1,0 +1,3216 @@
+[
+  {
+    "resource": "service",
+    "action": "update",
+    "resourceId": "consultancy-advisory",
+    "resourceTitle": "Consultancy & Technical Advisory",
+    "submittedBy": "bawan",
+    "payload": {
+      "id": "consultancy-advisory",
+      "title": "Consultancy & Technical Advisory",
+      "tagline": "Clarity before commitment. Strategy before steel.",
+      "description": "Independent technical advisory services covering site surveys, risk analysis, capacity planning, and full tender documentation — giving you the insight to invest with confidence.",
+      "image": "/uploads/services/1772097330248-c0312jqy7bm.jpeg",
+      "heroStat": {
+        "value": "100+",
+        "label": "Advisory Engagements"
+      },
+      "gradient": "linear-gradient(135deg, #00C46A, #0EA5E9)",
+      "icon": "chartbar",
+      "outcomes": [
+        "Informed investment decisions backed by data",
+        "Risk exposure identified before project kick-off",
+        "Accurate BoQ and tender-ready documentation",
+        "Optimised power and capacity roadmaps"
+      ],
+      "deliverables": [
+        "Site Survey Report",
+        "Risk & Security Analysis",
+        "Capacity Planning Study",
+        "Datacenter Design Brief",
+        "Fiber Strategy Document",
+        "Tender BoQ Package"
+      ],
+      "compliance": [
+        "ISO 27001",
+        "TIA-942",
+        "IEC 62443"
+      ],
+      "forWhom": [
+        "Government ministries planning infrastructure upgrades",
+        "Enterprises embarking on datacenter projects",
+        "Developers tendering large-scale ICT contracts",
+        "Organisations requiring independent technical review"
+      ],
+      "longDescription": [
+        "Every major infrastructure project begins as a decision made with incomplete information. Akamco's Consultancy & Technical Advisory practice exists to close that gap — transforming raw requirements into precise, actionable specifications before a single component is purchased or a cable is pulled.",
+        "Our consultants conduct rigorous site surveys and technical assessments that document the physical environment, existing infrastructure, and operational constraints. From that foundation we layer risk and security analysis, power and capacity modelling, and datacenter design planning — producing a blueprint that architects can build from and procurement teams can price with accuracy.",
+        "Whether you need a fiber network design strategy for a cross-city backbone or a complete tender package with Bill of Quantities for a government ministry, our advisory team delivers structured, vendor-neutral documentation that protects your interests throughout the full project lifecycle."
+      ],
+      "features": [
+        {
+          "title": "Site Survey & Technical Assessment",
+          "description": "Comprehensive on-site evaluation of existing infrastructure, physical conditions, cable pathways, and environmental factors — producing a detailed baseline report that drives all subsequent design decisions."
+        },
+        {
+          "title": "Risk & Security Analysis",
+          "description": "Systematic identification of technical, operational, and security risks across your proposed or existing infrastructure, with mitigation recommendations aligned to recognised frameworks."
+        },
+        {
+          "title": "Power & Capacity Planning",
+          "description": "Load analysis and growth modelling to right-size power feeds, UPS capacity, cooling plant, and network bandwidth — avoiding both under-provisioning and costly over-engineering."
+        },
+        {
+          "title": "Datacenter Design Planning",
+          "description": "Conceptual and detailed datacenter layout design covering rack density, cooling strategy, power distribution, structured cabling, and redundancy tiers aligned to TIA-942 standards."
+        },
+        {
+          "title": "Fiber Network Design Strategy",
+          "description": "End-to-end fiber topology design for campus, metropolitan, and long-haul networks — including route planning, splicing strategy, and future capacity provisions."
+        },
+        {
+          "title": "Tender Documentation & BoQ Preparation",
+          "description": "Production of complete tender packages including technical specifications, Bill of Quantities, evaluation criteria, and compliance matrices — ensuring fair, competitive procurement outcomes."
+        }
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Discovery & Briefing",
+          "description": "Stakeholder workshops to understand business objectives, operational constraints, budget parameters, and compliance requirements."
+        },
+        {
+          "step": "02",
+          "title": "Site Survey & Data Collection",
+          "description": "On-site assessment capturing physical, electrical, and network conditions alongside existing documentation review."
+        },
+        {
+          "step": "03",
+          "title": "Analysis & Strategy",
+          "description": "Risk analysis, capacity modelling, and design strategy development with interim review sessions to validate direction."
+        },
+        {
+          "step": "04",
+          "title": "Documentation Delivery",
+          "description": "Formal report and tender package delivery with presentation to decision-makers and optional support through the procurement process."
+        }
+      ]
+    },
+    "originalData": {
+      "id": "consultancy-advisory",
+      "title": "Consultancy & Technical Advisory",
+      "tagline": "Clarity before commitment. Strategy before steel.",
+      "description": "Independent technical advisory services covering site surveys, risk analysis, capacity planning, and full tender documentation — giving you the insight to invest with confidence.",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1400&q=80",
+      "heroStat": {
+        "value": "100+",
+        "label": "Advisory Engagements"
+      },
+      "gradient": "linear-gradient(135deg, #00C46A, #0EA5E9)",
+      "icon": "chartbar",
+      "outcomes": [
+        "Informed investment decisions backed by data",
+        "Risk exposure identified before project kick-off",
+        "Accurate BoQ and tender-ready documentation",
+        "Optimised power and capacity roadmaps"
+      ],
+      "deliverables": [
+        "Site Survey Report",
+        "Risk & Security Analysis",
+        "Capacity Planning Study",
+        "Datacenter Design Brief",
+        "Fiber Strategy Document",
+        "Tender BoQ Package"
+      ],
+      "compliance": [
+        "ISO 27001",
+        "TIA-942",
+        "IEC 62443"
+      ],
+      "longDescription": [
+        "Every major infrastructure project begins as a decision made with incomplete information. Akamco's Consultancy & Technical Advisory practice exists to close that gap — transforming raw requirements into precise, actionable specifications before a single component is purchased or a cable is pulled.",
+        "Our consultants conduct rigorous site surveys and technical assessments that document the physical environment, existing infrastructure, and operational constraints. From that foundation we layer risk and security analysis, power and capacity modelling, and datacenter design planning — producing a blueprint that architects can build from and procurement teams can price with accuracy.",
+        "Whether you need a fiber network design strategy for a cross-city backbone or a complete tender package with Bill of Quantities for a government ministry, our advisory team delivers structured, vendor-neutral documentation that protects your interests throughout the full project lifecycle."
+      ],
+      "features": [
+        {
+          "title": "Site Survey & Technical Assessment",
+          "description": "Comprehensive on-site evaluation of existing infrastructure, physical conditions, cable pathways, and environmental factors — producing a detailed baseline report that drives all subsequent design decisions."
+        },
+        {
+          "title": "Risk & Security Analysis",
+          "description": "Systematic identification of technical, operational, and security risks across your proposed or existing infrastructure, with mitigation recommendations aligned to recognised frameworks."
+        },
+        {
+          "title": "Power & Capacity Planning",
+          "description": "Load analysis and growth modelling to right-size power feeds, UPS capacity, cooling plant, and network bandwidth — avoiding both under-provisioning and costly over-engineering."
+        },
+        {
+          "title": "Datacenter Design Planning",
+          "description": "Conceptual and detailed datacenter layout design covering rack density, cooling strategy, power distribution, structured cabling, and redundancy tiers aligned to TIA-942 standards."
+        },
+        {
+          "title": "Fiber Network Design Strategy",
+          "description": "End-to-end fiber topology design for campus, metropolitan, and long-haul networks — including route planning, splicing strategy, and future capacity provisions."
+        },
+        {
+          "title": "Tender Documentation & BoQ Preparation",
+          "description": "Production of complete tender packages including technical specifications, Bill of Quantities, evaluation criteria, and compliance matrices — ensuring fair, competitive procurement outcomes."
+        }
+      ],
+      "forWhom": [
+        "Government ministries planning infrastructure upgrades",
+        "Enterprises embarking on datacenter projects",
+        "Developers tendering large-scale ICT contracts",
+        "Organisations requiring independent technical review"
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Discovery & Briefing",
+          "description": "Stakeholder workshops to understand business objectives, operational constraints, budget parameters, and compliance requirements."
+        },
+        {
+          "step": "02",
+          "title": "Site Survey & Data Collection",
+          "description": "On-site assessment capturing physical, electrical, and network conditions alongside existing documentation review."
+        },
+        {
+          "step": "03",
+          "title": "Analysis & Strategy",
+          "description": "Risk analysis, capacity modelling, and design strategy development with interim review sessions to validate direction."
+        },
+        {
+          "step": "04",
+          "title": "Documentation Delivery",
+          "description": "Formal report and tender package delivery with presentation to decision-makers and optional support through the procurement process."
+        }
+      ]
+    },
+    "id": "mm3901gtxu5oit3",
+    "submittedAt": "2026-02-26T09:15:38.477Z",
+    "status": "approved",
+    "reviewedBy": "admin0",
+    "reviewedAt": "2026-02-26T09:16:12.454Z"
+  },
+  {
+    "resource": "service",
+    "action": "update",
+    "resourceId": "supply-procurement",
+    "resourceTitle": "Supply & Procurement",
+    "submittedBy": "bawan",
+    "payload": {
+      "id": "supply-procurement",
+      "title": "Supply & Procurement",
+      "tagline": "The right equipment. The right time. The right price.",
+      "description": "End-to-end hardware and software procurement for IT, network, datacenter, security, and power infrastructure — with vendor-neutral sourcing and full logistics coordination.",
+      "image": "/uploads/services/1772097761876-gzujxosgiiw.jpg",
+      "heroStat": {
+        "value": "$50M+",
+        "label": "Equipment Procured"
+      },
+      "gradient": "linear-gradient(135deg, #F59E0B, #00C46A)",
+      "icon": "server",
+      "outcomes": [
+        "Authentic, warranty-backed equipment from authorised channels",
+        "Competitive pricing through established vendor relationships",
+        "On-time delivery coordinated with project schedules",
+        "Single point of accountability for all procurement"
+      ],
+      "deliverables": [
+        "Procurement Strategy & Vendor Shortlist",
+        "Technical Compliance Evaluation",
+        "Purchase Orders & Tracking Reports",
+        "Delivery & Inspection Reports",
+        "Warranty & Support Documentation",
+        "Asset Register"
+      ],
+      "compliance": [
+        "ISO 9001",
+        "Authorised Reseller Certifications"
+      ],
+      "forWhom": [
+        "Project managers needing a single supply partner",
+        "Government entities with stringent procurement compliance",
+        "Contractors requiring coordinated staged deliveries",
+        "Organisations replacing end-of-life infrastructure"
+      ],
+      "longDescription": [
+        "Procurement failures — late deliveries, counterfeit equipment, incompatible firmware versions — can derail even the most carefully designed project. Akamco operates as a single, accountable procurement partner, managing the full supply chain from technical specification through final delivery and inspection.",
+        "We source IT and network hardware, datacenter infrastructure, security and power equipment, and software licenses through authorised distribution channels. Our vendor relationships with leading OEMs — Cisco, HPE, Dell, Fortinet, APC, Schneider Electric, and others — give our clients access to genuine equipment with full manufacturer warranty and local support entitlements.",
+        "For complex projects involving multiple vendors and phased deliveries, our logistics and vendor coordination team manages shipping, customs clearance, warehousing, and just-in-time delivery to site — maintaining full chain-of-custody documentation throughout."
+      ],
+      "features": [
+        {
+          "title": "IT & Network Hardware Supply",
+          "description": "Routers, switches, firewalls, wireless access points, structured cabling, and optical fibre products sourced from authorised distributors with full warranty and local support."
+        },
+        {
+          "title": "Datacenter Equipment",
+          "description": "Server racks, PDUs, in-row cooling, KVM systems, raised flooring, and containment solutions procured and delivered to meet datacenter build schedules."
+        },
+        {
+          "title": "Security & Power Equipment",
+          "description": "CCTV cameras, access control panels, UPS systems, solar inverters, and road-blocker mechanisms sourced with full compliance documentation and installation-readiness checks."
+        },
+        {
+          "title": "Software Licensing Procurement",
+          "description": "Operating system, security, virtualisation, and productivity software licensing procured through authorised channels — with licence management support and renewal tracking."
+        },
+        {
+          "title": "Vendor Coordination & Logistics",
+          "description": "Multi-vendor shipment coordination, import documentation, customs handling, and staged delivery scheduling to align with installation milestones and site readiness."
+        }
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Technical Specification Review",
+          "description": "Validate BoQ and technical specs, identify approved equivalent options, and produce a vendor shortlist for client approval."
+        },
+        {
+          "step": "02",
+          "title": "Quotation & Evaluation",
+          "description": "Obtain competitive quotes, perform technical and commercial evaluation, and present a recommendation with full compliance matrix."
+        },
+        {
+          "step": "03",
+          "title": "Order Placement & Tracking",
+          "description": "Raise purchase orders, confirm lead times, and provide regular delivery status updates aligned with the project programme."
+        },
+        {
+          "step": "04",
+          "title": "Delivery, Inspection & Handover",
+          "description": "Receive, inspect, and document all goods with photographic evidence, serial number recording, and formal handover to the installation team."
+        }
+      ]
+    },
+    "originalData": {
+      "id": "supply-procurement",
+      "title": "Supply & Procurement",
+      "tagline": "The right equipment. The right time. The right price.",
+      "description": "End-to-end hardware and software procurement for IT, network, datacenter, security, and power infrastructure — with vendor-neutral sourcing and full logistics coordination.",
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?auto=format&fit=crop&w=1400&q=80",
+      "heroStat": {
+        "value": "$50M+",
+        "label": "Equipment Procured"
+      },
+      "gradient": "linear-gradient(135deg, #F59E0B, #00C46A)",
+      "icon": "server",
+      "outcomes": [
+        "Authentic, warranty-backed equipment from authorised channels",
+        "Competitive pricing through established vendor relationships",
+        "On-time delivery coordinated with project schedules",
+        "Single point of accountability for all procurement"
+      ],
+      "deliverables": [
+        "Procurement Strategy & Vendor Shortlist",
+        "Technical Compliance Evaluation",
+        "Purchase Orders & Tracking Reports",
+        "Delivery & Inspection Reports",
+        "Warranty & Support Documentation",
+        "Asset Register"
+      ],
+      "compliance": [
+        "ISO 9001",
+        "Authorised Reseller Certifications"
+      ],
+      "longDescription": [
+        "Procurement failures — late deliveries, counterfeit equipment, incompatible firmware versions — can derail even the most carefully designed project. Akamco operates as a single, accountable procurement partner, managing the full supply chain from technical specification through final delivery and inspection.",
+        "We source IT and network hardware, datacenter infrastructure, security and power equipment, and software licenses through authorised distribution channels. Our vendor relationships with leading OEMs — Cisco, HPE, Dell, Fortinet, APC, Schneider Electric, and others — give our clients access to genuine equipment with full manufacturer warranty and local support entitlements.",
+        "For complex projects involving multiple vendors and phased deliveries, our logistics and vendor coordination team manages shipping, customs clearance, warehousing, and just-in-time delivery to site — maintaining full chain-of-custody documentation throughout."
+      ],
+      "features": [
+        {
+          "title": "IT & Network Hardware Supply",
+          "description": "Routers, switches, firewalls, wireless access points, structured cabling, and optical fibre products sourced from authorised distributors with full warranty and local support."
+        },
+        {
+          "title": "Datacenter Equipment",
+          "description": "Server racks, PDUs, in-row cooling, KVM systems, raised flooring, and containment solutions procured and delivered to meet datacenter build schedules."
+        },
+        {
+          "title": "Security & Power Equipment",
+          "description": "CCTV cameras, access control panels, UPS systems, solar inverters, and road-blocker mechanisms sourced with full compliance documentation and installation-readiness checks."
+        },
+        {
+          "title": "Software Licensing Procurement",
+          "description": "Operating system, security, virtualisation, and productivity software licensing procured through authorised channels — with licence management support and renewal tracking."
+        },
+        {
+          "title": "Vendor Coordination & Logistics",
+          "description": "Multi-vendor shipment coordination, import documentation, customs handling, and staged delivery scheduling to align with installation milestones and site readiness."
+        }
+      ],
+      "forWhom": [
+        "Project managers needing a single supply partner",
+        "Government entities with stringent procurement compliance",
+        "Contractors requiring coordinated staged deliveries",
+        "Organisations replacing end-of-life infrastructure"
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Technical Specification Review",
+          "description": "Validate BoQ and technical specs, identify approved equivalent options, and produce a vendor shortlist for client approval."
+        },
+        {
+          "step": "02",
+          "title": "Quotation & Evaluation",
+          "description": "Obtain competitive quotes, perform technical and commercial evaluation, and present a recommendation with full compliance matrix."
+        },
+        {
+          "step": "03",
+          "title": "Order Placement & Tracking",
+          "description": "Raise purchase orders, confirm lead times, and provide regular delivery status updates aligned with the project programme."
+        },
+        {
+          "step": "04",
+          "title": "Delivery, Inspection & Handover",
+          "description": "Receive, inspect, and document all goods with photographic evidence, serial number recording, and formal handover to the installation team."
+        }
+      ]
+    },
+    "id": "mm3995e0055rg5g",
+    "submittedAt": "2026-02-26T09:22:43.464Z",
+    "status": "approved",
+    "reviewedBy": "admin0",
+    "reviewedAt": "2026-02-26T09:23:16.360Z"
+  },
+  {
+    "resource": "service",
+    "action": "update",
+    "resourceId": "system-integration-commissioning",
+    "resourceTitle": "System Integration & Commissioning",
+    "submittedBy": "bawan",
+    "payload": {
+      "id": "system-integration-commissioning",
+      "title": "System Integration & Commissioning",
+      "tagline": "Many systems. One unified operation.",
+      "description": "Multi-system integration, control room consolidation, and full commissioning services — ensuring every technology deployed works as a coherent, tested whole before go-live.",
+      "image": "/uploads/services/1772097910011-2l5ifegdz1v.jpeg",
+      "heroStat": {
+        "value": "99.9%",
+        "label": "FAT Pass Rate"
+      },
+      "gradient": "linear-gradient(135deg, #00C46A, #6366F1)",
+      "icon": "globe",
+      "outcomes": [
+        "Fully integrated, interoperable multi-system environments",
+        "Documented FAT and SAT evidence packages",
+        "Reduced operational complexity through centralised management",
+        "Go-live confidence backed by rigorous commissioning"
+      ],
+      "deliverables": [
+        "Integration Architecture Document",
+        "FAT Test Scripts & Results",
+        "SAT Test Scripts & Results",
+        "Commissioning Certificates",
+        "Integrated System User Guide",
+        "Punch List & Defect Close-out Report"
+      ],
+      "compliance": [
+        "IEC 62443",
+        "ISO/IEC 27001",
+        "NIST SP 800-82"
+      ],
+      "forWhom": [
+        "Large facility operators managing multiple sub-systems",
+        "Government security command and control projects",
+        "Industrial sites with OT/IT convergence requirements",
+        "Contractors handing over complex integrated installations"
+      ],
+      "longDescription": [
+        "Modern infrastructure projects rarely involve a single system. Security, fire, access control, building management, fiber monitoring, and IT networks must all be integrated into a coherent operational picture — and that integration is where projects most frequently fail. Akamco's System Integration & Commissioning practice exists to make that convergence work.",
+        "Our integration engineers design and implement the middleware, APIs, and protocol gateways that allow disparate systems to share data and act in concert. For control rooms, we deliver unified operator interfaces that consolidate alarm management, video, access events, and network status into a single pane of glass — reducing operator cognitive load and accelerating response times.",
+        "Commissioning is always evidence-based: every Factory Acceptance Test and Site Acceptance Test is executed against pre-approved scripts, with results documented and signed off by both Akamco and the client — producing the commissioning certificate that closes out the contract and transitions the system to operations."
+      ],
+      "features": [
+        {
+          "title": "Multi-System Integration",
+          "description": "Protocol-level and API-based integration between security, fire, BMS, SCADA, and IT systems using open standards including OSDP, BACnet, MODBUS, REST, and OPC-UA."
+        },
+        {
+          "title": "Control Room Integration",
+          "description": "Unified operator workstation design, video wall integration, alarm management platform configuration, and operator workflow optimisation for security and operations control rooms."
+        },
+        {
+          "title": "Fiber Monitoring Integration",
+          "description": "Integration of OTDR and fiber sensing systems with network management platforms to provide real-time alerting on fiber link degradation, cuts, and intrusion events."
+        },
+        {
+          "title": "Software & Hardware Integration",
+          "description": "Configuration and integration of network management systems, SIEM platforms, physical security information management (PSIM) software, and building automation controllers."
+        },
+        {
+          "title": "Testing & Commissioning",
+          "description": "Structured commissioning programme covering loop checks, functional tests, performance tests, and integrated system scenario testing — with full documentation for each test step."
+        },
+        {
+          "title": "FAT & SAT",
+          "description": "Factory Acceptance Testing at the system integrator's premises and Site Acceptance Testing post-installation, executed against pre-approved test scripts with client witness and sign-off."
+        }
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Integration Design",
+          "description": "Define system interfaces, data flows, protocol mappings, and integration architecture with all sub-system vendors."
+        },
+        {
+          "step": "02",
+          "title": "FAT Preparation & Execution",
+          "description": "Develop FAT test scripts, configure systems in a test environment, and execute acceptance tests with client representation."
+        },
+        {
+          "step": "03",
+          "title": "Site Integration & SAT",
+          "description": "Install integration middleware on-site, connect sub-systems, and execute Site Acceptance Tests against the approved scripts."
+        },
+        {
+          "step": "04",
+          "title": "Go-Live & Defect Close-out",
+          "description": "Supervised go-live, operator familiarisation, punch list management, and final commissioning certificate issue."
+        }
+      ]
+    },
+    "originalData": {
+      "id": "system-integration-commissioning",
+      "title": "System Integration & Commissioning",
+      "tagline": "Many systems. One unified operation.",
+      "description": "Multi-system integration, control room consolidation, and full commissioning services — ensuring every technology deployed works as a coherent, tested whole before go-live.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=1400&q=80",
+      "heroStat": {
+        "value": "99.9%",
+        "label": "FAT Pass Rate"
+      },
+      "gradient": "linear-gradient(135deg, #00C46A, #6366F1)",
+      "icon": "globe",
+      "outcomes": [
+        "Fully integrated, interoperable multi-system environments",
+        "Documented FAT and SAT evidence packages",
+        "Reduced operational complexity through centralised management",
+        "Go-live confidence backed by rigorous commissioning"
+      ],
+      "deliverables": [
+        "Integration Architecture Document",
+        "FAT Test Scripts & Results",
+        "SAT Test Scripts & Results",
+        "Commissioning Certificates",
+        "Integrated System User Guide",
+        "Punch List & Defect Close-out Report"
+      ],
+      "compliance": [
+        "IEC 62443",
+        "ISO/IEC 27001",
+        "NIST SP 800-82"
+      ],
+      "longDescription": [
+        "Modern infrastructure projects rarely involve a single system. Security, fire, access control, building management, fiber monitoring, and IT networks must all be integrated into a coherent operational picture — and that integration is where projects most frequently fail. Akamco's System Integration & Commissioning practice exists to make that convergence work.",
+        "Our integration engineers design and implement the middleware, APIs, and protocol gateways that allow disparate systems to share data and act in concert. For control rooms, we deliver unified operator interfaces that consolidate alarm management, video, access events, and network status into a single pane of glass — reducing operator cognitive load and accelerating response times.",
+        "Commissioning is always evidence-based: every Factory Acceptance Test and Site Acceptance Test is executed against pre-approved scripts, with results documented and signed off by both Akamco and the client — producing the commissioning certificate that closes out the contract and transitions the system to operations."
+      ],
+      "features": [
+        {
+          "title": "Multi-System Integration",
+          "description": "Protocol-level and API-based integration between security, fire, BMS, SCADA, and IT systems using open standards including OSDP, BACnet, MODBUS, REST, and OPC-UA."
+        },
+        {
+          "title": "Control Room Integration",
+          "description": "Unified operator workstation design, video wall integration, alarm management platform configuration, and operator workflow optimisation for security and operations control rooms."
+        },
+        {
+          "title": "Fiber Monitoring Integration",
+          "description": "Integration of OTDR and fiber sensing systems with network management platforms to provide real-time alerting on fiber link degradation, cuts, and intrusion events."
+        },
+        {
+          "title": "Software & Hardware Integration",
+          "description": "Configuration and integration of network management systems, SIEM platforms, physical security information management (PSIM) software, and building automation controllers."
+        },
+        {
+          "title": "Testing & Commissioning",
+          "description": "Structured commissioning programme covering loop checks, functional tests, performance tests, and integrated system scenario testing — with full documentation for each test step."
+        },
+        {
+          "title": "FAT & SAT",
+          "description": "Factory Acceptance Testing at the system integrator's premises and Site Acceptance Testing post-installation, executed against pre-approved test scripts with client witness and sign-off."
+        }
+      ],
+      "forWhom": [
+        "Large facility operators managing multiple sub-systems",
+        "Government security command and control projects",
+        "Industrial sites with OT/IT convergence requirements",
+        "Contractors handing over complex integrated installations"
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Integration Design",
+          "description": "Define system interfaces, data flows, protocol mappings, and integration architecture with all sub-system vendors."
+        },
+        {
+          "step": "02",
+          "title": "FAT Preparation & Execution",
+          "description": "Develop FAT test scripts, configure systems in a test environment, and execute acceptance tests with client representation."
+        },
+        {
+          "step": "03",
+          "title": "Site Integration & SAT",
+          "description": "Install integration middleware on-site, connect sub-systems, and execute Site Acceptance Tests against the approved scripts."
+        },
+        {
+          "step": "04",
+          "title": "Go-Live & Defect Close-out",
+          "description": "Supervised go-live, operator familiarisation, punch list management, and final commissioning certificate issue."
+        }
+      ]
+    },
+    "id": "mm39cb9y1vfzgsf",
+    "submittedAt": "2026-02-26T09:25:11.062Z",
+    "status": "approved",
+    "reviewedBy": "admin0",
+    "reviewedAt": "2026-02-26T09:26:31.217Z"
+  },
+  {
+    "resource": "service",
+    "action": "update",
+    "resourceId": "installation-deployment",
+    "resourceTitle": "Installation & Deployment",
+    "submittedBy": "bawan",
+    "payload": {
+      "id": "installation-deployment",
+      "title": "Installation & Deployment",
+      "tagline": "Precision installation. Zero-disruption delivery.",
+      "description": "Professional installation and deployment of datacenter infrastructure, network and fiber systems, CCTV, fire alarms, physical security, solar, and UPS across enterprise and government sites.",
+      "image": "/uploads/services/1772098050010-r77x1i815y9.jpg",
+      "heroStat": {
+        "value": "500+",
+        "label": "Sites Commissioned"
+      },
+      "gradient": "linear-gradient(135deg, #6366F1, #00C46A)",
+      "icon": "layers",
+      "outcomes": [
+        "Clean, standards-compliant cable and equipment installation",
+        "Minimal disruption to ongoing operations",
+        "Fully documented and labelled infrastructure",
+        "Systems ready for commissioning on schedule"
+      ],
+      "deliverables": [
+        "Installation Method Statement",
+        "Cable & Equipment Labelling Schedule",
+        "As-Built Drawings",
+        "Inspection & Test Records",
+        "Commissioning Checklist",
+        "Handover Pack"
+      ],
+      "compliance": [
+        "BS EN 50174",
+        "NFPA 70",
+        "IEC 60364",
+        "TIA-568"
+      ],
+      "forWhom": [
+        "Main contractors requiring specialist sub-contractors",
+        "Government facilities undergoing infrastructure upgrades",
+        "Enterprises building new offices or datacenters",
+        "Critical infrastructure operators adding security layers"
+      ],
+      "longDescription": [
+        "Flawless installation is invisible — it's only noticed when it goes wrong. Akamco's delivery teams are trained, certified, and equipped to install complex, multi-system infrastructure to exacting standards, on schedule, and with the site discipline that sensitive operational environments demand.",
+        "Our installation scope spans the full physical layer: datacenter build and rack installation, structured cabling and fiber splicing, CCTV and access control deployment, fire alarm cabling and device installation, road-blocker and perimeter barrier commissioning, and solar PV with UPS integration. Each discipline is executed by specialist engineers with the appropriate trade certifications and OEM accreditations.",
+        "Every installation is documented with method statements, inspection records, photographic evidence, and as-built drawings — so the handover pack reflects exactly what was installed and how, giving operations teams the foundation they need for ongoing maintenance."
+      ],
+      "features": [
+        {
+          "title": "Datacenter Build & Rack Installation",
+          "description": "Full datacenter fit-out including raised floor installation, rack assembly, cable management, PDU mounting, and patch panel termination to TIA-942 standards."
+        },
+        {
+          "title": "Network & Fiber Installation",
+          "description": "Structured copper and fiber cabling, trunking and conduit, MDF/IDF build, patch panel termination, and optical fiber splicing with OTDR test certification."
+        },
+        {
+          "title": "CCTV & Security System Deployment",
+          "description": "IP and analogue camera installation, NVR/DVR rack mounting, access control panel and reader installation, electric lock fitting, and cabling termination."
+        },
+        {
+          "title": "Fire Alarm Installation",
+          "description": "Fire alarm control panel installation, detector and manual call-point positioning, cable routing in accordance with NFPA 72 or BS 5839, and input/output module wiring."
+        },
+        {
+          "title": "Road Blocker & Barrier Installation",
+          "description": "Civil and mechanical installation of hydraulic road blockers, rising bollards, and barrier arms — including loop detector installation, control panel wiring, and safety interlock testing."
+        },
+        {
+          "title": "Solar & UPS Installation",
+          "description": "Solar panel mounting and array wiring, inverter and battery bank installation, UPS bypass switch installation, and earthing and surge protection in compliance with electrical codes."
+        }
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Pre-Installation Survey",
+          "description": "Site readiness check, installation method statement approval, and risk assessment before mobilisation."
+        },
+        {
+          "step": "02",
+          "title": "Staged Installation",
+          "description": "Phased installation aligned with construction programme, with daily progress reporting and photographic documentation."
+        },
+        {
+          "step": "03",
+          "title": "Testing & Inspection",
+          "description": "Point-to-point continuity testing, OTDR certification for fiber, and system-level inspection against design drawings."
+        },
+        {
+          "step": "04",
+          "title": "As-Built & Handover",
+          "description": "As-built drawing update, labelling completion, snagging close-out, and formal handover pack delivery."
+        }
+      ]
+    },
+    "originalData": {
+      "id": "installation-deployment",
+      "title": "Installation & Deployment",
+      "tagline": "Precision installation. Zero-disruption delivery.",
+      "description": "Professional installation and deployment of datacenter infrastructure, network and fiber systems, CCTV, fire alarms, physical security, solar, and UPS across enterprise and government sites.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1400&q=80",
+      "heroStat": {
+        "value": "500+",
+        "label": "Sites Commissioned"
+      },
+      "gradient": "linear-gradient(135deg, #6366F1, #00C46A)",
+      "icon": "layers",
+      "outcomes": [
+        "Clean, standards-compliant cable and equipment installation",
+        "Minimal disruption to ongoing operations",
+        "Fully documented and labelled infrastructure",
+        "Systems ready for commissioning on schedule"
+      ],
+      "deliverables": [
+        "Installation Method Statement",
+        "Cable & Equipment Labelling Schedule",
+        "As-Built Drawings",
+        "Inspection & Test Records",
+        "Commissioning Checklist",
+        "Handover Pack"
+      ],
+      "compliance": [
+        "BS EN 50174",
+        "NFPA 70",
+        "IEC 60364",
+        "TIA-568"
+      ],
+      "longDescription": [
+        "Flawless installation is invisible — it's only noticed when it goes wrong. Akamco's delivery teams are trained, certified, and equipped to install complex, multi-system infrastructure to exacting standards, on schedule, and with the site discipline that sensitive operational environments demand.",
+        "Our installation scope spans the full physical layer: datacenter build and rack installation, structured cabling and fiber splicing, CCTV and access control deployment, fire alarm cabling and device installation, road-blocker and perimeter barrier commissioning, and solar PV with UPS integration. Each discipline is executed by specialist engineers with the appropriate trade certifications and OEM accreditations.",
+        "Every installation is documented with method statements, inspection records, photographic evidence, and as-built drawings — so the handover pack reflects exactly what was installed and how, giving operations teams the foundation they need for ongoing maintenance."
+      ],
+      "features": [
+        {
+          "title": "Datacenter Build & Rack Installation",
+          "description": "Full datacenter fit-out including raised floor installation, rack assembly, cable management, PDU mounting, and patch panel termination to TIA-942 standards."
+        },
+        {
+          "title": "Network & Fiber Installation",
+          "description": "Structured copper and fiber cabling, trunking and conduit, MDF/IDF build, patch panel termination, and optical fiber splicing with OTDR test certification."
+        },
+        {
+          "title": "CCTV & Security System Deployment",
+          "description": "IP and analogue camera installation, NVR/DVR rack mounting, access control panel and reader installation, electric lock fitting, and cabling termination."
+        },
+        {
+          "title": "Fire Alarm Installation",
+          "description": "Fire alarm control panel installation, detector and manual call-point positioning, cable routing in accordance with NFPA 72 or BS 5839, and input/output module wiring."
+        },
+        {
+          "title": "Road Blocker & Barrier Installation",
+          "description": "Civil and mechanical installation of hydraulic road blockers, rising bollards, and barrier arms — including loop detector installation, control panel wiring, and safety interlock testing."
+        },
+        {
+          "title": "Solar & UPS Installation",
+          "description": "Solar panel mounting and array wiring, inverter and battery bank installation, UPS bypass switch installation, and earthing and surge protection in compliance with electrical codes."
+        }
+      ],
+      "forWhom": [
+        "Main contractors requiring specialist sub-contractors",
+        "Government facilities undergoing infrastructure upgrades",
+        "Enterprises building new offices or datacenters",
+        "Critical infrastructure operators adding security layers"
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Pre-Installation Survey",
+          "description": "Site readiness check, installation method statement approval, and risk assessment before mobilisation."
+        },
+        {
+          "step": "02",
+          "title": "Staged Installation",
+          "description": "Phased installation aligned with construction programme, with daily progress reporting and photographic documentation."
+        },
+        {
+          "step": "03",
+          "title": "Testing & Inspection",
+          "description": "Point-to-point continuity testing, OTDR certification for fiber, and system-level inspection against design drawings."
+        },
+        {
+          "step": "04",
+          "title": "As-Built & Handover",
+          "description": "As-built drawing update, labelling completion, snagging close-out, and formal handover pack delivery."
+        }
+      ]
+    },
+    "id": "mm39fbcbcux3qz2",
+    "submittedAt": "2026-02-26T09:27:31.115Z",
+    "status": "approved",
+    "reviewedBy": "admin0",
+    "reviewedAt": "2026-02-26T09:29:12.981Z"
+  },
+  {
+    "resource": "service",
+    "action": "update",
+    "resourceId": "managed-services-monitoring",
+    "resourceTitle": "Managed Services & Monitoring",
+    "submittedBy": "bawan",
+    "payload": {
+      "id": "managed-services-monitoring",
+      "title": "Managed Services & Monitoring",
+      "tagline": "Always watching. Always optimising.",
+      "description": "24/7 remote monitoring, SOC and NOC operations, preventive maintenance, and continuous performance optimisation — keeping your infrastructure performing at its peak around the clock.",
+      "image": "/uploads/services/1772098134483-qkj1fgb6o0e.png",
+      "heroStat": {
+        "value": "24/7",
+        "label": "Eyes on Your Network"
+      },
+      "gradient": "linear-gradient(135deg, #0EA5E9, #00C46A)",
+      "icon": "monitor",
+      "outcomes": [
+        "Threats and faults detected and escalated in minutes",
+        "Proactive maintenance before issues become outages",
+        "Firmware and patch currency maintained continuously",
+        "Monthly performance reports with actionable insights"
+      ],
+      "deliverables": [
+        "Monthly Operations Report",
+        "Incident & Ticket Log",
+        "Patch & Firmware Status Report",
+        "Network Performance Dashboard",
+        "Security Event Summary",
+        "Capacity Trend Analysis"
+      ],
+      "compliance": [
+        "ISO 27001",
+        "ISO 20000",
+        "NIST CSF"
+      ],
+      "forWhom": [
+        "Enterprises without in-house 24/7 operations capability",
+        "Government facilities with critical uptime requirements",
+        "Organisations augmenting their internal IT teams",
+        "Multi-site operators needing centralised visibility"
+      ],
+      "longDescription": [
+        "Infrastructure without ongoing management deteriorates silently — firmware vulnerabilities accumulate, bandwidth bottlenecks creep in, and the first sign of a problem is often the outage itself. Akamco's Managed Services & Monitoring practice keeps this from happening by maintaining a continuous operational presence across your environment.",
+        "Our combined Security Operations Centre (SOC) and Network Operations Centre (NOC) capabilities mean that security events and network performance issues are handled by specialists in each domain, working from a common toolset and escalation process. We monitor fiber links, security systems, servers, and network devices — correlating alerts to distinguish genuine incidents from noise and acting on what matters.",
+        "Preventive maintenance, patch management, and performance optimisation are handled proactively on agreed schedules, ensuring that your infrastructure stays current and healthy between incidents — not just after them."
+      ],
+      "features": [
+        {
+          "title": "24/7 Remote Monitoring",
+          "description": "Round-the-clock monitoring of network, security, and power infrastructure using enterprise-grade NMS and SIEM platforms — with defined SLA response times for each alert severity."
+        },
+        {
+          "title": "SOC & NOC Services",
+          "description": "Dedicated Security Operations Centre and Network Operations Centre functions — threat detection, triage, and escalation combined with network performance management and fault resolution."
+        },
+        {
+          "title": "Fiber Link Monitoring",
+          "description": "Continuous optical power monitoring and OTDR-based fault localisation for fiber infrastructure, with automated alerting and rapid field dispatch on confirmed link failures."
+        },
+        {
+          "title": "Preventive Maintenance",
+          "description": "Scheduled on-site preventive maintenance visits covering physical inspection, cleaning, tightening connections, cooling checks, and battery health testing across all covered systems."
+        },
+        {
+          "title": "Patch & Firmware Management",
+          "description": "Systematic vulnerability assessment and patching of network devices, security platforms, and servers — tested in a staging environment before production deployment."
+        },
+        {
+          "title": "Performance Optimisation",
+          "description": "Ongoing analysis of network utilisation, application response times, and security policy effectiveness — with tuning recommendations and implementation to maintain peak performance."
+        }
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Onboarding & Discovery",
+          "description": "Asset discovery, monitoring agent deployment, alert threshold configuration, and escalation matrix establishment."
+        },
+        {
+          "step": "02",
+          "title": "Operations Commencement",
+          "description": "Live monitoring activation with a hypercare period for tuning and false-positive reduction before standard operations."
+        },
+        {
+          "step": "03",
+          "title": "Ongoing Operations",
+          "description": "Continuous monitoring, incident management, preventive maintenance execution, and patch deployment on agreed schedules."
+        },
+        {
+          "step": "04",
+          "title": "Monthly Reporting & Review",
+          "description": "Monthly service review meeting, performance and security report delivery, and service improvement planning."
+        }
+      ]
+    },
+    "originalData": {
+      "id": "managed-services-monitoring",
+      "title": "Managed Services & Monitoring",
+      "tagline": "Always watching. Always optimising.",
+      "description": "24/7 remote monitoring, SOC and NOC operations, preventive maintenance, and continuous performance optimisation — keeping your infrastructure performing at its peak around the clock.",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1400&q=80",
+      "heroStat": {
+        "value": "24/7",
+        "label": "Eyes on Your Network"
+      },
+      "gradient": "linear-gradient(135deg, #0EA5E9, #00C46A)",
+      "icon": "monitor",
+      "outcomes": [
+        "Threats and faults detected and escalated in minutes",
+        "Proactive maintenance before issues become outages",
+        "Firmware and patch currency maintained continuously",
+        "Monthly performance reports with actionable insights"
+      ],
+      "deliverables": [
+        "Monthly Operations Report",
+        "Incident & Ticket Log",
+        "Patch & Firmware Status Report",
+        "Network Performance Dashboard",
+        "Security Event Summary",
+        "Capacity Trend Analysis"
+      ],
+      "compliance": [
+        "ISO 27001",
+        "ISO 20000",
+        "NIST CSF"
+      ],
+      "longDescription": [
+        "Infrastructure without ongoing management deteriorates silently — firmware vulnerabilities accumulate, bandwidth bottlenecks creep in, and the first sign of a problem is often the outage itself. Akamco's Managed Services & Monitoring practice keeps this from happening by maintaining a continuous operational presence across your environment.",
+        "Our combined Security Operations Centre (SOC) and Network Operations Centre (NOC) capabilities mean that security events and network performance issues are handled by specialists in each domain, working from a common toolset and escalation process. We monitor fiber links, security systems, servers, and network devices — correlating alerts to distinguish genuine incidents from noise and acting on what matters.",
+        "Preventive maintenance, patch management, and performance optimisation are handled proactively on agreed schedules, ensuring that your infrastructure stays current and healthy between incidents — not just after them."
+      ],
+      "features": [
+        {
+          "title": "24/7 Remote Monitoring",
+          "description": "Round-the-clock monitoring of network, security, and power infrastructure using enterprise-grade NMS and SIEM platforms — with defined SLA response times for each alert severity."
+        },
+        {
+          "title": "SOC & NOC Services",
+          "description": "Dedicated Security Operations Centre and Network Operations Centre functions — threat detection, triage, and escalation combined with network performance management and fault resolution."
+        },
+        {
+          "title": "Fiber Link Monitoring",
+          "description": "Continuous optical power monitoring and OTDR-based fault localisation for fiber infrastructure, with automated alerting and rapid field dispatch on confirmed link failures."
+        },
+        {
+          "title": "Preventive Maintenance",
+          "description": "Scheduled on-site preventive maintenance visits covering physical inspection, cleaning, tightening connections, cooling checks, and battery health testing across all covered systems."
+        },
+        {
+          "title": "Patch & Firmware Management",
+          "description": "Systematic vulnerability assessment and patching of network devices, security platforms, and servers — tested in a staging environment before production deployment."
+        },
+        {
+          "title": "Performance Optimisation",
+          "description": "Ongoing analysis of network utilisation, application response times, and security policy effectiveness — with tuning recommendations and implementation to maintain peak performance."
+        }
+      ],
+      "forWhom": [
+        "Enterprises without in-house 24/7 operations capability",
+        "Government facilities with critical uptime requirements",
+        "Organisations augmenting their internal IT teams",
+        "Multi-site operators needing centralised visibility"
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Onboarding & Discovery",
+          "description": "Asset discovery, monitoring agent deployment, alert threshold configuration, and escalation matrix establishment."
+        },
+        {
+          "step": "02",
+          "title": "Operations Commencement",
+          "description": "Live monitoring activation with a hypercare period for tuning and false-positive reduction before standard operations."
+        },
+        {
+          "step": "03",
+          "title": "Ongoing Operations",
+          "description": "Continuous monitoring, incident management, preventive maintenance execution, and patch deployment on agreed schedules."
+        },
+        {
+          "step": "04",
+          "title": "Monthly Reporting & Review",
+          "description": "Monthly service review meeting, performance and security report delivery, and service improvement planning."
+        }
+      ]
+    },
+    "id": "mm39h5bftec1bbt",
+    "submittedAt": "2026-02-26T09:28:56.619Z",
+    "status": "approved",
+    "reviewedBy": "admin0",
+    "reviewedAt": "2026-02-26T09:29:31.299Z"
+  },
+  {
+    "resource": "service",
+    "action": "update",
+    "resourceId": "annual-maintenance-contracts",
+    "resourceTitle": "Annual Maintenance Contracts (AMC)",
+    "submittedBy": "bawan",
+    "payload": {
+      "id": "annual-maintenance-contracts",
+      "title": "Annual Maintenance Contracts (AMC)",
+      "tagline": "Investment protection. Guaranteed response.",
+      "description": "Structured AMC programs providing scheduled preventive maintenance, emergency technical support, spare parts replacement, and SLA-backed response times for all installed systems.",
+      "image": "/uploads/services/1772098318535-cxw2v5gkji7.webp",
+      "heroStat": {
+        "value": "4hr",
+        "label": "Emergency Response SLA"
+      },
+      "gradient": "linear-gradient(135deg, #00C46A, #F59E0B)",
+      "icon": "shield",
+      "outcomes": [
+        "Extended equipment lifespan through proactive care",
+        "Predictable maintenance budgeting with fixed annual fees",
+        "Rapid emergency response with defined SLA commitments",
+        "Full visibility into system health through regular reporting"
+      ],
+      "deliverables": [
+        "AMC Agreement & SLA Schedule",
+        "Preventive Maintenance Visit Reports",
+        "Emergency Call-Out Records",
+        "Spare Parts Consumption Log",
+        "Firmware & Update History",
+        "Annual System Health Report"
+      ],
+      "compliance": [
+        "ISO 20000",
+        "ISO 9001"
+      ],
+      "forWhom": [
+        "Organisations with post-warranty infrastructure",
+        "Government facilities requiring documented maintenance records",
+        "Critical sites where unplanned downtime is unacceptable",
+        "Enterprises managing multiple installed systems"
+      ],
+      "longDescription": [
+        "A system installed without a maintenance plan is a system with a countdown to failure. Akamco's Annual Maintenance Contracts give organisations the assurance of knowing that their infrastructure is being actively cared for by the engineers who built it — with documented commitments on visit frequency, response times, and service scope.",
+        "Each AMC is structured around the specific systems covered, with scheduled preventive maintenance visits performed at agreed intervals. During each visit, our engineers carry out physical inspections, performance checks, firmware reviews, and minor adjustments — catching issues that would otherwise silently grow into outages.",
+        "For emergencies, our AMC clients benefit from priority dispatch with a defined SLA response time — whether the issue is a failed UPS, a down security camera, or a critical network fault. Spare parts coverage, firmware update management, and periodic system health reporting complete a service that genuinely protects the value of your infrastructure investment."
+      ],
+      "features": [
+        {
+          "title": "Scheduled Preventive Visits",
+          "description": "Regular on-site preventive maintenance visits at contractually defined intervals — covering physical inspections, cleaning, cable dress, cooling checks, and functional testing."
+        },
+        {
+          "title": "Emergency Technical Support",
+          "description": "Priority emergency response with SLA-backed arrival times for critical faults — covering all systems within the AMC scope with 24/7 call-out availability."
+        },
+        {
+          "title": "Spare Parts Replacement",
+          "description": "Pre-agreed spare parts coverage for common consumables and failure-prone components — minimising lead times and ensuring rapid restoration of failed equipment."
+        },
+        {
+          "title": "Firmware & Software Updates",
+          "description": "Managed firmware and software update cycle for all covered devices — including change management documentation and rollback capabilities."
+        },
+        {
+          "title": "SLA-Based Response Time",
+          "description": "Contractually committed response and restoration time SLAs tiered by severity — from 4-hour emergency response to next business day for non-critical faults."
+        },
+        {
+          "title": "System Health Reporting",
+          "description": "Periodic system health reports summarising maintenance activities, incident history, component aging, and recommendations for refresh or upgrade — supporting lifecycle planning."
+        }
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Systems Audit & Scoping",
+          "description": "Inventory all systems, assess current condition, and define AMC scope, coverage levels, and SLA parameters."
+        },
+        {
+          "step": "02",
+          "title": "Contract Agreement & Schedule",
+          "description": "Finalise AMC agreement, preventive visit schedule, spare parts provision, and escalation contact matrix."
+        },
+        {
+          "step": "03",
+          "title": "Ongoing Preventive & Reactive Services",
+          "description": "Execute scheduled preventive visits, respond to emergency call-outs, and manage firmware and spare parts."
+        },
+        {
+          "step": "04",
+          "title": "Annual Review & Renewal",
+          "description": "Annual service review, health report presentation, contract performance assessment, and next-year scope refinement."
+        }
+      ]
+    },
+    "originalData": {
+      "id": "annual-maintenance-contracts",
+      "title": "Annual Maintenance Contracts (AMC)",
+      "tagline": "Investment protection. Guaranteed response.",
+      "description": "Structured AMC programs providing scheduled preventive maintenance, emergency technical support, spare parts replacement, and SLA-backed response times for all installed systems.",
+      "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1400&q=80",
+      "heroStat": {
+        "value": "4hr",
+        "label": "Emergency Response SLA"
+      },
+      "gradient": "linear-gradient(135deg, #00C46A, #F59E0B)",
+      "icon": "shield",
+      "outcomes": [
+        "Extended equipment lifespan through proactive care",
+        "Predictable maintenance budgeting with fixed annual fees",
+        "Rapid emergency response with defined SLA commitments",
+        "Full visibility into system health through regular reporting"
+      ],
+      "deliverables": [
+        "AMC Agreement & SLA Schedule",
+        "Preventive Maintenance Visit Reports",
+        "Emergency Call-Out Records",
+        "Spare Parts Consumption Log",
+        "Firmware & Update History",
+        "Annual System Health Report"
+      ],
+      "compliance": [
+        "ISO 20000",
+        "ISO 9001"
+      ],
+      "longDescription": [
+        "A system installed without a maintenance plan is a system with a countdown to failure. Akamco's Annual Maintenance Contracts give organisations the assurance of knowing that their infrastructure is being actively cared for by the engineers who built it — with documented commitments on visit frequency, response times, and service scope.",
+        "Each AMC is structured around the specific systems covered, with scheduled preventive maintenance visits performed at agreed intervals. During each visit, our engineers carry out physical inspections, performance checks, firmware reviews, and minor adjustments — catching issues that would otherwise silently grow into outages.",
+        "For emergencies, our AMC clients benefit from priority dispatch with a defined SLA response time — whether the issue is a failed UPS, a down security camera, or a critical network fault. Spare parts coverage, firmware update management, and periodic system health reporting complete a service that genuinely protects the value of your infrastructure investment."
+      ],
+      "features": [
+        {
+          "title": "Scheduled Preventive Visits",
+          "description": "Regular on-site preventive maintenance visits at contractually defined intervals — covering physical inspections, cleaning, cable dress, cooling checks, and functional testing."
+        },
+        {
+          "title": "Emergency Technical Support",
+          "description": "Priority emergency response with SLA-backed arrival times for critical faults — covering all systems within the AMC scope with 24/7 call-out availability."
+        },
+        {
+          "title": "Spare Parts Replacement",
+          "description": "Pre-agreed spare parts coverage for common consumables and failure-prone components — minimising lead times and ensuring rapid restoration of failed equipment."
+        },
+        {
+          "title": "Firmware & Software Updates",
+          "description": "Managed firmware and software update cycle for all covered devices — including change management documentation and rollback capabilities."
+        },
+        {
+          "title": "SLA-Based Response Time",
+          "description": "Contractually committed response and restoration time SLAs tiered by severity — from 4-hour emergency response to next business day for non-critical faults."
+        },
+        {
+          "title": "System Health Reporting",
+          "description": "Periodic system health reports summarising maintenance activities, incident history, component aging, and recommendations for refresh or upgrade — supporting lifecycle planning."
+        }
+      ],
+      "forWhom": [
+        "Organisations with post-warranty infrastructure",
+        "Government facilities requiring documented maintenance records",
+        "Critical sites where unplanned downtime is unacceptable",
+        "Enterprises managing multiple installed systems"
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Systems Audit & Scoping",
+          "description": "Inventory all systems, assess current condition, and define AMC scope, coverage levels, and SLA parameters."
+        },
+        {
+          "step": "02",
+          "title": "Contract Agreement & Schedule",
+          "description": "Finalise AMC agreement, preventive visit schedule, spare parts provision, and escalation contact matrix."
+        },
+        {
+          "step": "03",
+          "title": "Ongoing Preventive & Reactive Services",
+          "description": "Execute scheduled preventive visits, respond to emergency call-outs, and manage firmware and spare parts."
+        },
+        {
+          "step": "04",
+          "title": "Annual Review & Renewal",
+          "description": "Annual service review, health report presentation, contract performance assessment, and next-year scope refinement."
+        }
+      ]
+    },
+    "id": "mm39l2adc1a2mge",
+    "submittedAt": "2026-02-26T09:31:59.317Z",
+    "status": "approved",
+    "reviewedBy": "admin0",
+    "reviewedAt": "2026-02-26T09:32:20.610Z"
+  },
+  {
+    "resource": "solution",
+    "action": "update",
+    "resourceId": "network-infrastructure",
+    "resourceTitle": "Network Infrastructure Solutions",
+    "submittedBy": "bawan",
+    "payload": {
+      "id": "network-infrastructure",
+      "title": "Network Infrastructure Solutions",
+      "tagline": "High-performance, secure networks built for enterprise demands.",
+      "description": "High-performance, secure network architectures for enterprise environments — from access layer to core.",
+      "image": "/uploads/solutions/1772098445895-wuvubez9db.jpg",
+      "heroStat": {
+        "value": "99.99%",
+        "label": "Uptime SLA"
+      },
+      "gradient": "linear-gradient(135deg, #0EA5E9, #00C46A)",
+      "icon": "globe",
+      "outcomes": [
+        "Resilient, redundant network architecture",
+        "Secure segmentation and zero-trust access",
+        "Optimised bandwidth and application performance",
+        "Centralised visibility and management"
+      ],
+      "deliverables": [
+        "Network Architecture Design",
+        "Switching & Routing Configuration",
+        "Wireless Survey & Deployment",
+        "Fiber Infrastructure Plan",
+        "Cabling Certification Reports",
+        "Network Management Platform"
+      ],
+      "compliance": [
+        "ISO 27001",
+        "TIA-568",
+        "IEEE 802.11ax",
+        "PCI DSS"
+      ],
+      "forWhom": [
+        "Multi-site enterprises building unified network standards",
+        "Government facilities upgrading legacy LAN/WAN infrastructure",
+        "Healthcare and education campuses requiring dense Wi-Fi",
+        "Industrial facilities needing IT/OT network separation"
+      ],
+      "longDescription": [
+        "Your network is the nervous system of your organisation. Performance bottlenecks, flat topologies, and misconfigured access controls are among the leading contributors to both productivity loss and security compromise. Akamco designs and deploys network infrastructure that is purpose-built for the demands of modern enterprise environments.",
+        "We architect and implement core and access switching fabrics with full redundancy, enterprise Wi-Fi 6/6E across complex facilities, fiber optic backbones with OTDR-certified splicing, structured cabling systems to TIA-568 standards, and SD-WAN overlays that intelligently manage traffic across multiple WAN links.",
+        "Every network we deliver is documented down to the port level — IP addressing, VLAN assignments, spanning-tree configuration, and QoS policies — so your operations team has complete, accurate information from day one."
+      ],
+      "features": [
+        {
+          "title": "Core & Access Switching",
+          "description": "Redundant core switching fabrics using VSS, StackWise, or MLAG technologies — with access layer segmentation, PoE for IP phones and cameras, and 802.1X port authentication."
+        },
+        {
+          "title": "Enterprise Wi-Fi",
+          "description": "Wi-Fi 6/6E deployment across offices, warehouses, and campuses — with predictive RF planning, centralised controller management, guest SSID isolation, and rogue AP detection."
+        },
+        {
+          "title": "Fiber Optic Infrastructure",
+          "description": "Single-mode and multi-mode fiber backbone design and installation, fusion splicing, OTDR testing and certification, and patch panel termination in MDFs and IDFs."
+        },
+        {
+          "title": "Structured Cabling Systems",
+          "description": "Cat6A and Cat8 copper cabling installation to TIA-568 standards — with full passmark certification, labelling, and documentation for every outlet and panel port."
+        },
+        {
+          "title": "SD-WAN & Network Segmentation",
+          "description": "Application-aware SD-WAN overlays for multi-site organisations, combined with micro-segmentation to isolate IoT, OT, guest, and corporate traffic within the same physical infrastructure."
+        }
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Network Assessment",
+          "description": "Topology discovery, traffic analysis, device inventory, and security posture review of the existing network environment."
+        },
+        {
+          "step": "02",
+          "title": "Architecture & Design",
+          "description": "Produce detailed network blueprints, IP addressing plans, VLAN and security zone designs, and equipment specifications."
+        },
+        {
+          "step": "03",
+          "title": "Deployment & Migration",
+          "description": "Staged implementation with change-control procedures, cutover planning, and zero-disruption migration from legacy infrastructure."
+        },
+        {
+          "step": "04",
+          "title": "Validation & Handover",
+          "description": "Full cabling certification, network health verification, documentation package, and knowledge transfer to the operations team."
+        }
+      ]
+    },
+    "originalData": {
+      "id": "network-infrastructure",
+      "title": "Network Infrastructure Solutions",
+      "tagline": "High-performance, secure networks built for enterprise demands.",
+      "description": "High-performance, secure network architectures for enterprise environments — from access layer to core.",
+      "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?auto=format&fit=crop&w=1400&q=80",
+      "heroStat": {
+        "value": "99.99%",
+        "label": "Uptime SLA"
+      },
+      "gradient": "linear-gradient(135deg, #0EA5E9, #00C46A)",
+      "icon": "globe",
+      "outcomes": [
+        "Resilient, redundant network architecture",
+        "Secure segmentation and zero-trust access",
+        "Optimised bandwidth and application performance",
+        "Centralised visibility and management"
+      ],
+      "deliverables": [
+        "Network Architecture Design",
+        "Switching & Routing Configuration",
+        "Wireless Survey & Deployment",
+        "Fiber Infrastructure Plan",
+        "Cabling Certification Reports",
+        "Network Management Platform"
+      ],
+      "compliance": [
+        "ISO 27001",
+        "TIA-568",
+        "IEEE 802.11ax",
+        "PCI DSS"
+      ],
+      "longDescription": [
+        "Your network is the nervous system of your organisation. Performance bottlenecks, flat topologies, and misconfigured access controls are among the leading contributors to both productivity loss and security compromise. Akamco designs and deploys network infrastructure that is purpose-built for the demands of modern enterprise environments.",
+        "We architect and implement core and access switching fabrics with full redundancy, enterprise Wi-Fi 6/6E across complex facilities, fiber optic backbones with OTDR-certified splicing, structured cabling systems to TIA-568 standards, and SD-WAN overlays that intelligently manage traffic across multiple WAN links.",
+        "Every network we deliver is documented down to the port level — IP addressing, VLAN assignments, spanning-tree configuration, and QoS policies — so your operations team has complete, accurate information from day one."
+      ],
+      "features": [
+        {
+          "title": "Core & Access Switching",
+          "description": "Redundant core switching fabrics using VSS, StackWise, or MLAG technologies — with access layer segmentation, PoE for IP phones and cameras, and 802.1X port authentication."
+        },
+        {
+          "title": "Enterprise Wi-Fi",
+          "description": "Wi-Fi 6/6E deployment across offices, warehouses, and campuses — with predictive RF planning, centralised controller management, guest SSID isolation, and rogue AP detection."
+        },
+        {
+          "title": "Fiber Optic Infrastructure",
+          "description": "Single-mode and multi-mode fiber backbone design and installation, fusion splicing, OTDR testing and certification, and patch panel termination in MDFs and IDFs."
+        },
+        {
+          "title": "Structured Cabling Systems",
+          "description": "Cat6A and Cat8 copper cabling installation to TIA-568 standards — with full passmark certification, labelling, and documentation for every outlet and panel port."
+        },
+        {
+          "title": "SD-WAN & Network Segmentation",
+          "description": "Application-aware SD-WAN overlays for multi-site organisations, combined with micro-segmentation to isolate IoT, OT, guest, and corporate traffic within the same physical infrastructure."
+        }
+      ],
+      "forWhom": [
+        "Multi-site enterprises building unified network standards",
+        "Government facilities upgrading legacy LAN/WAN infrastructure",
+        "Healthcare and education campuses requiring dense Wi-Fi",
+        "Industrial facilities needing IT/OT network separation"
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Network Assessment",
+          "description": "Topology discovery, traffic analysis, device inventory, and security posture review of the existing network environment."
+        },
+        {
+          "step": "02",
+          "title": "Architecture & Design",
+          "description": "Produce detailed network blueprints, IP addressing plans, VLAN and security zone designs, and equipment specifications."
+        },
+        {
+          "step": "03",
+          "title": "Deployment & Migration",
+          "description": "Staged implementation with change-control procedures, cutover planning, and zero-disruption migration from legacy infrastructure."
+        },
+        {
+          "step": "04",
+          "title": "Validation & Handover",
+          "description": "Full cabling certification, network health verification, documentation package, and knowledge transfer to the operations team."
+        }
+      ]
+    },
+    "id": "mm39nstm69ptel5",
+    "submittedAt": "2026-02-26T09:34:07.018Z",
+    "status": "approved",
+    "reviewedBy": "admin0",
+    "reviewedAt": "2026-02-26T09:36:30.392Z"
+  },
+  {
+    "resource": "solution",
+    "action": "update",
+    "resourceId": "low-current-systems",
+    "resourceTitle": "Low Current Systems",
+    "submittedBy": "bawan",
+    "payload": {
+      "id": "low-current-systems",
+      "title": "Low Current Systems",
+      "tagline": "Integrated intelligent building systems for the modern facility.",
+      "description": "Integrated intelligent building low-current systems for commercial, institutional, and infrastructure projects.",
+      "image": "/uploads/solutions/1772098556407-2smdc03agg5.jpg",
+      "heroStat": {
+        "value": "300+",
+        "label": "Buildings Equipped"
+      },
+      "gradient": "linear-gradient(135deg, #00C46A, #F59E0B)",
+      "icon": "layers",
+      "outcomes": [
+        "Fully integrated, coordinated building systems",
+        "Improved occupant experience and operational efficiency",
+        "Single-contractor accountability for all low-current works",
+        "Standards-compliant installation with full test certification"
+      ],
+      "deliverables": [
+        "Low Current System Design Package",
+        "Structured Cabling Certification",
+        "SMATV System Documentation",
+        "PA & Intercom Configuration",
+        "Time Attendance Integration Guide",
+        "As-Built Drawings"
+      ],
+      "compliance": [
+        "EIA/TIA-568",
+        "EN 50083",
+        "IEC 60728"
+      ],
+      "forWhom": [
+        "Main contractors requiring a low-current sub-contractor",
+        "Developers building hotels, offices, and residential complexes",
+        "Government and institutional facility operators",
+        "Industrial facility managers upgrading communication systems"
+      ],
+      "longDescription": [
+        "Modern commercial and institutional buildings require a broad spectrum of intelligent low-current systems — from the structured cabling that underpins every data and voice service to the SMATV head-end distributing satellite TV to hundreds of outlets. Akamco designs, supplies, and installs the full range of low-current systems as a single, coordinated package.",
+        "Our low-current scope covers structured cabling to TIA-568 standards, SMATV satellite distribution and IPTV head-end systems, IP and analogue public address and voice evacuation, video door-phone and intercom systems for access management, and biometric and card-based time attendance platforms for workforce management.",
+        "By engaging a single contractor for all low-current disciplines, our clients avoid the coordination risk of multiple sub-contractors — and benefit from a unified design that eliminates rework, shares cabling infrastructure where possible, and is documented in a single as-built package."
+      ],
+      "features": [
+        {
+          "title": "Structured Cabling",
+          "description": "Cat6A and fiber cabling to TIA/EIA-568 standards — fully certified, labelled, and documented, serving as the foundation for all data, voice, and building management systems."
+        },
+        {
+          "title": "SMATV Systems",
+          "description": "Satellite master antenna television system design and installation — including LNB, headend amplification, multi-switch distribution, and outlet termination for hospitality, residential, and commercial projects."
+        },
+        {
+          "title": "Public Address Systems",
+          "description": "IP and analogue PA and voice evacuation system design and installation — covering zone amplifiers, ceiling and column speakers, and integration with fire alarm suppression input."
+        },
+        {
+          "title": "Intercom Systems",
+          "description": "Video door-phone and full IP intercom systems for residential and commercial properties — with HD camera door stations, indoor monitors, and integration with access control and building management."
+        },
+        {
+          "title": "Time Attendance Systems",
+          "description": "Biometric, facial recognition, and RFID card-based time attendance and workforce management platforms — integrated with HR and payroll systems for automated attendance data."
+        }
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Design Coordination",
+          "description": "Review architectural drawings, coordinate with MEP engineers, and produce coordinated low-current design drawings for all systems."
+        },
+        {
+          "step": "02",
+          "title": "Procurement & Stage Planning",
+          "description": "Procure all equipment and materials, and agree a phased installation schedule aligned with the construction programme."
+        },
+        {
+          "step": "03",
+          "title": "Installation & Testing",
+          "description": "Install and terminate all systems with intermediate inspection records and progressive certification as each zone is completed."
+        },
+        {
+          "step": "04",
+          "title": "Commissioning & Handover",
+          "description": "System commissioning, user acceptance testing, training for operators, and full as-built documentation package."
+        }
+      ]
+    },
+    "originalData": {
+      "id": "low-current-systems",
+      "title": "Low Current Systems",
+      "tagline": "Integrated intelligent building systems for the modern facility.",
+      "description": "Integrated intelligent building low-current systems for commercial, institutional, and infrastructure projects.",
+      "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1400&q=80",
+      "heroStat": {
+        "value": "300+",
+        "label": "Buildings Equipped"
+      },
+      "gradient": "linear-gradient(135deg, #00C46A, #F59E0B)",
+      "icon": "layers",
+      "outcomes": [
+        "Fully integrated, coordinated building systems",
+        "Improved occupant experience and operational efficiency",
+        "Single-contractor accountability for all low-current works",
+        "Standards-compliant installation with full test certification"
+      ],
+      "deliverables": [
+        "Low Current System Design Package",
+        "Structured Cabling Certification",
+        "SMATV System Documentation",
+        "PA & Intercom Configuration",
+        "Time Attendance Integration Guide",
+        "As-Built Drawings"
+      ],
+      "compliance": [
+        "EIA/TIA-568",
+        "EN 50083",
+        "IEC 60728"
+      ],
+      "longDescription": [
+        "Modern commercial and institutional buildings require a broad spectrum of intelligent low-current systems — from the structured cabling that underpins every data and voice service to the SMATV head-end distributing satellite TV to hundreds of outlets. Akamco designs, supplies, and installs the full range of low-current systems as a single, coordinated package.",
+        "Our low-current scope covers structured cabling to TIA-568 standards, SMATV satellite distribution and IPTV head-end systems, IP and analogue public address and voice evacuation, video door-phone and intercom systems for access management, and biometric and card-based time attendance platforms for workforce management.",
+        "By engaging a single contractor for all low-current disciplines, our clients avoid the coordination risk of multiple sub-contractors — and benefit from a unified design that eliminates rework, shares cabling infrastructure where possible, and is documented in a single as-built package."
+      ],
+      "features": [
+        {
+          "title": "Structured Cabling",
+          "description": "Cat6A and fiber cabling to TIA/EIA-568 standards — fully certified, labelled, and documented, serving as the foundation for all data, voice, and building management systems."
+        },
+        {
+          "title": "SMATV Systems",
+          "description": "Satellite master antenna television system design and installation — including LNB, headend amplification, multi-switch distribution, and outlet termination for hospitality, residential, and commercial projects."
+        },
+        {
+          "title": "Public Address Systems",
+          "description": "IP and analogue PA and voice evacuation system design and installation — covering zone amplifiers, ceiling and column speakers, and integration with fire alarm suppression input."
+        },
+        {
+          "title": "Intercom Systems",
+          "description": "Video door-phone and full IP intercom systems for residential and commercial properties — with HD camera door stations, indoor monitors, and integration with access control and building management."
+        },
+        {
+          "title": "Time Attendance Systems",
+          "description": "Biometric, facial recognition, and RFID card-based time attendance and workforce management platforms — integrated with HR and payroll systems for automated attendance data."
+        }
+      ],
+      "forWhom": [
+        "Main contractors requiring a low-current sub-contractor",
+        "Developers building hotels, offices, and residential complexes",
+        "Government and institutional facility operators",
+        "Industrial facility managers upgrading communication systems"
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Design Coordination",
+          "description": "Review architectural drawings, coordinate with MEP engineers, and produce coordinated low-current design drawings for all systems."
+        },
+        {
+          "step": "02",
+          "title": "Procurement & Stage Planning",
+          "description": "Procure all equipment and materials, and agree a phased installation schedule aligned with the construction programme."
+        },
+        {
+          "step": "03",
+          "title": "Installation & Testing",
+          "description": "Install and terminate all systems with intermediate inspection records and progressive certification as each zone is completed."
+        },
+        {
+          "step": "04",
+          "title": "Commissioning & Handover",
+          "description": "System commissioning, user acceptance testing, training for operators, and full as-built documentation package."
+        }
+      ]
+    },
+    "id": "mm39q5z9ydmf7px",
+    "submittedAt": "2026-02-26T09:35:57.381Z",
+    "status": "approved",
+    "reviewedBy": "admin0",
+    "reviewedAt": "2026-02-26T09:36:31.398Z"
+  },
+  {
+    "resource": "solution",
+    "action": "update",
+    "resourceId": "fiber-measurement",
+    "resourceTitle": "Advanced Fiber Measurement Solutions",
+    "submittedBy": "bawan",
+    "payload": {
+      "id": "fiber-measurement",
+      "title": "Advanced Fiber Measurement Solutions",
+      "tagline": "Real-time fiber monitoring. Proactive fault localisation.",
+      "description": "Real-time fiber monitoring and proactive fault localization solutions for carrier and enterprise fiber networks.",
+      "image": "/uploads/solutions/1772098625957-by3v27olgb.png",
+      "heroStat": {
+        "value": "<1m",
+        "label": "Fault Localisation"
+      },
+      "gradient": "linear-gradient(135deg, #6366F1, #00C46A)",
+      "icon": "chartbar",
+      "outcomes": [
+        "Sub-metre fault localisation on live fiber",
+        "Proactive alerts before service-affecting degradation",
+        "Centralised visibility across all fiber spans",
+        "Reduced mean time to repair (MTTR)"
+      ],
+      "deliverables": [
+        "OTDR Monitoring System Design",
+        "Filtered Monitoring Architecture",
+        "Alarm & Notification Configuration",
+        "Centralized Management Dashboard",
+        "Test & Certification Reports",
+        "Preventive Diagnostics Schedule"
+      ],
+      "compliance": [
+        "ITU-T G.984",
+        "IEC 61300",
+        "TIA-455"
+      ],
+      "forWhom": [
+        "Telecommunications operators managing dark and lit fiber",
+        "Government and military fiber network operators",
+        "Datacenter operators with long-haul fiber interconnects",
+        "Smart city and critical infrastructure managers"
+      ],
+      "longDescription": [
+        "Fiber networks are the backbone of modern telecommunications and enterprise connectivity — but their physical nature makes them uniquely vulnerable to degradation, cuts, and intrusion events that are invisible without the right measurement tools. Akamco deploys advanced fiber measurement and monitoring solutions that give operators real-time visibility into the health of every span.",
+        "Our OTDR monitoring systems continuously inject test pulses into live fiber, detecting reflections that indicate connector degradation, bends, splices, and physical cuts — with sub-metre fault localisation accuracy. Filtered 1650nm monitoring technology allows testing without interfering with live traffic, enabling 24/7 proactive diagnostics on in-service fibers.",
+        "Centralised fiber management platforms aggregate measurements from distributed OTDRs and optical power monitors across the entire network, correlating alarms and dispatching field teams with precise fault coordinates — transforming reactive repair into proactive maintenance."
+      ],
+      "features": [
+        {
+          "title": "OTDR Monitoring Systems",
+          "description": "Automatic OTDR systems performing scheduled and continuous reflectometric testing — detecting connector degradation, macro-bends, and splice anomalies before they cause outages."
+        },
+        {
+          "title": "1650nm Filtered Monitoring",
+          "description": "Traffic-transparent optical monitoring using the 1650nm wavelength — enabling live fiber testing without service interruption, even on DWDM or PON networks."
+        },
+        {
+          "title": "Fault Localization & Alarm Systems",
+          "description": "Precision fault localisation with GPS-referenced distance measurements, automated alarm generation, and integration with NOC ticketing systems for immediate field dispatch."
+        },
+        {
+          "title": "Centralized Fiber Management",
+          "description": "Unified fiber management platform aggregating OTDR traces, optical loss budgets, and event history across all monitored spans — with GIS map integration for visualised route status."
+        },
+        {
+          "title": "Preventive Diagnostics",
+          "description": "Trend analysis of fiber health metrics over time to identify gradual degradation before it reaches service-affecting threshold — enabling planned maintenance rather than emergency repair."
+        }
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Network Audit & Span Mapping",
+          "description": "Catalogue all fiber spans, measure current optical loss budgets, and identify measurement points for OTDR placement."
+        },
+        {
+          "step": "02",
+          "title": "System Design & Integration Planning",
+          "description": "Design the monitoring system architecture, specify OTDR units and optical splitters, and plan NOC integration."
+        },
+        {
+          "step": "03",
+          "title": "Installation & Commissioning",
+          "description": "Install monitoring hardware, configure baseline OTDR traces, set alarm thresholds, and validate detection sensitivity."
+        },
+        {
+          "step": "04",
+          "title": "Handover & Training",
+          "description": "Operator training on platform use and alarm response, documentation handover, and optional ongoing managed monitoring service."
+        }
+      ]
+    },
+    "originalData": {
+      "id": "fiber-measurement",
+      "title": "Advanced Fiber Measurement Solutions",
+      "tagline": "Real-time fiber monitoring. Proactive fault localisation.",
+      "description": "Real-time fiber monitoring and proactive fault localization solutions for carrier and enterprise fiber networks.",
+      "image": "https://images.unsplash.com/photo-1609743522471-83c84ce23e32?auto=format&fit=crop&w=1400&q=80",
+      "heroStat": {
+        "value": "<1m",
+        "label": "Fault Localisation"
+      },
+      "gradient": "linear-gradient(135deg, #6366F1, #00C46A)",
+      "icon": "chartbar",
+      "outcomes": [
+        "Sub-metre fault localisation on live fiber",
+        "Proactive alerts before service-affecting degradation",
+        "Centralised visibility across all fiber spans",
+        "Reduced mean time to repair (MTTR)"
+      ],
+      "deliverables": [
+        "OTDR Monitoring System Design",
+        "Filtered Monitoring Architecture",
+        "Alarm & Notification Configuration",
+        "Centralized Management Dashboard",
+        "Test & Certification Reports",
+        "Preventive Diagnostics Schedule"
+      ],
+      "compliance": [
+        "ITU-T G.984",
+        "IEC 61300",
+        "TIA-455"
+      ],
+      "longDescription": [
+        "Fiber networks are the backbone of modern telecommunications and enterprise connectivity — but their physical nature makes them uniquely vulnerable to degradation, cuts, and intrusion events that are invisible without the right measurement tools. Akamco deploys advanced fiber measurement and monitoring solutions that give operators real-time visibility into the health of every span.",
+        "Our OTDR monitoring systems continuously inject test pulses into live fiber, detecting reflections that indicate connector degradation, bends, splices, and physical cuts — with sub-metre fault localisation accuracy. Filtered 1650nm monitoring technology allows testing without interfering with live traffic, enabling 24/7 proactive diagnostics on in-service fibers.",
+        "Centralised fiber management platforms aggregate measurements from distributed OTDRs and optical power monitors across the entire network, correlating alarms and dispatching field teams with precise fault coordinates — transforming reactive repair into proactive maintenance."
+      ],
+      "features": [
+        {
+          "title": "OTDR Monitoring Systems",
+          "description": "Automatic OTDR systems performing scheduled and continuous reflectometric testing — detecting connector degradation, macro-bends, and splice anomalies before they cause outages."
+        },
+        {
+          "title": "1650nm Filtered Monitoring",
+          "description": "Traffic-transparent optical monitoring using the 1650nm wavelength — enabling live fiber testing without service interruption, even on DWDM or PON networks."
+        },
+        {
+          "title": "Fault Localization & Alarm Systems",
+          "description": "Precision fault localisation with GPS-referenced distance measurements, automated alarm generation, and integration with NOC ticketing systems for immediate field dispatch."
+        },
+        {
+          "title": "Centralized Fiber Management",
+          "description": "Unified fiber management platform aggregating OTDR traces, optical loss budgets, and event history across all monitored spans — with GIS map integration for visualised route status."
+        },
+        {
+          "title": "Preventive Diagnostics",
+          "description": "Trend analysis of fiber health metrics over time to identify gradual degradation before it reaches service-affecting threshold — enabling planned maintenance rather than emergency repair."
+        }
+      ],
+      "forWhom": [
+        "Telecommunications operators managing dark and lit fiber",
+        "Government and military fiber network operators",
+        "Datacenter operators with long-haul fiber interconnects",
+        "Smart city and critical infrastructure managers"
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Network Audit & Span Mapping",
+          "description": "Catalogue all fiber spans, measure current optical loss budgets, and identify measurement points for OTDR placement."
+        },
+        {
+          "step": "02",
+          "title": "System Design & Integration Planning",
+          "description": "Design the monitoring system architecture, specify OTDR units and optical splitters, and plan NOC integration."
+        },
+        {
+          "step": "03",
+          "title": "Installation & Commissioning",
+          "description": "Install monitoring hardware, configure baseline OTDR traces, set alarm thresholds, and validate detection sensitivity."
+        },
+        {
+          "step": "04",
+          "title": "Handover & Training",
+          "description": "Operator training on platform use and alarm response, documentation handover, and optional ongoing managed monitoring service."
+        }
+      ]
+    },
+    "id": "mm39rnktzkd72bm",
+    "submittedAt": "2026-02-26T09:37:06.845Z",
+    "status": "approved",
+    "reviewedBy": "admin0",
+    "reviewedAt": "2026-02-26T09:40:53.529Z"
+  },
+  {
+    "resource": "solution",
+    "action": "update",
+    "resourceId": "cybersecurity",
+    "resourceTitle": "Cybersecurity Solutions",
+    "submittedBy": "bawan",
+    "payload": {
+      "id": "cybersecurity",
+      "title": "Cybersecurity Solutions",
+      "tagline": "Comprehensive protection for digital infrastructure.",
+      "description": "Comprehensive cybersecurity solutions protecting digital infrastructure from endpoints to cloud.",
+      "image": "/uploads/solutions/1772098789879-1zn4ozzhssg.jpg",
+      "heroStat": {
+        "value": "99.7%",
+        "label": "Threat Detection Rate"
+      },
+      "gradient": "linear-gradient(135deg, #00C46A, #6366F1)",
+      "icon": "shield",
+      "outcomes": [
+        "Zero Trust frameworks deployed across all access layers",
+        "Advanced threat detection and rapid incident response",
+        "Compliance with international security frameworks",
+        "Quantified risk reduction with board-level reporting"
+      ],
+      "deliverables": [
+        "Cybersecurity Architecture Design",
+        "NGFW Deployment & Policy",
+        "EDR/XDR Platform Deployment",
+        "SIEM & SOC Integration",
+        "Vulnerability Assessment Report",
+        "Security Policy Framework"
+      ],
+      "compliance": [
+        "ISO 27001",
+        "NIST CSF",
+        "CIS Controls",
+        "IEC 62443"
+      ],
+      "forWhom": [
+        "Government ministries and critical infrastructure operators",
+        "Financial institutions with regulated data environments",
+        "Healthcare networks protecting patient data",
+        "Enterprises with multi-cloud or hybrid environments"
+      ],
+      "longDescription": [
+        "Modern organisations face an unprecedented range of cyber threats — ransomware, supply chain compromises, state-sponsored intrusion, and insider threats. A reactive security posture is no longer sufficient. Akamco designs and deploys proactive, intelligence-driven cybersecurity architectures that assume breach and contain it before damage occurs.",
+        "Our cybersecurity engineers deploy next-generation firewalls with application and user-aware policies; endpoint detection and response platforms with behavioural analytics; SIEM solutions with correlation rules tuned to your environment; and vulnerability management programmes that continuously identify and prioritise exploitable weaknesses.",
+        "Every cybersecurity engagement is aligned to internationally recognised frameworks — ISO 27001, NIST CSF, and CIS Controls — and delivered with the policy documentation, runbooks, and evidence artefacts that your compliance programme requires."
+      ],
+      "features": [
+        {
+          "title": "Next-Generation Firewalls",
+          "description": "Deployment and policy management of NGFW platforms from Palo Alto, Fortinet, and Check Point — with application-layer inspection, TLS decryption, and threat intelligence feed integration."
+        },
+        {
+          "title": "Endpoint Protection & EDR",
+          "description": "Deployment and tuning of EDR/XDR platforms with behavioural analytics, automated threat containment, and 24/7 SOC-monitored alerting across all managed endpoints."
+        },
+        {
+          "title": "SIEM & SOC Solutions",
+          "description": "SIEM deployment with custom use-case development, SOC workflow design, and tier-1 through tier-3 analyst runbooks — enabling rapid detection and response to security events."
+        },
+        {
+          "title": "Vulnerability Management",
+          "description": "Continuous vulnerability scanning, CVSS-based prioritisation, patch management integration, and executive dashboard reporting — closing the feedback loop from discovery to remediation."
+        },
+        {
+          "title": "Cloud & Email Security",
+          "description": "Cloud access security broker (CASB) deployment, Microsoft 365 and Google Workspace security hardening, advanced email filtering, and anti-phishing controls."
+        },
+        {
+          "title": "Zero Trust Architecture",
+          "description": "Identity-centric Zero Trust implementation covering multi-factor authentication, conditional access policies, privileged access management, and micro-segmentation."
+        }
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Security Assessment",
+          "description": "Comprehensive audit of the current security posture — asset inventory, identity systems, network exposure, and compliance gap analysis."
+        },
+        {
+          "step": "02",
+          "title": "Architecture Design",
+          "description": "Develop a layered security blueprint aligned to your risk tolerance, compliance obligations, and operational requirements."
+        },
+        {
+          "step": "03",
+          "title": "Deployment & Hardening",
+          "description": "Deploy controls, configure platforms, and harden every layer — endpoints, network, identity, and cloud — with zero business disruption."
+        },
+        {
+          "step": "04",
+          "title": "Validation & Operationalise",
+          "description": "Penetration testing, red team exercises, and SOC runbook activation to confirm defences hold before go-live."
+        }
+      ]
+    },
+    "originalData": {
+      "id": "cybersecurity",
+      "title": "Cybersecurity Solutions",
+      "tagline": "Comprehensive protection for digital infrastructure.",
+      "description": "Comprehensive cybersecurity solutions protecting digital infrastructure from endpoints to cloud.",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=1400&q=80",
+      "heroStat": {
+        "value": "99.7%",
+        "label": "Threat Detection Rate"
+      },
+      "gradient": "linear-gradient(135deg, #00C46A, #6366F1)",
+      "icon": "shield",
+      "outcomes": [
+        "Zero Trust frameworks deployed across all access layers",
+        "Advanced threat detection and rapid incident response",
+        "Compliance with international security frameworks",
+        "Quantified risk reduction with board-level reporting"
+      ],
+      "deliverables": [
+        "Cybersecurity Architecture Design",
+        "NGFW Deployment & Policy",
+        "EDR/XDR Platform Deployment",
+        "SIEM & SOC Integration",
+        "Vulnerability Assessment Report",
+        "Security Policy Framework"
+      ],
+      "compliance": [
+        "ISO 27001",
+        "NIST CSF",
+        "CIS Controls",
+        "IEC 62443"
+      ],
+      "longDescription": [
+        "Modern organisations face an unprecedented range of cyber threats — ransomware, supply chain compromises, state-sponsored intrusion, and insider threats. A reactive security posture is no longer sufficient. Akamco designs and deploys proactive, intelligence-driven cybersecurity architectures that assume breach and contain it before damage occurs.",
+        "Our cybersecurity engineers deploy next-generation firewalls with application and user-aware policies; endpoint detection and response platforms with behavioural analytics; SIEM solutions with correlation rules tuned to your environment; and vulnerability management programmes that continuously identify and prioritise exploitable weaknesses.",
+        "Every cybersecurity engagement is aligned to internationally recognised frameworks — ISO 27001, NIST CSF, and CIS Controls — and delivered with the policy documentation, runbooks, and evidence artefacts that your compliance programme requires."
+      ],
+      "features": [
+        {
+          "title": "Next-Generation Firewalls",
+          "description": "Deployment and policy management of NGFW platforms from Palo Alto, Fortinet, and Check Point — with application-layer inspection, TLS decryption, and threat intelligence feed integration."
+        },
+        {
+          "title": "Endpoint Protection & EDR",
+          "description": "Deployment and tuning of EDR/XDR platforms with behavioural analytics, automated threat containment, and 24/7 SOC-monitored alerting across all managed endpoints."
+        },
+        {
+          "title": "SIEM & SOC Solutions",
+          "description": "SIEM deployment with custom use-case development, SOC workflow design, and tier-1 through tier-3 analyst runbooks — enabling rapid detection and response to security events."
+        },
+        {
+          "title": "Vulnerability Management",
+          "description": "Continuous vulnerability scanning, CVSS-based prioritisation, patch management integration, and executive dashboard reporting — closing the feedback loop from discovery to remediation."
+        },
+        {
+          "title": "Cloud & Email Security",
+          "description": "Cloud access security broker (CASB) deployment, Microsoft 365 and Google Workspace security hardening, advanced email filtering, and anti-phishing controls."
+        },
+        {
+          "title": "Zero Trust Architecture",
+          "description": "Identity-centric Zero Trust implementation covering multi-factor authentication, conditional access policies, privileged access management, and micro-segmentation."
+        }
+      ],
+      "forWhom": [
+        "Government ministries and critical infrastructure operators",
+        "Financial institutions with regulated data environments",
+        "Healthcare networks protecting patient data",
+        "Enterprises with multi-cloud or hybrid environments"
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Security Assessment",
+          "description": "Comprehensive audit of the current security posture — asset inventory, identity systems, network exposure, and compliance gap analysis."
+        },
+        {
+          "step": "02",
+          "title": "Architecture Design",
+          "description": "Develop a layered security blueprint aligned to your risk tolerance, compliance obligations, and operational requirements."
+        },
+        {
+          "step": "03",
+          "title": "Deployment & Hardening",
+          "description": "Deploy controls, configure platforms, and harden every layer — endpoints, network, identity, and cloud — with zero business disruption."
+        },
+        {
+          "step": "04",
+          "title": "Validation & Operationalise",
+          "description": "Penetration testing, red team exercises, and SOC runbook activation to confirm defences hold before go-live."
+        }
+      ]
+    },
+    "id": "mm39v5zpakhgc7j",
+    "submittedAt": "2026-02-26T09:39:50.677Z",
+    "status": "approved",
+    "reviewedBy": "admin0",
+    "reviewedAt": "2026-02-26T09:40:54.058Z"
+  },
+  {
+    "resource": "solution",
+    "action": "update",
+    "resourceId": "physical-security",
+    "resourceTitle": "Physical Security Solutions",
+    "submittedBy": "bawan",
+    "payload": {
+      "id": "physical-security",
+      "title": "Physical Security Solutions",
+      "tagline": "Advanced security technology protecting people, assets, and perimeters.",
+      "description": "Advanced physical security technologies — CCTV, access control, ANPR, and integrated platforms — protecting facilities and critical assets.",
+      "image": "/uploads/solutions/1772098839762-2f0ngq6687q.webp",
+      "heroStat": {
+        "value": "24/7",
+        "label": "Surveillance Coverage"
+      },
+      "gradient": "linear-gradient(135deg, #0EA5E9, #00C46A)",
+      "icon": "shield",
+      "outcomes": [
+        "Comprehensive video surveillance with AI-powered analytics",
+        "Controlled access to all sensitive areas and perimeters",
+        "Real-time threat detection and automated alerting",
+        "Integrated security platform for unified operator visibility"
+      ],
+      "deliverables": [
+        "Security System Design Package",
+        "CCTV & Camera Layout Drawing",
+        "Access Control Configuration",
+        "ANPR Integration Documentation",
+        "Platform Integration Architecture",
+        "Commissioning & Test Records"
+      ],
+      "compliance": [
+        "EN 50132",
+        "ISO 27001",
+        "GDPR",
+        "IEC 62676"
+      ],
+      "forWhom": [
+        "Government buildings and ministry compounds",
+        "Critical infrastructure and industrial facilities",
+        "Hotels, malls, and commercial real estate operators",
+        "Datacenters and telecommunications facilities"
+      ],
+      "longDescription": [
+        "Physical security is the first line of defence for any facility — and modern physical security systems are increasingly intelligent, networked, and integrated with the broader IT and operational infrastructure. Akamco designs and deploys advanced physical security solutions that go beyond cameras and card readers to deliver a genuinely capable security ecosystem.",
+        "Our CCTV deployments use AI video analytics for real-time object classification, crowd detection, loitering alerts, and facial recognition — reducing the burden on security operators and ensuring that significant events are never missed. Access control systems enforce precise, role-based zone access with full audit trails, anti-passback, and visitor management integration.",
+        "For high-security environments, we integrate ANPR systems for automated vehicle identification, PSIMs for correlating alarms across all security subsystems, and perimeter detection technologies — delivering the situational awareness that security commanders need to respond decisively."
+      ],
+      "features": [
+        {
+          "title": "CCTV & AI Video Analytics",
+          "description": "IP megapixel camera deployment with AI-powered video analytics — object detection, perimeter crossing, crowd density analysis, and licence plate recognition — managed through a centralised VMS."
+        },
+        {
+          "title": "Access Control Systems",
+          "description": "Multi-door access control with biometric and RFID readers, role-based zone permissions, visitor management module, and integration with HR systems for automated joiner/leaver processing."
+        },
+        {
+          "title": "ANPR Systems",
+          "description": "Automatic number plate recognition for entry and exit lanes — with whitelist/blacklist management, overstay alerting, and integration with access control barriers and boom gates."
+        },
+        {
+          "title": "Integrated Security Platforms",
+          "description": "Physical Security Information Management (PSIM) platform deployment — correlating alarms from CCTV, access control, fire, and perimeter systems into a single operator interface."
+        },
+        {
+          "title": "Perimeter Security",
+          "description": "Perimeter detection combining fence-mounted vibration sensors, PIR detectors, thermal cameras, and radar — with graduated response protocols from alert to access denial."
+        }
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Security Risk Assessment",
+          "description": "Identify vulnerabilities, define protection objectives, and specify the technology mix required to achieve the target security level."
+        },
+        {
+          "step": "02",
+          "title": "System Design",
+          "description": "Camera placement plans, access control zone maps, wiring diagrams, and integration architecture reviewed with the client."
+        },
+        {
+          "step": "03",
+          "title": "Installation & Integration",
+          "description": "Physical installation, system configuration, and integration testing — with all subsystems tested individually and as an integrated whole."
+        },
+        {
+          "step": "04",
+          "title": "Commissioning & Training",
+          "description": "Operator training, procedure documentation, and commissioning certificate — with optional ongoing managed monitoring."
+        }
+      ]
+    },
+    "originalData": {
+      "id": "physical-security",
+      "title": "Physical Security Solutions",
+      "tagline": "Advanced security technology protecting people, assets, and perimeters.",
+      "description": "Advanced physical security technologies — CCTV, access control, ANPR, and integrated platforms — protecting facilities and critical assets.",
+      "image": "https://images.unsplash.com/photo-1557597774-9d273605dfa9?auto=format&fit=crop&w=1400&q=80",
+      "heroStat": {
+        "value": "24/7",
+        "label": "Surveillance Coverage"
+      },
+      "gradient": "linear-gradient(135deg, #0EA5E9, #00C46A)",
+      "icon": "shield",
+      "outcomes": [
+        "Comprehensive video surveillance with AI-powered analytics",
+        "Controlled access to all sensitive areas and perimeters",
+        "Real-time threat detection and automated alerting",
+        "Integrated security platform for unified operator visibility"
+      ],
+      "deliverables": [
+        "Security System Design Package",
+        "CCTV & Camera Layout Drawing",
+        "Access Control Configuration",
+        "ANPR Integration Documentation",
+        "Platform Integration Architecture",
+        "Commissioning & Test Records"
+      ],
+      "compliance": [
+        "EN 50132",
+        "ISO 27001",
+        "GDPR",
+        "IEC 62676"
+      ],
+      "longDescription": [
+        "Physical security is the first line of defence for any facility — and modern physical security systems are increasingly intelligent, networked, and integrated with the broader IT and operational infrastructure. Akamco designs and deploys advanced physical security solutions that go beyond cameras and card readers to deliver a genuinely capable security ecosystem.",
+        "Our CCTV deployments use AI video analytics for real-time object classification, crowd detection, loitering alerts, and facial recognition — reducing the burden on security operators and ensuring that significant events are never missed. Access control systems enforce precise, role-based zone access with full audit trails, anti-passback, and visitor management integration.",
+        "For high-security environments, we integrate ANPR systems for automated vehicle identification, PSIMs for correlating alarms across all security subsystems, and perimeter detection technologies — delivering the situational awareness that security commanders need to respond decisively."
+      ],
+      "features": [
+        {
+          "title": "CCTV & AI Video Analytics",
+          "description": "IP megapixel camera deployment with AI-powered video analytics — object detection, perimeter crossing, crowd density analysis, and licence plate recognition — managed through a centralised VMS."
+        },
+        {
+          "title": "Access Control Systems",
+          "description": "Multi-door access control with biometric and RFID readers, role-based zone permissions, visitor management module, and integration with HR systems for automated joiner/leaver processing."
+        },
+        {
+          "title": "ANPR Systems",
+          "description": "Automatic number plate recognition for entry and exit lanes — with whitelist/blacklist management, overstay alerting, and integration with access control barriers and boom gates."
+        },
+        {
+          "title": "Integrated Security Platforms",
+          "description": "Physical Security Information Management (PSIM) platform deployment — correlating alarms from CCTV, access control, fire, and perimeter systems into a single operator interface."
+        },
+        {
+          "title": "Perimeter Security",
+          "description": "Perimeter detection combining fence-mounted vibration sensors, PIR detectors, thermal cameras, and radar — with graduated response protocols from alert to access denial."
+        }
+      ],
+      "forWhom": [
+        "Government buildings and ministry compounds",
+        "Critical infrastructure and industrial facilities",
+        "Hotels, malls, and commercial real estate operators",
+        "Datacenters and telecommunications facilities"
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Security Risk Assessment",
+          "description": "Identify vulnerabilities, define protection objectives, and specify the technology mix required to achieve the target security level."
+        },
+        {
+          "step": "02",
+          "title": "System Design",
+          "description": "Camera placement plans, access control zone maps, wiring diagrams, and integration architecture reviewed with the client."
+        },
+        {
+          "step": "03",
+          "title": "Installation & Integration",
+          "description": "Physical installation, system configuration, and integration testing — with all subsystems tested individually and as an integrated whole."
+        },
+        {
+          "step": "04",
+          "title": "Commissioning & Training",
+          "description": "Operator training, procedure documentation, and commissioning certificate — with optional ongoing managed monitoring."
+        }
+      ]
+    },
+    "id": "mm39w8jl36emf9f",
+    "submittedAt": "2026-02-26T09:40:40.641Z",
+    "status": "approved",
+    "reviewedBy": "admin0",
+    "reviewedAt": "2026-02-26T09:40:54.515Z"
+  },
+  {
+    "resource": "solution",
+    "action": "update",
+    "resourceId": "fire-life-safety",
+    "resourceTitle": "Fire Alarm & Life Safety Solutions",
+    "submittedBy": "bawan",
+    "payload": {
+      "id": "fire-life-safety",
+      "title": "Fire Alarm & Life Safety Solutions",
+      "tagline": "Certified life safety systems your occupants can depend on.",
+      "description": "Certified fire alarm and life safety systems compliant with NFPA, BS 5839, and international standards.",
+      "image": "/uploads/solutions/1772105630217-6zrbji9s33.jpg",
+      "heroStat": {
+        "value": "100%",
+        "label": "Code Compliant"
+      },
+      "gradient": "linear-gradient(135deg, #EF4444, #F59E0B)",
+      "icon": "alert",
+      "outcomes": [
+        "Fully code-compliant life safety installation with certification",
+        "Early warning detection for maximum evacuation time",
+        "Integrated suppression and voice evacuation",
+        "Documented system with authority approval support"
+      ],
+      "deliverables": [
+        "Fire Alarm System Design Package",
+        "Device Layout & Zone Drawings",
+        "Gas Suppression Engineering Report",
+        "Emergency Lighting Design",
+        "Commissioning Certificates",
+        "O&M Manual"
+      ],
+      "compliance": [
+        "NFPA 72",
+        "NFPA 2001",
+        "BS 5839",
+        "EN 54",
+        "IBC"
+      ],
+      "forWhom": [
+        "Commercial building developers and main contractors",
+        "Government and institutional facility managers",
+        "Industrial and manufacturing facility operators",
+        "Datacenter and critical infrastructure operators"
+      ],
+      "longDescription": [
+        "Life safety systems must work flawlessly at the single moment they are called upon — and that reliability begins with engineering. Akamco designs and installs fire alarm and life safety systems that meet or exceed applicable codes, are properly commissioned, and are handed over with the documentation and training that responsible facility management requires.",
+        "Our fire alarm scope covers addressable and conventional systems for buildings of all sizes and occupancy types — from single-floor offices to multi-building campuses and industrial facilities. We integrate clean agent gas suppression for server rooms, datacenters, and archives; emergency lighting for evacuation route illumination; and fire monitoring integration with building management and security platforms.",
+        "Every installation is designed against the applicable standard — NFPA 72, BS 5839, or EN 54 — and is commissioned by certified engineers with formal test records and commissioning certificates. We provide authority approval support, O&M manual production, and ongoing maintenance contracts to ensure the system remains code-compliant throughout its operational life."
+      ],
+      "features": [
+        {
+          "title": "Addressable & Conventional Fire Alarm Systems",
+          "description": "Addressable fire alarm panels with loop-based device addressing for precise fault and fire location, and conventional zone panels for smaller applications — all to applicable code standards."
+        },
+        {
+          "title": "Gas Suppression Systems",
+          "description": "Clean agent suppression using FM-200, Novec 1230, and CO₂ — engineered to protect server rooms, datacenters, archives, and switchrooms without water damage risk."
+        },
+        {
+          "title": "Emergency Lighting",
+          "description": "Maintained and non-maintained emergency luminaires, exit signs, and central battery systems designed for minimum lux levels on all escape routes per BS 5266 and EN 1838."
+        },
+        {
+          "title": "Fire Monitoring Systems",
+          "description": "Integration of fire alarm signals with building management, security, and remote monitoring systems — enabling automated door release, lift recall, damper closure, and NOC alerting."
+        }
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Design & Authority Submission",
+          "description": "Produce fire alarm design package and support submission to the civil defence or authority having jurisdiction for approval."
+        },
+        {
+          "step": "02",
+          "title": "Procurement & Installation",
+          "description": "Supply of listed and approved equipment, installation in accordance with approved drawings, and records of all device placements."
+        },
+        {
+          "step": "03",
+          "title": "Testing & Commissioning",
+          "description": "Point-to-point device testing, panel commissioning, cause-and-effect verification, and integrated testing with all interfaced systems."
+        },
+        {
+          "step": "04",
+          "title": "Certification & Handover",
+          "description": "Commissioning certificate, O&M manual, record drawings, and operator/maintenance training."
+        }
+      ]
+    },
+    "originalData": {
+      "id": "fire-life-safety",
+      "title": "Fire Alarm & Life Safety Solutions",
+      "tagline": "Certified life safety systems your occupants can depend on.",
+      "description": "Certified fire alarm and life safety systems compliant with NFPA, BS 5839, and international standards.",
+      "image": "https://images.unsplash.com/photo-1584445584400-821a93e61c5c?auto=format&fit=crop&w=1400&q=80",
+      "heroStat": {
+        "value": "100%",
+        "label": "Code Compliant"
+      },
+      "gradient": "linear-gradient(135deg, #EF4444, #F59E0B)",
+      "icon": "alert",
+      "outcomes": [
+        "Fully code-compliant life safety installation with certification",
+        "Early warning detection for maximum evacuation time",
+        "Integrated suppression and voice evacuation",
+        "Documented system with authority approval support"
+      ],
+      "deliverables": [
+        "Fire Alarm System Design Package",
+        "Device Layout & Zone Drawings",
+        "Gas Suppression Engineering Report",
+        "Emergency Lighting Design",
+        "Commissioning Certificates",
+        "O&M Manual"
+      ],
+      "compliance": [
+        "NFPA 72",
+        "NFPA 2001",
+        "BS 5839",
+        "EN 54",
+        "IBC"
+      ],
+      "longDescription": [
+        "Life safety systems must work flawlessly at the single moment they are called upon — and that reliability begins with engineering. Akamco designs and installs fire alarm and life safety systems that meet or exceed applicable codes, are properly commissioned, and are handed over with the documentation and training that responsible facility management requires.",
+        "Our fire alarm scope covers addressable and conventional systems for buildings of all sizes and occupancy types — from single-floor offices to multi-building campuses and industrial facilities. We integrate clean agent gas suppression for server rooms, datacenters, and archives; emergency lighting for evacuation route illumination; and fire monitoring integration with building management and security platforms.",
+        "Every installation is designed against the applicable standard — NFPA 72, BS 5839, or EN 54 — and is commissioned by certified engineers with formal test records and commissioning certificates. We provide authority approval support, O&M manual production, and ongoing maintenance contracts to ensure the system remains code-compliant throughout its operational life."
+      ],
+      "features": [
+        {
+          "title": "Addressable & Conventional Fire Alarm Systems",
+          "description": "Addressable fire alarm panels with loop-based device addressing for precise fault and fire location, and conventional zone panels for smaller applications — all to applicable code standards."
+        },
+        {
+          "title": "Gas Suppression Systems",
+          "description": "Clean agent suppression using FM-200, Novec 1230, and CO₂ — engineered to protect server rooms, datacenters, archives, and switchrooms without water damage risk."
+        },
+        {
+          "title": "Emergency Lighting",
+          "description": "Maintained and non-maintained emergency luminaires, exit signs, and central battery systems designed for minimum lux levels on all escape routes per BS 5266 and EN 1838."
+        },
+        {
+          "title": "Fire Monitoring Systems",
+          "description": "Integration of fire alarm signals with building management, security, and remote monitoring systems — enabling automated door release, lift recall, damper closure, and NOC alerting."
+        }
+      ],
+      "forWhom": [
+        "Commercial building developers and main contractors",
+        "Government and institutional facility managers",
+        "Industrial and manufacturing facility operators",
+        "Datacenter and critical infrastructure operators"
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Design & Authority Submission",
+          "description": "Produce fire alarm design package and support submission to the civil defence or authority having jurisdiction for approval."
+        },
+        {
+          "step": "02",
+          "title": "Procurement & Installation",
+          "description": "Supply of listed and approved equipment, installation in accordance with approved drawings, and records of all device placements."
+        },
+        {
+          "step": "03",
+          "title": "Testing & Commissioning",
+          "description": "Point-to-point device testing, panel commissioning, cause-and-effect verification, and integrated testing with all interfaced systems."
+        },
+        {
+          "step": "04",
+          "title": "Certification & Handover",
+          "description": "Commissioning certificate, O&M manual, record drawings, and operator/maintenance training."
+        }
+      ]
+    },
+    "id": "mm3dxsf0fxwk11p",
+    "submittedAt": "2026-02-26T11:33:51.516Z",
+    "status": "approved",
+    "reviewedBy": "admin0",
+    "reviewedAt": "2026-02-26T11:41:42.492Z"
+  },
+  {
+    "resource": "solution",
+    "action": "update",
+    "resourceId": "gate-perimeter-security",
+    "resourceTitle": "Gate Automation & Perimeter Security",
+    "submittedBy": "bawan",
+    "payload": {
+      "id": "gate-perimeter-security",
+      "title": "Gate Automation & Perimeter Security",
+      "tagline": "Controlled entry. Impenetrable perimeters.",
+      "description": "Vehicle and pedestrian access control systems for critical infrastructure — road blockers, barriers, bollards, turnstiles, and security gates.",
+      "image": "/uploads/solutions/1772105719711-b1uaelzqb74.jpg",
+      "heroStat": {
+        "value": "IWA-14",
+        "label": "Crash Rated"
+      },
+      "gradient": "linear-gradient(135deg, #6366F1, #EF4444)",
+      "icon": "building",
+      "outcomes": [
+        "Vehicle-rated perimeter protection to IWA-14 standards",
+        "Automated access control integrated with ANPR and security systems",
+        "Reduced security officer workload through intelligent automation",
+        "Certified installation with manufacturer warranty"
+      ],
+      "deliverables": [
+        "Perimeter Security Design Package",
+        "Civil Engineering Drawings",
+        "Electrical & Control Wiring Diagrams",
+        "ANPR Integration Configuration",
+        "FAT & SAT Test Records",
+        "O&M Manual"
+      ],
+      "compliance": [
+        "IWA-14",
+        "PAS 68",
+        "EN 13241",
+        "IEC 60204"
+      ],
+      "forWhom": [
+        "Government compounds, ministries, and embassies",
+        "Military and defence facilities",
+        "Energy and utility infrastructure operators",
+        "Airports, ports, and critical logistics hubs"
+      ],
+      "longDescription": [
+        "Perimeter security is the first physical barrier between a protected facility and an unauthorised or hostile vehicle. For government compounds, military installations, embassies, energy infrastructure, and critical facilities, the consequences of perimeter failure are catastrophic. Akamco designs and installs certified vehicle and pedestrian access control systems — from hydraulic road blockers to biometric turnstiles — that operate reliably under continuous operational conditions.",
+        "Our perimeter product range covers hydraulic road blockers rated to IWA-14 and PAS 68 vehicle impact standards; automatic barriers and retractable bollards for traffic management; full-height and half-height turnstiles for pedestrian access control; and sliding and swing security gates with electromagnetic locking and interlock control logic. All systems are integrated with ANPR, access control, and video surveillance at the operator console.",
+        "Civil and electrical coordination is managed in-house — our teams design the foundation works, conduit routes, and power supply circuits in parallel with the above-ground equipment design, reducing coordination risk and construction programme delays."
+      ],
+      "features": [
+        {
+          "title": "Hydraulic Road Blockers",
+          "description": "Vehicle-rated hydraulic road blockers to IWA-14 and PAS 68 standards — with below-ground hydraulic power unit, manual override, and fail-safe operation during power loss."
+        },
+        {
+          "title": "Automatic Barriers",
+          "description": "High-cycle automatic boom barriers for car parks, loading bays, and controlled access roads — with ANPR integration, loop detector triggering, and remote management."
+        },
+        {
+          "title": "Bollards (Fixed & Retractable)",
+          "description": "Fixed security bollards for permanent perimeter hardening and electromechanical or hydraulic retractable bollards for controlled vehicle access points."
+        },
+        {
+          "title": "Turnstiles",
+          "description": "Full-height and tripod turnstiles for pedestrian access control — with biometric, RFID, and QR code reader integration and bidirectional anti-tailgating logic."
+        },
+        {
+          "title": "Sliding & Swing Security Gates",
+          "description": "Heavy-duty motorised sliding and swing gates with magnetic locks, hydraulic or electromechanical drive units, and safety edge and interlock control systems."
+        },
+        {
+          "title": "Integrated Access & ANPR",
+          "description": "Full integration of perimeter hardware with ANPR, access control panels, and PSIM platforms — enabling automated vehicle processing and centralised operator override."
+        }
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Threat & Risk Assessment",
+          "description": "Assess the threat profile, specify the required vehicle impact rating, and define the perimeter access control philosophy."
+        },
+        {
+          "step": "02",
+          "title": "Engineering Design",
+          "description": "Civil foundation design, electrical power supply layout, control system architecture, and integration interface specification."
+        },
+        {
+          "step": "03",
+          "title": "Civil & Mechanical Installation",
+          "description": "Foundation preparation, equipment installation, hydraulic and electrical connections with progressive inspection records."
+        },
+        {
+          "step": "04",
+          "title": "FAT, SAT & Commissioning",
+          "description": "Factory acceptance testing, site acceptance testing, operator training, and commissioning certificate issue."
+        }
+      ]
+    },
+    "originalData": {
+      "id": "gate-perimeter-security",
+      "title": "Gate Automation & Perimeter Security",
+      "tagline": "Controlled entry. Impenetrable perimeters.",
+      "description": "Vehicle and pedestrian access control systems for critical infrastructure — road blockers, barriers, bollards, turnstiles, and security gates.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1400&q=80",
+      "heroStat": {
+        "value": "IWA-14",
+        "label": "Crash Rated"
+      },
+      "gradient": "linear-gradient(135deg, #6366F1, #EF4444)",
+      "icon": "building",
+      "outcomes": [
+        "Vehicle-rated perimeter protection to IWA-14 standards",
+        "Automated access control integrated with ANPR and security systems",
+        "Reduced security officer workload through intelligent automation",
+        "Certified installation with manufacturer warranty"
+      ],
+      "deliverables": [
+        "Perimeter Security Design Package",
+        "Civil Engineering Drawings",
+        "Electrical & Control Wiring Diagrams",
+        "ANPR Integration Configuration",
+        "FAT & SAT Test Records",
+        "O&M Manual"
+      ],
+      "compliance": [
+        "IWA-14",
+        "PAS 68",
+        "EN 13241",
+        "IEC 60204"
+      ],
+      "longDescription": [
+        "Perimeter security is the first physical barrier between a protected facility and an unauthorised or hostile vehicle. For government compounds, military installations, embassies, energy infrastructure, and critical facilities, the consequences of perimeter failure are catastrophic. Akamco designs and installs certified vehicle and pedestrian access control systems — from hydraulic road blockers to biometric turnstiles — that operate reliably under continuous operational conditions.",
+        "Our perimeter product range covers hydraulic road blockers rated to IWA-14 and PAS 68 vehicle impact standards; automatic barriers and retractable bollards for traffic management; full-height and half-height turnstiles for pedestrian access control; and sliding and swing security gates with electromagnetic locking and interlock control logic. All systems are integrated with ANPR, access control, and video surveillance at the operator console.",
+        "Civil and electrical coordination is managed in-house — our teams design the foundation works, conduit routes, and power supply circuits in parallel with the above-ground equipment design, reducing coordination risk and construction programme delays."
+      ],
+      "features": [
+        {
+          "title": "Hydraulic Road Blockers",
+          "description": "Vehicle-rated hydraulic road blockers to IWA-14 and PAS 68 standards — with below-ground hydraulic power unit, manual override, and fail-safe operation during power loss."
+        },
+        {
+          "title": "Automatic Barriers",
+          "description": "High-cycle automatic boom barriers for car parks, loading bays, and controlled access roads — with ANPR integration, loop detector triggering, and remote management."
+        },
+        {
+          "title": "Bollards (Fixed & Retractable)",
+          "description": "Fixed security bollards for permanent perimeter hardening and electromechanical or hydraulic retractable bollards for controlled vehicle access points."
+        },
+        {
+          "title": "Turnstiles",
+          "description": "Full-height and tripod turnstiles for pedestrian access control — with biometric, RFID, and QR code reader integration and bidirectional anti-tailgating logic."
+        },
+        {
+          "title": "Sliding & Swing Security Gates",
+          "description": "Heavy-duty motorised sliding and swing gates with magnetic locks, hydraulic or electromechanical drive units, and safety edge and interlock control systems."
+        },
+        {
+          "title": "Integrated Access & ANPR",
+          "description": "Full integration of perimeter hardware with ANPR, access control panels, and PSIM platforms — enabling automated vehicle processing and centralised operator override."
+        }
+      ],
+      "forWhom": [
+        "Government compounds, ministries, and embassies",
+        "Military and defence facilities",
+        "Energy and utility infrastructure operators",
+        "Airports, ports, and critical logistics hubs"
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Threat & Risk Assessment",
+          "description": "Assess the threat profile, specify the required vehicle impact rating, and define the perimeter access control philosophy."
+        },
+        {
+          "step": "02",
+          "title": "Engineering Design",
+          "description": "Civil foundation design, electrical power supply layout, control system architecture, and integration interface specification."
+        },
+        {
+          "step": "03",
+          "title": "Civil & Mechanical Installation",
+          "description": "Foundation preparation, equipment installation, hydraulic and electrical connections with progressive inspection records."
+        },
+        {
+          "step": "04",
+          "title": "FAT, SAT & Commissioning",
+          "description": "Factory acceptance testing, site acceptance testing, operator training, and commissioning certificate issue."
+        }
+      ]
+    },
+    "id": "mm3dzpedf4slc4g",
+    "submittedAt": "2026-02-26T11:35:20.917Z",
+    "status": "approved",
+    "reviewedBy": "admin0",
+    "reviewedAt": "2026-02-26T11:41:43.292Z"
+  },
+  {
+    "resource": "solution",
+    "action": "update",
+    "resourceId": "av-systems",
+    "resourceTitle": "AV Systems — Video Walls & LED Screens",
+    "submittedBy": "bawan",
+    "payload": {
+      "id": "av-systems",
+      "title": "AV Systems — Video Walls & LED Screens",
+      "tagline": "High-impact visual communication that commands attention.",
+      "description": "High-impact AV systems for corporate and commercial environments — indoor and outdoor LED, LCD video walls, digital signage, and conference room AV.",
+      "image": "/uploads/solutions/1772106089348-8yu4ce2poki.jpg",
+      "heroStat": {
+        "value": "200+",
+        "label": "Installations Delivered"
+      },
+      "gradient": "linear-gradient(135deg, #F59E0B, #6366F1)",
+      "icon": "tv",
+      "outcomes": [
+        "Visually striking displays that enhance brand and communication",
+        "Reliable, high-brightness content across all environments",
+        "Centralised content management and scheduling",
+        "Professional installation with full technical support"
+      ],
+      "deliverables": [
+        "AV System Design Package",
+        "LED/LCD Specification & Layout",
+        "Signal Distribution Architecture",
+        "CMS Configuration Guide",
+        "Commissioning & Test Records",
+        "Maintenance Schedule"
+      ],
+      "compliance": [
+        "CE / FCC",
+        "UL 48",
+        "IP Rating Standards"
+      ],
+      "forWhom": [
+        "Corporate headquarters and smart office environments",
+        "Retail malls and commercial real estate operators",
+        "Hotels, hospitality venues, and entertainment facilities",
+        "Government meeting rooms and briefing centres"
+      ],
+      "longDescription": [
+        "Visual communication technology has transformed the way organisations engage employees, customers, and the public. Akamco designs and installs AV systems that make that technology work reliably — from a single conference room display to a multi-screen outdoor LED billboard visible from 200 metres.",
+        "Our AV scope covers indoor fine-pitch LED video walls for lobbies, boardrooms, and trading floors; outdoor LED screens rated to IP65 for advertising and wayfinding; LCD display walls for control rooms and monitoring environments; digital signage networks with centralised content management; and integrated conference room AV including interactive displays, video conferencing, and wireless presentation systems.",
+        "We manage every aspect of the installation: structural support design for large-format displays, signal distribution planning, content management system configuration, and ongoing technical support — so the technology performs as impressively on day 1,000 as it does on day one."
+      ],
+      "features": [
+        {
+          "title": "Indoor & Outdoor LED Screens",
+          "description": "Fine-pitch indoor LED panels for boardrooms, lobbies, and control rooms — and weatherproof outdoor LED screens to IP65 for advertising, wayfinding, and event applications."
+        },
+        {
+          "title": "LCD Video Walls",
+          "description": "Narrow-bezel LCD video wall systems for 24/7 operations environments — with redundant display controllers, thermal management, and centralised monitoring of display health."
+        },
+        {
+          "title": "Digital Signage",
+          "description": "Networked digital signage with centralised content management — scheduling, zone-based content distribution, emergency override, and real-time data integration."
+        },
+        {
+          "title": "Conference Room AV Solutions",
+          "description": "Integrated conference room AV covering interactive displays, soundbar and ceiling speaker audio, video conferencing cameras, and wireless presentation systems — tuned for optimal image and audio quality."
+        }
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Requirements & Site Survey",
+          "description": "Define viewing distances, ambient light conditions, content requirements, and structural constraints to specify the right display technology."
+        },
+        {
+          "step": "02",
+          "title": "Design & Engineering",
+          "description": "Produce AV signal flow diagrams, structural mounting details, power supply layout, and content management architecture."
+        },
+        {
+          "step": "03",
+          "title": "Installation & Integration",
+          "description": "Mount displays, install signal distribution infrastructure, configure content management system, and integrate with building management systems."
+        },
+        {
+          "step": "04",
+          "title": "Commissioning & Training",
+          "description": "Image calibration, audio optimisation, content management system training, and long-term maintenance agreement options."
+        }
+      ]
+    },
+    "originalData": {
+      "id": "av-systems",
+      "title": "AV Systems — Video Walls & LED Screens",
+      "tagline": "High-impact visual communication that commands attention.",
+      "description": "High-impact AV systems for corporate and commercial environments — indoor and outdoor LED, LCD video walls, digital signage, and conference room AV.",
+      "image": "https://images.unsplash.com/photo-1576267423445-b2e0074d68a4?auto=format&fit=crop&w=1400&q=80",
+      "heroStat": {
+        "value": "200+",
+        "label": "Installations Delivered"
+      },
+      "gradient": "linear-gradient(135deg, #F59E0B, #6366F1)",
+      "icon": "tv",
+      "outcomes": [
+        "Visually striking displays that enhance brand and communication",
+        "Reliable, high-brightness content across all environments",
+        "Centralised content management and scheduling",
+        "Professional installation with full technical support"
+      ],
+      "deliverables": [
+        "AV System Design Package",
+        "LED/LCD Specification & Layout",
+        "Signal Distribution Architecture",
+        "CMS Configuration Guide",
+        "Commissioning & Test Records",
+        "Maintenance Schedule"
+      ],
+      "compliance": [
+        "CE / FCC",
+        "UL 48",
+        "IP Rating Standards"
+      ],
+      "longDescription": [
+        "Visual communication technology has transformed the way organisations engage employees, customers, and the public. Akamco designs and installs AV systems that make that technology work reliably — from a single conference room display to a multi-screen outdoor LED billboard visible from 200 metres.",
+        "Our AV scope covers indoor fine-pitch LED video walls for lobbies, boardrooms, and trading floors; outdoor LED screens rated to IP65 for advertising and wayfinding; LCD display walls for control rooms and monitoring environments; digital signage networks with centralised content management; and integrated conference room AV including interactive displays, video conferencing, and wireless presentation systems.",
+        "We manage every aspect of the installation: structural support design for large-format displays, signal distribution planning, content management system configuration, and ongoing technical support — so the technology performs as impressively on day 1,000 as it does on day one."
+      ],
+      "features": [
+        {
+          "title": "Indoor & Outdoor LED Screens",
+          "description": "Fine-pitch indoor LED panels for boardrooms, lobbies, and control rooms — and weatherproof outdoor LED screens to IP65 for advertising, wayfinding, and event applications."
+        },
+        {
+          "title": "LCD Video Walls",
+          "description": "Narrow-bezel LCD video wall systems for 24/7 operations environments — with redundant display controllers, thermal management, and centralised monitoring of display health."
+        },
+        {
+          "title": "Digital Signage",
+          "description": "Networked digital signage with centralised content management — scheduling, zone-based content distribution, emergency override, and real-time data integration."
+        },
+        {
+          "title": "Conference Room AV Solutions",
+          "description": "Integrated conference room AV covering interactive displays, soundbar and ceiling speaker audio, video conferencing cameras, and wireless presentation systems — tuned for optimal image and audio quality."
+        }
+      ],
+      "forWhom": [
+        "Corporate headquarters and smart office environments",
+        "Retail malls and commercial real estate operators",
+        "Hotels, hospitality venues, and entertainment facilities",
+        "Government meeting rooms and briefing centres"
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Requirements & Site Survey",
+          "description": "Define viewing distances, ambient light conditions, content requirements, and structural constraints to specify the right display technology."
+        },
+        {
+          "step": "02",
+          "title": "Design & Engineering",
+          "description": "Produce AV signal flow diagrams, structural mounting details, power supply layout, and content management architecture."
+        },
+        {
+          "step": "03",
+          "title": "Installation & Integration",
+          "description": "Mount displays, install signal distribution infrastructure, configure content management system, and integrate with building management systems."
+        },
+        {
+          "step": "04",
+          "title": "Commissioning & Training",
+          "description": "Image calibration, audio optimisation, content management system training, and long-term maintenance agreement options."
+        }
+      ]
+    },
+    "id": "mm3e7n0ehh26l7r",
+    "submittedAt": "2026-02-26T11:41:31.070Z",
+    "status": "approved",
+    "reviewedBy": "admin0",
+    "reviewedAt": "2026-02-26T11:41:42.166Z"
+  },
+  {
+    "resource": "solution",
+    "action": "update",
+    "resourceId": "control-room-command",
+    "resourceTitle": "Control Room & Command Center Solutions",
+    "submittedBy": "bawan",
+    "payload": {
+      "id": "control-room-command",
+      "title": "Control Room & Command Center Solutions",
+      "tagline": "Mission-critical visibility. Decisive command.",
+      "description": "Mission-critical centralised monitoring environments — video walls, operator consoles, KVM, and SOC/NOC design.",
+      "image": "/uploads/solutions/1772106176089-vgars303l5e.jpg",
+      "heroStat": {
+        "value": "24/7",
+        "label": "Operational Uptime"
+      },
+      "gradient": "linear-gradient(135deg, #0EA5E9, #6366F1)",
+      "icon": "monitor",
+      "outcomes": [
+        "Unified operational picture across all monitored systems",
+        "Ergonomic operator environment designed for sustained attention",
+        "Redundant, enterprise-grade AV and KVM infrastructure",
+        "Certified design aligned with control room standards"
+      ],
+      "deliverables": [
+        "Control Room Design Package",
+        "Video Wall System Documentation",
+        "Operator Console Layout",
+        "KVM & Signal Matrix Configuration",
+        "SOC/NOC Workflow Design",
+        "As-Built & O&M Documentation"
+      ],
+      "compliance": [
+        "ISO 11064",
+        "EN 50132",
+        "TIA-942"
+      ],
+      "forWhom": [
+        "Government security and emergency management agencies",
+        "Critical infrastructure operators with centralised NOC/SOC",
+        "Smart city and traffic management command centres",
+        "Utility and energy operations control rooms"
+      ],
+      "longDescription": [
+        "A control room is the nerve centre of any large-scale monitoring and management operation — and the quality of its design directly determines the quality of operator decision-making under pressure. Akamco designs and builds control rooms and command centres that combine ergonomic workstation environments, high-performance video wall technology, and resilient signal distribution infrastructure.",
+        "We design the complete physical environment: video wall systems using LED or LCD display technology, operator console furniture to ISO 11064 ergonomic standards, KVM and signal distribution matrices for managing multiple sources across multiple workstations, and IP-based AV over fibre infrastructures that scale to any room size or source count.",
+        "For security operations centres (SOC) and network operations centres (NOC), we layer the technology design with workflow consulting — defining alarm management procedures, escalation paths, and shift handover processes that make the technology investment genuinely effective."
+      ],
+      "features": [
+        {
+          "title": "Video Wall Systems",
+          "description": "LED fine-pitch and LCD video wall design and installation — from 2×2 meeting room screens to full 20-metre command centre displays, with redundant processing and content management software."
+        },
+        {
+          "title": "Operator Consoles",
+          "description": "Ergonomic operator console furniture to ISO 11064 — height-adjustable, cable-managed, and configured for multi-monitor layouts, with integrated power and data management."
+        },
+        {
+          "title": "KVM & Signal Distribution",
+          "description": "IP KVM and signal matrix systems enabling any workstation to access any source — with latency-free switching, redundant network paths, and secure multi-user access control."
+        },
+        {
+          "title": "SOC & NOC Design",
+          "description": "Security and network operations centre design covering alarm management workflow, tooling integration design, shift scheduling support, and SOC playbook development."
+        }
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Operational Requirements Analysis",
+          "description": "Define operator roles, source counts, display requirements, and workflow needs to drive the room and technology design."
+        },
+        {
+          "step": "02",
+          "title": "Design & Visualisation",
+          "description": "Produce 3D room visualisation, AV signal flow diagrams, KVM architecture, and ergonomic console layout for client review."
+        },
+        {
+          "step": "03",
+          "title": "Integration & Installation",
+          "description": "Install video wall and display systems, operator consoles, KVM and signal distribution, and all AV-over-IP infrastructure."
+        },
+        {
+          "step": "04",
+          "title": "Commissioning & Training",
+          "description": "Full system commissioning, operator training, and procedure documentation — followed by hypercare support for the first operational period."
+        }
+      ]
+    },
+    "originalData": {
+      "id": "control-room-command",
+      "title": "Control Room & Command Center Solutions",
+      "tagline": "Mission-critical visibility. Decisive command.",
+      "description": "Mission-critical centralised monitoring environments — video walls, operator consoles, KVM, and SOC/NOC design.",
+      "image": "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?auto=format&fit=crop&w=1400&q=80",
+      "heroStat": {
+        "value": "24/7",
+        "label": "Operational Uptime"
+      },
+      "gradient": "linear-gradient(135deg, #0EA5E9, #6366F1)",
+      "icon": "monitor",
+      "outcomes": [
+        "Unified operational picture across all monitored systems",
+        "Ergonomic operator environment designed for sustained attention",
+        "Redundant, enterprise-grade AV and KVM infrastructure",
+        "Certified design aligned with control room standards"
+      ],
+      "deliverables": [
+        "Control Room Design Package",
+        "Video Wall System Documentation",
+        "Operator Console Layout",
+        "KVM & Signal Matrix Configuration",
+        "SOC/NOC Workflow Design",
+        "As-Built & O&M Documentation"
+      ],
+      "compliance": [
+        "ISO 11064",
+        "EN 50132",
+        "TIA-942"
+      ],
+      "longDescription": [
+        "A control room is the nerve centre of any large-scale monitoring and management operation — and the quality of its design directly determines the quality of operator decision-making under pressure. Akamco designs and builds control rooms and command centres that combine ergonomic workstation environments, high-performance video wall technology, and resilient signal distribution infrastructure.",
+        "We design the complete physical environment: video wall systems using LED or LCD display technology, operator console furniture to ISO 11064 ergonomic standards, KVM and signal distribution matrices for managing multiple sources across multiple workstations, and IP-based AV over fibre infrastructures that scale to any room size or source count.",
+        "For security operations centres (SOC) and network operations centres (NOC), we layer the technology design with workflow consulting — defining alarm management procedures, escalation paths, and shift handover processes that make the technology investment genuinely effective."
+      ],
+      "features": [
+        {
+          "title": "Video Wall Systems",
+          "description": "LED fine-pitch and LCD video wall design and installation — from 2×2 meeting room screens to full 20-metre command centre displays, with redundant processing and content management software."
+        },
+        {
+          "title": "Operator Consoles",
+          "description": "Ergonomic operator console furniture to ISO 11064 — height-adjustable, cable-managed, and configured for multi-monitor layouts, with integrated power and data management."
+        },
+        {
+          "title": "KVM & Signal Distribution",
+          "description": "IP KVM and signal matrix systems enabling any workstation to access any source — with latency-free switching, redundant network paths, and secure multi-user access control."
+        },
+        {
+          "title": "SOC & NOC Design",
+          "description": "Security and network operations centre design covering alarm management workflow, tooling integration design, shift scheduling support, and SOC playbook development."
+        }
+      ],
+      "forWhom": [
+        "Government security and emergency management agencies",
+        "Critical infrastructure operators with centralised NOC/SOC",
+        "Smart city and traffic management command centres",
+        "Utility and energy operations control rooms"
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Operational Requirements Analysis",
+          "description": "Define operator roles, source counts, display requirements, and workflow needs to drive the room and technology design."
+        },
+        {
+          "step": "02",
+          "title": "Design & Visualisation",
+          "description": "Produce 3D room visualisation, AV signal flow diagrams, KVM architecture, and ergonomic console layout for client review."
+        },
+        {
+          "step": "03",
+          "title": "Integration & Installation",
+          "description": "Install video wall and display systems, operator consoles, KVM and signal distribution, and all AV-over-IP infrastructure."
+        },
+        {
+          "step": "04",
+          "title": "Commissioning & Training",
+          "description": "Full system commissioning, operator training, and procedure documentation — followed by hypercare support for the first operational period."
+        }
+      ]
+    },
+    "id": "mm3e9hd67cdho93",
+    "submittedAt": "2026-02-26T11:42:57.066Z",
+    "status": "approved",
+    "reviewedBy": "admin0",
+    "reviewedAt": "2026-02-26T11:52:08.954Z"
+  },
+  {
+    "resource": "solution",
+    "action": "update",
+    "resourceId": "software-licensing",
+    "resourceTitle": "Software Licensing Solutions",
+    "submittedBy": "bawan",
+    "payload": {
+      "id": "software-licensing",
+      "title": "Software Licensing Solutions",
+      "tagline": "Authorised licensing. Optimised spend. Zero compliance risk.",
+      "description": "Authorised enterprise software licensing and subscription management — ensuring compliance and cost optimisation.",
+      "image": "/uploads/solutions/1772106371041-od90ov1x3g8.jpg",
+      "heroStat": {
+        "value": "100%",
+        "label": "Licence Compliance"
+      },
+      "gradient": "linear-gradient(135deg, #0EA5E9, #6366F1)",
+      "icon": "cloud",
+      "outcomes": [
+        "Full licence compliance eliminating audit risk",
+        "Optimised spend through right-sizing and true-up management",
+        "Centralised licence inventory with renewal visibility",
+        "Authorised software through certified reseller channels"
+      ],
+      "deliverables": [
+        "Software Asset Inventory",
+        "Licence Compliance Assessment",
+        "Procurement & Order Documentation",
+        "Subscription Management Plan",
+        "Renewal Calendar & Alerts",
+        "Vendor Agreement Summary"
+      ],
+      "compliance": [
+        "ISO 19770 SAM",
+        "GDPR",
+        "Vendor Authorised Reseller"
+      ],
+      "forWhom": [
+        "Enterprises managing large Microsoft or VMware estates",
+        "Government entities with strict procurement compliance",
+        "Organisations preparing for or responding to licence audits",
+        "IT managers seeking to consolidate vendor agreements"
+      ],
+      "longDescription": [
+        "Software licence non-compliance is a risk that organisations often underestimate — until an audit triggers a six-figure true-up demand or a legal challenge. Akamco manages the full software licensing lifecycle, from initial procurement through renewal, ensuring that every seat, every server, and every cloud workload is covered by a current, properly activated entitlement.",
+        "As an authorised reseller for Microsoft, VMware, Symantec, Trend Micro, and other leading vendors, we procure software through legitimate channels with full licence keys, activation rights, and vendor support entitlements. We also manage subscription renewals, volume agreement optimisation, and true-up planning — reducing the total cost of software ownership over the licence lifecycle.",
+        "For organisations without a formal software asset management (SAM) practice, we conduct a comprehensive discovery and compliance assessment, identify gaps, and build the licence inventory database and renewal processes needed to maintain compliance going forward."
+      ],
+      "features": [
+        {
+          "title": "Microsoft 365 & Cloud Licensing",
+          "description": "Microsoft 365 business and enterprise subscription procurement, licence assignment management, and optimisation of SKU mix based on actual feature usage."
+        },
+        {
+          "title": "Server & Datacenter Licensing",
+          "description": "Windows Server, SQL Server, and datacenter licensing under Open, EA, and SPLA agreements — with core-based, CAL, and virtual machine entitlement management."
+        },
+        {
+          "title": "Cybersecurity Software Licensing",
+          "description": "Procurement and licence management for endpoint protection, SIEM, vulnerability management, and firewall management platforms from authorised vendor channels."
+        },
+        {
+          "title": "Virtualisation Licensing",
+          "description": "VMware vSphere, vSAN, Horizon, and NSX licensing — including migration planning from perpetual to subscription models and entitlement compliance verification."
+        },
+        {
+          "title": "Subscription & Renewal Management",
+          "description": "Centralised tracking of all software subscriptions with automated renewal reminders, true-up planning, and contract consolidation to simplify vendor management."
+        }
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Asset Discovery & Inventory",
+          "description": "Automated discovery of all installed software, cloud subscriptions, and active licence entitlements to build a complete asset inventory."
+        },
+        {
+          "step": "02",
+          "title": "Compliance Assessment",
+          "description": "Compare deployed installations against licence entitlements to identify over-deployment, under-utilisation, and compliance gaps."
+        },
+        {
+          "step": "03",
+          "title": "Procurement & Optimisation",
+          "description": "Procure required licences through authorised channels, right-size subscription volumes, and consolidate agreements where possible."
+        },
+        {
+          "step": "04",
+          "title": "Ongoing Management",
+          "description": "Maintain the licence database, manage renewals, conduct periodic true-up reviews, and provide compliance reporting to management."
+        }
+      ]
+    },
+    "originalData": {
+      "id": "software-licensing",
+      "title": "Software Licensing Solutions",
+      "tagline": "Authorised licensing. Optimised spend. Zero compliance risk.",
+      "description": "Authorised enterprise software licensing and subscription management — ensuring compliance and cost optimisation.",
+      "image": "https://images.unsplash.com/photo-1581091215367-9b6c00b3035a?auto=format&fit=crop&w=1400&q=80",
+      "heroStat": {
+        "value": "100%",
+        "label": "Licence Compliance"
+      },
+      "gradient": "linear-gradient(135deg, #0EA5E9, #6366F1)",
+      "icon": "cloud",
+      "outcomes": [
+        "Full licence compliance eliminating audit risk",
+        "Optimised spend through right-sizing and true-up management",
+        "Centralised licence inventory with renewal visibility",
+        "Authorised software through certified reseller channels"
+      ],
+      "deliverables": [
+        "Software Asset Inventory",
+        "Licence Compliance Assessment",
+        "Procurement & Order Documentation",
+        "Subscription Management Plan",
+        "Renewal Calendar & Alerts",
+        "Vendor Agreement Summary"
+      ],
+      "compliance": [
+        "ISO 19770 SAM",
+        "GDPR",
+        "Vendor Authorised Reseller"
+      ],
+      "longDescription": [
+        "Software licence non-compliance is a risk that organisations often underestimate — until an audit triggers a six-figure true-up demand or a legal challenge. Akamco manages the full software licensing lifecycle, from initial procurement through renewal, ensuring that every seat, every server, and every cloud workload is covered by a current, properly activated entitlement.",
+        "As an authorised reseller for Microsoft, VMware, Symantec, Trend Micro, and other leading vendors, we procure software through legitimate channels with full licence keys, activation rights, and vendor support entitlements. We also manage subscription renewals, volume agreement optimisation, and true-up planning — reducing the total cost of software ownership over the licence lifecycle.",
+        "For organisations without a formal software asset management (SAM) practice, we conduct a comprehensive discovery and compliance assessment, identify gaps, and build the licence inventory database and renewal processes needed to maintain compliance going forward."
+      ],
+      "features": [
+        {
+          "title": "Microsoft 365 & Cloud Licensing",
+          "description": "Microsoft 365 business and enterprise subscription procurement, licence assignment management, and optimisation of SKU mix based on actual feature usage."
+        },
+        {
+          "title": "Server & Datacenter Licensing",
+          "description": "Windows Server, SQL Server, and datacenter licensing under Open, EA, and SPLA agreements — with core-based, CAL, and virtual machine entitlement management."
+        },
+        {
+          "title": "Cybersecurity Software Licensing",
+          "description": "Procurement and licence management for endpoint protection, SIEM, vulnerability management, and firewall management platforms from authorised vendor channels."
+        },
+        {
+          "title": "Virtualisation Licensing",
+          "description": "VMware vSphere, vSAN, Horizon, and NSX licensing — including migration planning from perpetual to subscription models and entitlement compliance verification."
+        },
+        {
+          "title": "Subscription & Renewal Management",
+          "description": "Centralised tracking of all software subscriptions with automated renewal reminders, true-up planning, and contract consolidation to simplify vendor management."
+        }
+      ],
+      "forWhom": [
+        "Enterprises managing large Microsoft or VMware estates",
+        "Government entities with strict procurement compliance",
+        "Organisations preparing for or responding to licence audits",
+        "IT managers seeking to consolidate vendor agreements"
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Asset Discovery & Inventory",
+          "description": "Automated discovery of all installed software, cloud subscriptions, and active licence entitlements to build a complete asset inventory."
+        },
+        {
+          "step": "02",
+          "title": "Compliance Assessment",
+          "description": "Compare deployed installations against licence entitlements to identify over-deployment, under-utilisation, and compliance gaps."
+        },
+        {
+          "step": "03",
+          "title": "Procurement & Optimisation",
+          "description": "Procure required licences through authorised channels, right-size subscription volumes, and consolidate agreements where possible."
+        },
+        {
+          "step": "04",
+          "title": "Ongoing Management",
+          "description": "Maintain the licence database, manage renewals, conduct periodic true-up reviews, and provide compliance reporting to management."
+        }
+      ]
+    },
+    "id": "mm3ednrqsj3p61z",
+    "submittedAt": "2026-02-26T11:46:11.990Z",
+    "status": "approved",
+    "reviewedBy": "admin0",
+    "reviewedAt": "2026-02-26T11:52:08.213Z"
+  },
+  {
+    "resource": "solution",
+    "action": "update",
+    "resourceId": "ups-critical-power",
+    "resourceTitle": "UPS & Critical Power Solutions",
+    "submittedBy": "bawan",
+    "payload": {
+      "id": "ups-critical-power",
+      "title": "UPS & Critical Power Solutions",
+      "tagline": "Uninterrupted power for mission-critical infrastructure.",
+      "description": "Reliable UPS and critical power protection solutions for mission-critical infrastructure — from modular datacenter UPS to industrial power distribution.",
+      "image": "/uploads/solutions/1772106817683-1mhixam1n8a.jpg",
+      "heroStat": {
+        "value": "99.999%",
+        "label": "Power Availability"
+      },
+      "gradient": "linear-gradient(135deg, #6366F1, #00C46A)",
+      "icon": "zap",
+      "outcomes": [
+        "Continuous clean power to every critical load",
+        "N+1 or 2N redundancy eliminating single points of failure",
+        "Predictive battery management preventing unexpected failures",
+        "Real-time power monitoring with remote management capability"
+      ],
+      "deliverables": [
+        "Critical Power Architecture Design",
+        "UPS Sizing Calculations",
+        "Single-Line Electrical Diagrams",
+        "Battery Autonomy Modelling Report",
+        "Load Bank Test Records",
+        "Power Monitoring Dashboard"
+      ],
+      "compliance": [
+        "IEC 62040",
+        "IEEE 1100",
+        "IEC 60896",
+        "TIA-942 Power Tier"
+      ],
+      "forWhom": [
+        "Datacenters and server room operators",
+        "Hospitals and critical healthcare facilities",
+        "Industrial plants with sensitive automation equipment",
+        "Government buildings and telecommunications facilities"
+      ],
+      "longDescription": [
+        "Power failure is not just an inconvenience — for datacenters, hospitals, industrial control systems, and government facilities, it is a catastrophic event with financial, operational, and potentially life-safety consequences. Akamco designs and delivers critical power solutions that eliminate single points of failure and keep sensitive equipment powered through any grid disturbance.",
+        "Our UPS scope covers online double-conversion UPS from 1 kVA single-phase units through multi-megawatt modular three-phase systems — with N+1 and 2N redundancy configurations, static transfer switches, and automatic bypass. We work with APC by Schneider Electric, Eaton, Vertiv, and Socomec — selecting the platform that best matches your availability requirement and total cost of ownership.",
+        "Beyond UPS, we design and install the full critical power distribution chain: power distribution units with outlet-level metering, busbar and cable distribution systems, transfer switches, and power quality analysers. Every installation is validated with a resistive load bank test before live loads are connected."
+      ],
+      "features": [
+        {
+          "title": "Online Double Conversion UPS",
+          "description": "Online double-conversion UPS systems providing complete isolation from grid-borne disturbances — with unity power factor output, wide input voltage window, and SNMP/remote monitoring capability."
+        },
+        {
+          "title": "Modular UPS Systems",
+          "description": "Scalable modular UPS architecture allowing capacity to be added in increments without downtime — with N+1 redundancy at the module level and concurrent maintainability."
+        },
+        {
+          "title": "Industrial UPS",
+          "description": "Ruggedised UPS systems for industrial, outdoor, and wide-temperature environments — protecting PLCs, SCADA systems, and communications equipment in harsh conditions."
+        },
+        {
+          "title": "Battery Banks",
+          "description": "VRLA, Li-ion, and NiCd battery bank design and installation with thermal management — including battery management system configuration for state-of-health monitoring and autonomy calculation."
+        },
+        {
+          "title": "Power Distribution Units",
+          "description": "Managed and metered rack PDUs providing outlet-level power monitoring, remote switching, and overload protection — with 0U and horizontal form factors for all rack configurations."
+        },
+        {
+          "title": "Power Monitoring Systems",
+          "description": "Real-time power quality and energy management platforms monitoring voltage, current, harmonics, and power factor — with alarm management and trend reporting for proactive intervention."
+        }
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Load Assessment & Sizing",
+          "description": "Calculate critical and non-critical loads, determine UPS topology and redundancy level, and model battery autonomy for required runtime."
+        },
+        {
+          "step": "02",
+          "title": "Engineering Design",
+          "description": "Single-line diagrams, cable schedules, UPS room layout, and load bank test procedure submitted for client review and approval."
+        },
+        {
+          "step": "03",
+          "title": "Installation & Commissioning",
+          "description": "Professional installation, UPS configuration, battery string testing, and full-load load bank test to verify performance before handover."
+        },
+        {
+          "step": "04",
+          "title": "Monitoring & Maintenance",
+          "description": "Remote monitoring integration, preventive maintenance programme, battery replacement planning, and emergency response under AMC."
+        }
+      ]
+    },
+    "originalData": {
+      "id": "ups-critical-power",
+      "title": "UPS & Critical Power Solutions",
+      "tagline": "Uninterrupted power for mission-critical infrastructure.",
+      "description": "Reliable UPS and critical power protection solutions for mission-critical infrastructure — from modular datacenter UPS to industrial power distribution.",
+      "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?auto=format&fit=crop&w=1400&q=80",
+      "heroStat": {
+        "value": "99.999%",
+        "label": "Power Availability"
+      },
+      "gradient": "linear-gradient(135deg, #6366F1, #00C46A)",
+      "icon": "zap",
+      "outcomes": [
+        "Continuous clean power to every critical load",
+        "N+1 or 2N redundancy eliminating single points of failure",
+        "Predictive battery management preventing unexpected failures",
+        "Real-time power monitoring with remote management capability"
+      ],
+      "deliverables": [
+        "Critical Power Architecture Design",
+        "UPS Sizing Calculations",
+        "Single-Line Electrical Diagrams",
+        "Battery Autonomy Modelling Report",
+        "Load Bank Test Records",
+        "Power Monitoring Dashboard"
+      ],
+      "compliance": [
+        "IEC 62040",
+        "IEEE 1100",
+        "IEC 60896",
+        "TIA-942 Power Tier"
+      ],
+      "longDescription": [
+        "Power failure is not just an inconvenience — for datacenters, hospitals, industrial control systems, and government facilities, it is a catastrophic event with financial, operational, and potentially life-safety consequences. Akamco designs and delivers critical power solutions that eliminate single points of failure and keep sensitive equipment powered through any grid disturbance.",
+        "Our UPS scope covers online double-conversion UPS from 1 kVA single-phase units through multi-megawatt modular three-phase systems — with N+1 and 2N redundancy configurations, static transfer switches, and automatic bypass. We work with APC by Schneider Electric, Eaton, Vertiv, and Socomec — selecting the platform that best matches your availability requirement and total cost of ownership.",
+        "Beyond UPS, we design and install the full critical power distribution chain: power distribution units with outlet-level metering, busbar and cable distribution systems, transfer switches, and power quality analysers. Every installation is validated with a resistive load bank test before live loads are connected."
+      ],
+      "features": [
+        {
+          "title": "Online Double Conversion UPS",
+          "description": "Online double-conversion UPS systems providing complete isolation from grid-borne disturbances — with unity power factor output, wide input voltage window, and SNMP/remote monitoring capability."
+        },
+        {
+          "title": "Modular UPS Systems",
+          "description": "Scalable modular UPS architecture allowing capacity to be added in increments without downtime — with N+1 redundancy at the module level and concurrent maintainability."
+        },
+        {
+          "title": "Industrial UPS",
+          "description": "Ruggedised UPS systems for industrial, outdoor, and wide-temperature environments — protecting PLCs, SCADA systems, and communications equipment in harsh conditions."
+        },
+        {
+          "title": "Battery Banks",
+          "description": "VRLA, Li-ion, and NiCd battery bank design and installation with thermal management — including battery management system configuration for state-of-health monitoring and autonomy calculation."
+        },
+        {
+          "title": "Power Distribution Units",
+          "description": "Managed and metered rack PDUs providing outlet-level power monitoring, remote switching, and overload protection — with 0U and horizontal form factors for all rack configurations."
+        },
+        {
+          "title": "Power Monitoring Systems",
+          "description": "Real-time power quality and energy management platforms monitoring voltage, current, harmonics, and power factor — with alarm management and trend reporting for proactive intervention."
+        }
+      ],
+      "forWhom": [
+        "Datacenters and server room operators",
+        "Hospitals and critical healthcare facilities",
+        "Industrial plants with sensitive automation equipment",
+        "Government buildings and telecommunications facilities"
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Load Assessment & Sizing",
+          "description": "Calculate critical and non-critical loads, determine UPS topology and redundancy level, and model battery autonomy for required runtime."
+        },
+        {
+          "step": "02",
+          "title": "Engineering Design",
+          "description": "Single-line diagrams, cable schedules, UPS room layout, and load bank test procedure submitted for client review and approval."
+        },
+        {
+          "step": "03",
+          "title": "Installation & Commissioning",
+          "description": "Professional installation, UPS configuration, battery string testing, and full-load load bank test to verify performance before handover."
+        },
+        {
+          "step": "04",
+          "title": "Monitoring & Maintenance",
+          "description": "Remote monitoring integration, preventive maintenance programme, battery replacement planning, and emergency response under AMC."
+        }
+      ]
+    },
+    "id": "mm3en8vwwvx5ixa",
+    "submittedAt": "2026-02-26T11:53:39.260Z",
+    "status": "approved",
+    "reviewedBy": "admin0",
+    "reviewedAt": "2026-02-26T12:26:44.039Z"
+  }
+]
