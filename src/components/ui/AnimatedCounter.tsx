@@ -6,7 +6,7 @@ import { motion, useInView } from 'framer-motion';
 interface AnimatedCounterProps {
   value: number;
   suffix?: string;
-  label: string;
+  label?: string;
   duration?: number;
   variant?: 'light' | 'dark';
 }
